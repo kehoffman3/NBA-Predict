@@ -92,6 +92,17 @@ def makePastPredictions(startYear, startMonth, startDay, endYear, endMonth, endD
 # season(yyyy-yy), start date of season (mm/dd/yyyy), .csv filename for games with z score differences,
 # .csv filename for games with predictions
 # EDIT THIS
-makePastPredictions(2018, 12, 28, 2019, 1, 13, '2018-19', '10/16/2018',
-                    'gamesWithInfo.csv', 'predictions.csv')
-
+#makePastPredictions(2019, 10, 26, 2020, 4, 11, '2019-20', '10/22/2019',
+#                    'gamesWithInfo.csv', 'predictions.csv')
+#makePastPredictions(2020, 12, 28, 2021, 5, 16, '2020-21', '12/24/2020',
+#                    'gamesWithInfo2020-21.csv', 'predictions2020-21.csv')
+#makePastPredictions(2015, 10, 30, 2016, 4, 13, '2015-16', '10/27/2015',
+#                   'gamesWithInfo2015-16.csv', 'predictions2015-15.csv')
+#makePastPredictions(2014, 10, 31, 2015, 4, 15, '2014-15', '10/28/2014',
+#                   'gamesWithInfo2014-15.csv', 'predictions2014-15.csv')
+#makePastPredictions(2013, 11, 1, 2014, 4, 16, '2013-14', '10/29/2013',
+#                   'gamesWithInfo2013-14.csv', 'predictions2013-14.csv')
+#makePastPredictions(2012, 11, 5, 2013, 4, 17, '2012-13', '11/01/2012',
+#                   'gamesWithInfo2012-13.csv', 'predictions2012-13.csv')
+makePastPredictions(2011, 12, 28, 2012, 4, 26, '2011-12', '12/25/2011',
+                   'gamesWithInfo2011-12.csv', 'predictions2011-12.csv')

@@ -1,0 +1,947 @@
+,Date,Home,Away,Home Team Win Probability
+0,10/26/2019,San Antonio Spurs,Washington Wizards,0.7204495168937979
+1,10/26/2019,Chicago Bulls,Toronto Raptors,0.5809051214849569
+2,10/26/2019,New York Knicks,Boston Celtics,0.5948859105744946
+3,10/26/2019,Phoenix Suns,LA Clippers,0.46108300218684933
+4,10/26/2019,Cleveland Cavaliers,Indiana Pacers,0.5140005418270243
+5,10/26/2019,Houston Rockets,New Orleans Pelicans,0.5612790447724518
+6,10/26/2019,Detroit Pistons,Philadelphia 76ers,0.4798135585695691
+7,10/26/2019,Utah Jazz,Sacramento Kings,0.7095469794594643
+8,10/26/2019,Milwaukee Bucks,Miami Heat,0.480366336206606
+9,10/26/2019,Atlanta Hawks,Orlando Magic,0.6790848731501811
+10,10/27/2019,Los Angeles Lakers,Charlotte Hornets,0.5952387604426214
+11,10/27/2019,Dallas Mavericks,Portland Trail Blazers,0.6672637676357074
+12,10/27/2019,Minnesota Timberwolves,Miami Heat,0.5605517319837141
+13,10/27/2019,Memphis Grizzlies,Brooklyn Nets,0.38298823265530857
+14,10/27/2019,Oklahoma City Thunder,Golden State Warriors,0.6092633241277909
+15,10/28/2019,San Antonio Spurs,Portland Trail Blazers,0.6210093369784385
+16,10/28/2019,New York Knicks,Chicago Bulls,0.5450012100575821
+17,10/28/2019,Phoenix Suns,Utah Jazz,0.6008699284671345
+18,10/28/2019,LA Clippers,Charlotte Hornets,0.7904713801477872
+19,10/28/2019,Houston Rockets,Oklahoma City Thunder,0.5727875597491752
+20,10/28/2019,Detroit Pistons,Indiana Pacers,0.6886467210504422
+21,10/28/2019,Milwaukee Bucks,Cleveland Cavaliers,0.607449776872976
+22,10/28/2019,Atlanta Hawks,Philadelphia 76ers,0.6070991797236507
+23,10/28/2019,Sacramento Kings,Denver Nuggets,0.2777315211038265
+24,10/28/2019,Toronto Raptors,Orlando Magic,0.7059587894890489
+25,10/28/2019,New Orleans Pelicans,Golden State Warriors,0.736821741754644
+26,10/29/2019,Los Angeles Lakers,Memphis Grizzlies,0.737429498213054
+27,10/29/2019,Miami Heat,Atlanta Hawks,0.5934765551847804
+28,10/29/2019,Denver Nuggets,Dallas Mavericks,0.5882727735935747
+29,10/30/2019,Philadelphia 76ers,Minnesota Timberwolves,0.5651257599073964
+30,10/30/2019,Golden State Warriors,Phoenix Suns,0.36341317666209116
+31,10/30/2019,Boston Celtics,Milwaukee Bucks,0.5113135575988008
+32,10/30/2019,Brooklyn Nets,Indiana Pacers,0.7214402991485536
+33,10/30/2019,Orlando Magic,New York Knicks,0.6022439997605867
+34,10/30/2019,Cleveland Cavaliers,Chicago Bulls,0.611130954714638
+35,10/30/2019,Utah Jazz,LA Clippers,0.5095933030543414
+36,10/30/2019,Sacramento Kings,Charlotte Hornets,0.4598433819143783
+37,10/30/2019,Washington Wizards,Houston Rockets,0.5212637006705043
+38,10/30/2019,Toronto Raptors,Detroit Pistons,0.6683176236923715
+39,10/30/2019,Oklahoma City Thunder,Portland Trail Blazers,0.5421169107627756
+40,10/31/2019,LA Clippers,San Antonio Spurs,0.5887587823242448
+41,10/31/2019,Atlanta Hawks,Miami Heat,0.47134295754752653
+42,10/31/2019,New Orleans Pelicans,Denver Nuggets,0.449708824918157
+43,11/01/2019,Golden State Warriors,San Antonio Spurs,0.38325629994970295
+44,11/01/2019,Chicago Bulls,Detroit Pistons,0.4710572678533606
+45,11/01/2019,Brooklyn Nets,Houston Rockets,0.46646404608233183
+46,11/01/2019,Boston Celtics,New York Knicks,0.7608341181287842
+47,11/01/2019,Orlando Magic,Milwaukee Bucks,0.49952950618776615
+48,11/01/2019,Dallas Mavericks,Los Angeles Lakers,0.5323522756604018
+49,11/01/2019,Indiana Pacers,Cleveland Cavaliers,0.5357150288265718
+50,11/01/2019,Sacramento Kings,Utah Jazz,0.22585907386268264
+51,11/02/2019,Golden State Warriors,Charlotte Hornets,0.49224011523080474
+52,11/02/2019,Orlando Magic,Denver Nuggets,0.46923846195131313
+53,11/02/2019,Detroit Pistons,Brooklyn Nets,0.5390165085454769
+54,11/02/2019,Portland Trail Blazers,Philadelphia 76ers,0.4410739805530498
+55,11/02/2019,Milwaukee Bucks,Toronto Raptors,0.5279181299930419
+56,11/02/2019,Washington Wizards,Minnesota Timberwolves,0.5281736429388186
+57,11/02/2019,Memphis Grizzlies,Phoenix Suns,0.29189183856868023
+58,11/02/2019,Oklahoma City Thunder,New Orleans Pelicans,0.5565672738390729
+59,11/03/2019,San Antonio Spurs,Los Angeles Lakers,0.5312279136716407
+60,11/03/2019,New York Knicks,Sacramento Kings,0.6260823001871553
+61,11/03/2019,LA Clippers,Utah Jazz,0.5850375527411497
+62,11/03/2019,Cleveland Cavaliers,Dallas Mavericks,0.4954240473833501
+63,11/03/2019,Miami Heat,Houston Rockets,0.6978386028909701
+64,11/03/2019,Indiana Pacers,Chicago Bulls,0.6202124784077505
+65,11/04/2019,Golden State Warriors,Portland Trail Blazers,0.3762301217393928
+66,11/04/2019,Phoenix Suns,Philadelphia 76ers,0.563917118022581
+67,11/04/2019,Brooklyn Nets,New Orleans Pelicans,0.6393543366058964
+68,11/04/2019,Minnesota Timberwolves,Milwaukee Bucks,0.5819633303401315
+69,11/04/2019,Washington Wizards,Detroit Pistons,0.5392425084184761
+70,11/04/2019,Memphis Grizzlies,Houston Rockets,0.41175160151077567
+71,11/05/2019,Chicago Bulls,Los Angeles Lakers,0.31396255741620416
+72,11/05/2019,Cleveland Cavaliers,Boston Celtics,0.3973969528075287
+73,11/05/2019,Atlanta Hawks,San Antonio Spurs,0.49199134782040904
+74,11/05/2019,Denver Nuggets,Miami Heat,0.37603536097970885
+75,11/05/2019,Charlotte Hornets,Indiana Pacers,0.5384453425437153
+76,11/05/2019,Oklahoma City Thunder,Orlando Magic,0.702293576657389
+77,11/06/2019,LA Clippers,Milwaukee Bucks,0.5485010805956814
+78,11/06/2019,Houston Rockets,Golden State Warriors,0.6934790999453092
+79,11/06/2019,Detroit Pistons,New York Knicks,0.7228965692163902
+80,11/06/2019,Utah Jazz,Philadelphia 76ers,0.5366153987810577
+81,11/06/2019,Indiana Pacers,Washington Wizards,0.583499050594461
+82,11/06/2019,Dallas Mavericks,Orlando Magic,0.7997674337958635
+83,11/06/2019,Atlanta Hawks,Chicago Bulls,0.6947467350449096
+84,11/06/2019,Toronto Raptors,Sacramento Kings,0.8029059415258524
+85,11/06/2019,Memphis Grizzlies,Minnesota Timberwolves,0.3424325427550065
+86,11/07/2019,San Antonio Spurs,Oklahoma City Thunder,0.6058990033232795
+87,11/07/2019,Phoenix Suns,Miami Heat,0.6169429563185387
+88,11/07/2019,LA Clippers,Portland Trail Blazers,0.6766463169539192
+89,11/07/2019,Charlotte Hornets,Boston Celtics,0.4473184152403225
+90,11/08/2019,Los Angeles Lakers,Miami Heat,0.5807521582693932
+91,11/08/2019,Orlando Magic,Memphis Grizzlies,0.547101025826771
+92,11/08/2019,New Orleans Pelicans,Toronto Raptors,0.35532195201016686
+93,11/08/2019,Portland Trail Blazers,Brooklyn Nets,0.5197861129771623
+94,11/08/2019,Utah Jazz,Milwaukee Bucks,0.49268410279153274
+95,11/08/2019,Indiana Pacers,Detroit Pistons,0.5997551532074675
+96,11/08/2019,Dallas Mavericks,New York Knicks,0.8361477351536276
+97,11/08/2019,Atlanta Hawks,Sacramento Kings,0.6772257666508629
+98,11/08/2019,Denver Nuggets,Philadelphia 76ers,0.5293688409547943
+99,11/08/2019,Minnesota Timberwolves,Golden State Warriors,0.724657031413688
+100,11/08/2019,Washington Wizards,Cleveland Cavaliers,0.6570030018919651
+101,11/09/2019,Chicago Bulls,Houston Rockets,0.46015716710839366
+102,11/09/2019,San Antonio Spurs,Boston Celtics,0.5067854220331467
+103,11/09/2019,Charlotte Hornets,New Orleans Pelicans,0.6197051466937411
+104,11/09/2019,Oklahoma City Thunder,Golden State Warriors,0.7155822851481228
+105,11/09/2019,Memphis Grizzlies,Dallas Mavericks,0.3260097359151816
+106,11/10/2019,Philadelphia 76ers,Charlotte Hornets,0.7292437096099421
+107,11/10/2019,Los Angeles Lakers,Toronto Raptors,0.5860181708021465
+108,11/10/2019,New York Knicks,Cleveland Cavaliers,0.46849057922176274
+109,11/10/2019,Phoenix Suns,Brooklyn Nets,0.6624562255307546
+110,11/10/2019,Orlando Magic,Indiana Pacers,0.4193099231316456
+111,11/10/2019,Portland Trail Blazers,Atlanta Hawks,0.6040721401940748
+112,11/10/2019,Minnesota Timberwolves,Denver Nuggets,0.5409798425530373
+113,11/10/2019,Oklahoma City Thunder,Milwaukee Bucks,0.4667195535324757
+114,11/11/2019,Golden State Warriors,Utah Jazz,0.34297937374335835
+115,11/11/2019,San Antonio Spurs,Memphis Grizzlies,0.7528970394499281
+116,11/11/2019,Boston Celtics,Dallas Mavericks,0.6497360879644872
+117,11/11/2019,LA Clippers,Toronto Raptors,0.5104672004512496
+118,11/11/2019,Detroit Pistons,Minnesota Timberwolves,0.5947164637444162
+119,11/11/2019,New Orleans Pelicans,Houston Rockets,0.42216626074673325
+120,11/12/2019,Philadelphia 76ers,Cleveland Cavaliers,0.7072351275536465
+121,11/12/2019,Chicago Bulls,New York Knicks,0.6872044218953084
+122,11/12/2019,Phoenix Suns,Los Angeles Lakers,0.6245894269057944
+123,11/12/2019,Miami Heat,Detroit Pistons,0.7118206147205541
+124,11/12/2019,Utah Jazz,Brooklyn Nets,0.6878956461036582
+125,11/12/2019,Indiana Pacers,Oklahoma City Thunder,0.6265118363671349
+126,11/12/2019,Sacramento Kings,Portland Trail Blazers,0.5176359904011923
+127,11/12/2019,Denver Nuggets,Atlanta Hawks,0.7095999663387776
+128,11/13/2019,Los Angeles Lakers,Golden State Warriors,0.8365273180321738
+129,11/13/2019,Boston Celtics,Washington Wizards,0.8101995213214995
+130,11/13/2019,Orlando Magic,Philadelphia 76ers,0.3647581871064906
+131,11/13/2019,Houston Rockets,LA Clippers,0.574159688778156
+132,11/13/2019,Portland Trail Blazers,Toronto Raptors,0.40286469959324056
+133,11/13/2019,Charlotte Hornets,Memphis Grizzlies,0.6445805426449938
+134,11/13/2019,Minnesota Timberwolves,San Antonio Spurs,0.5952714398499704
+135,11/14/2019,New York Knicks,Dallas Mavericks,0.2761000961442167
+136,11/14/2019,Phoenix Suns,Atlanta Hawks,0.7621631715843422
+137,11/14/2019,Cleveland Cavaliers,Miami Heat,0.3855772730382079
+138,11/14/2019,Milwaukee Bucks,Chicago Bulls,0.7820975984801096
+139,11/14/2019,Denver Nuggets,Brooklyn Nets,0.6133780163885166
+140,11/14/2019,New Orleans Pelicans,LA Clippers,0.4298767074151126
+141,11/15/2019,Golden State Warriors,Boston Celtics,0.22044211721317056
+142,11/15/2019,Los Angeles Lakers,Sacramento Kings,0.787808350330544
+143,11/15/2019,Orlando Magic,San Antonio Spurs,0.5215104022274826
+144,11/15/2019,Houston Rockets,Indiana Pacers,0.5932807083782862
+145,11/15/2019,Minnesota Timberwolves,Washington Wizards,0.6891835747656937
+146,11/15/2019,Charlotte Hornets,Detroit Pistons,0.5188828266284373
+147,11/15/2019,Memphis Grizzlies,Utah Jazz,0.3454371106770446
+148,11/15/2019,Oklahoma City Thunder,Philadelphia 76ers,0.4971392604369885
+149,11/16/2019,San Antonio Spurs,Portland Trail Blazers,0.6052864245393689
+150,11/16/2019,Chicago Bulls,Brooklyn Nets,0.5354914815759828
+151,11/16/2019,New York Knicks,Charlotte Hornets,0.43392343314070625
+152,11/16/2019,LA Clippers,Atlanta Hawks,0.7158405598878909
+153,11/16/2019,Miami Heat,New Orleans Pelicans,0.7850857162906544
+154,11/16/2019,Indiana Pacers,Milwaukee Bucks,0.4892902006110139
+155,11/16/2019,Dallas Mavericks,Toronto Raptors,0.4830920642838823
+156,11/16/2019,Minnesota Timberwolves,Houston Rockets,0.4784085083147631
+157,11/17/2019,Los Angeles Lakers,Atlanta Hawks,0.8315127842106254
+158,11/17/2019,Orlando Magic,Washington Wizards,0.5353232505316251
+159,11/17/2019,Cleveland Cavaliers,Philadelphia 76ers,0.4685989979810346
+160,11/17/2019,Sacramento Kings,Boston Celtics,0.3215140532357576
+161,11/17/2019,Memphis Grizzlies,Denver Nuggets,0.4423556476827521
+162,11/17/2019,New Orleans Pelicans,Golden State Warriors,0.6976994682782546
+163,11/18/2019,Chicago Bulls,Milwaukee Bucks,0.3149271180404576
+164,11/18/2019,New York Knicks,Cleveland Cavaliers,0.4659380184955073
+165,11/18/2019,Phoenix Suns,Boston Celtics,0.586981215308871
+166,11/18/2019,Brooklyn Nets,Indiana Pacers,0.5470362759882339
+167,11/18/2019,LA Clippers,Oklahoma City Thunder,0.6995904211932682
+168,11/18/2019,Houston Rockets,Portland Trail Blazers,0.7395578234708693
+169,11/18/2019,Utah Jazz,Minnesota Timberwolves,0.6928398043006416
+170,11/18/2019,Dallas Mavericks,San Antonio Spurs,0.6812210955521298
+171,11/18/2019,Toronto Raptors,Charlotte Hornets,0.7509338320944632
+172,11/19/2019,Los Angeles Lakers,Oklahoma City Thunder,0.7659497819056614
+173,11/19/2019,Sacramento Kings,Phoenix Suns,0.3932808069130618
+174,11/19/2019,Memphis Grizzlies,Golden State Warriors,0.664155882329766
+175,11/19/2019,New Orleans Pelicans,Portland Trail Blazers,0.5919367132362151
+176,11/20/2019,Philadelphia 76ers,New York Knicks,0.7995524483637941
+177,11/20/2019,Chicago Bulls,Detroit Pistons,0.48249990055599995
+178,11/20/2019,Brooklyn Nets,Charlotte Hornets,0.6206922059361495
+179,11/20/2019,LA Clippers,Boston Celtics,0.5326242315977414
+180,11/20/2019,Miami Heat,Cleveland Cavaliers,0.8281308134276124
+181,11/20/2019,Dallas Mavericks,Golden State Warriors,0.7963238866028195
+182,11/20/2019,Atlanta Hawks,Milwaukee Bucks,0.2641487262589482
+183,11/20/2019,Denver Nuggets,Houston Rockets,0.48631295979768585
+184,11/20/2019,Minnesota Timberwolves,Utah Jazz,0.5222938476186108
+185,11/20/2019,Washington Wizards,San Antonio Spurs,0.6071621713392454
+186,11/20/2019,Toronto Raptors,Orlando Magic,0.7760082313794359
+187,11/21/2019,Phoenix Suns,New Orleans Pelicans,0.7182866472862917
+188,11/21/2019,Milwaukee Bucks,Portland Trail Blazers,0.8040395131281814
+189,11/22/2019,Philadelphia 76ers,San Antonio Spurs,0.7014778223939245
+190,11/22/2019,Chicago Bulls,Miami Heat,0.29461923294713027
+191,11/22/2019,Brooklyn Nets,Sacramento Kings,0.5658302522989828
+192,11/22/2019,LA Clippers,Houston Rockets,0.568682886553322
+193,11/22/2019,Detroit Pistons,Atlanta Hawks,0.669538979293785
+194,11/22/2019,Utah Jazz,Golden State Warriors,0.8084318583398171
+195,11/22/2019,Dallas Mavericks,Cleveland Cavaliers,0.8025134653093721
+196,11/22/2019,Denver Nuggets,Boston Celtics,0.5202908437944642
+197,11/22/2019,Washington Wizards,Charlotte Hornets,0.6871179304322247
+198,11/22/2019,Oklahoma City Thunder,Los Angeles Lakers,0.37409797591399674
+199,11/23/2019,Philadelphia 76ers,Miami Heat,0.4567005405828258
+200,11/23/2019,New York Knicks,San Antonio Spurs,0.47625008908001915
+201,11/23/2019,Cleveland Cavaliers,Portland Trail Blazers,0.5008929579369436
+202,11/23/2019,Utah Jazz,New Orleans Pelicans,0.6771314457203514
+203,11/23/2019,Milwaukee Bucks,Detroit Pistons,0.7593243503834521
+204,11/23/2019,Indiana Pacers,Orlando Magic,0.6936276018477743
+205,11/23/2019,Atlanta Hawks,Toronto Raptors,0.27547660845466404
+206,11/23/2019,Minnesota Timberwolves,Phoenix Suns,0.4687076656665742
+207,11/23/2019,Charlotte Hornets,Chicago Bulls,0.5736084035226662
+208,11/23/2019,Memphis Grizzlies,Los Angeles Lakers,0.2735958766415779
+209,11/24/2019,New York Knicks,Brooklyn Nets,0.4228753909867123
+210,11/24/2019,LA Clippers,New Orleans Pelicans,0.7202097139802738
+211,11/24/2019,Houston Rockets,Dallas Mavericks,0.523379525946264
+212,11/24/2019,Denver Nuggets,Phoenix Suns,0.561770465518448
+213,11/24/2019,Washington Wizards,Sacramento Kings,0.6595282551483489
+214,11/25/2019,Golden State Warriors,Oklahoma City Thunder,0.3976631876169739
+215,11/25/2019,San Antonio Spurs,Los Angeles Lakers,0.35367864333292637
+216,11/25/2019,Chicago Bulls,Portland Trail Blazers,0.5854502229761644
+217,11/25/2019,Boston Celtics,Sacramento Kings,0.7158997011060305
+218,11/25/2019,Cleveland Cavaliers,Brooklyn Nets,0.4457583055360644
+219,11/25/2019,Miami Heat,Charlotte Hornets,0.8082272059583431
+220,11/25/2019,Detroit Pistons,Orlando Magic,0.633876540861732
+221,11/25/2019,Milwaukee Bucks,Utah Jazz,0.676489915481078
+222,11/25/2019,Indiana Pacers,Memphis Grizzlies,0.751309820491749
+223,11/25/2019,Atlanta Hawks,Minnesota Timberwolves,0.46401560107430356
+224,11/25/2019,Toronto Raptors,Philadelphia 76ers,0.643575023392386
+225,11/26/2019,Dallas Mavericks,LA Clippers,0.6272672401668821
+226,11/26/2019,Denver Nuggets,Washington Wizards,0.6537228681228864
+227,11/27/2019,Philadelphia 76ers,Sacramento Kings,0.7000142507203492
+228,11/27/2019,Golden State Warriors,Chicago Bulls,0.4782208187368382
+229,11/27/2019,San Antonio Spurs,Minnesota Timberwolves,0.5500241918024117
+230,11/27/2019,Phoenix Suns,Washington Wizards,0.6647503479425767
+231,11/27/2019,Boston Celtics,Brooklyn Nets,0.6922081248953267
+232,11/27/2019,Cleveland Cavaliers,Orlando Magic,0.5401025837893916
+233,11/27/2019,Houston Rockets,Miami Heat,0.48725464597295104
+234,11/27/2019,Portland Trail Blazers,Oklahoma City Thunder,0.532291751080965
+235,11/27/2019,Milwaukee Bucks,Atlanta Hawks,0.8559606029827663
+236,11/27/2019,Indiana Pacers,Utah Jazz,0.5696503915102246
+237,11/27/2019,Charlotte Hornets,Detroit Pistons,0.48342204620180157
+238,11/27/2019,Toronto Raptors,New York Knicks,0.8522392177896987
+239,11/27/2019,Memphis Grizzlies,LA Clippers,0.30929700863516957
+240,11/27/2019,New Orleans Pelicans,Los Angeles Lakers,0.33827438884430816
+241,11/29/2019,San Antonio Spurs,LA Clippers,0.37571270806576096
+242,11/29/2019,Los Angeles Lakers,Washington Wizards,0.7453354239992147
+243,11/29/2019,New York Knicks,Philadelphia 76ers,0.30379005654420266
+244,11/29/2019,Phoenix Suns,Dallas Mavericks,0.4968729735733974
+245,11/29/2019,Brooklyn Nets,Boston Celtics,0.45058679053582307
+246,11/29/2019,Orlando Magic,Toronto Raptors,0.3174866942362699
+247,11/29/2019,Cleveland Cavaliers,Milwaukee Bucks,0.25722009800121004
+248,11/29/2019,Miami Heat,Golden State Warriors,0.8544924686469663
+249,11/29/2019,Detroit Pistons,Charlotte Hornets,0.6628102817765147
+250,11/29/2019,Portland Trail Blazers,Chicago Bulls,0.6597569530295793
+251,11/29/2019,Indiana Pacers,Atlanta Hawks,0.8029756845709364
+252,11/29/2019,Memphis Grizzlies,Utah Jazz,0.38177027283781323
+253,11/29/2019,Oklahoma City Thunder,New Orleans Pelicans,0.6223516535208474
+254,11/30/2019,Philadelphia 76ers,Indiana Pacers,0.5907800277390757
+255,11/30/2019,Houston Rockets,Atlanta Hawks,0.8039178109153663
+256,11/30/2019,Milwaukee Bucks,Charlotte Hornets,0.816826951325848
+257,11/30/2019,Sacramento Kings,Denver Nuggets,0.4409746796726439
+258,12/01/2019,Los Angeles Lakers,Dallas Mavericks,0.6366951297777617
+259,12/01/2019,New York Knicks,Boston Celtics,0.3052550965061501
+260,12/01/2019,Brooklyn Nets,Miami Heat,0.3979836344736009
+261,12/01/2019,LA Clippers,Washington Wizards,0.7016357771998003
+262,12/01/2019,Orlando Magic,Golden State Warriors,0.6724273322025404
+263,12/01/2019,Detroit Pistons,San Antonio Spurs,0.6137970077358003
+264,12/01/2019,Minnesota Timberwolves,Memphis Grizzlies,0.7115634749231764
+265,12/01/2019,Toronto Raptors,Utah Jazz,0.6877466894445675
+266,12/01/2019,New Orleans Pelicans,Oklahoma City Thunder,0.53236273034039
+267,12/02/2019,Philadelphia 76ers,Utah Jazz,0.6396140347246883
+268,12/02/2019,Milwaukee Bucks,New York Knicks,0.8771899756792344
+269,12/02/2019,Atlanta Hawks,Golden State Warriors,0.5902940788854046
+270,12/02/2019,Sacramento Kings,Chicago Bulls,0.6524697258450897
+271,12/02/2019,Charlotte Hornets,Phoenix Suns,0.4143341889009742
+272,12/02/2019,Memphis Grizzlies,Indiana Pacers,0.36998848992990635
+273,12/03/2019,San Antonio Spurs,Houston Rockets,0.3691168280062548
+274,12/03/2019,LA Clippers,Portland Trail Blazers,0.7311362788819089
+275,12/03/2019,Cleveland Cavaliers,Detroit Pistons,0.42632316625789596
+276,12/03/2019,Denver Nuggets,Los Angeles Lakers,0.47686690690472316
+277,12/03/2019,Washington Wizards,Orlando Magic,0.6287560785929925
+278,12/03/2019,Toronto Raptors,Miami Heat,0.60342623989774
+279,12/03/2019,New Orleans Pelicans,Dallas Mavericks,0.36772512910955635
+280,12/04/2019,Chicago Bulls,Memphis Grizzlies,0.6193433285901913
+281,12/04/2019,Boston Celtics,Miami Heat,0.512870978776524
+282,12/04/2019,Orlando Magic,Phoenix Suns,0.46560055226807
+283,12/04/2019,Detroit Pistons,Milwaukee Bucks,0.3862107138683795
+284,12/04/2019,Portland Trail Blazers,Sacramento Kings,0.5867350937716597
+285,12/04/2019,Utah Jazz,Los Angeles Lakers,0.43795805844663194
+286,12/04/2019,Dallas Mavericks,Minnesota Timberwolves,0.7437526837520874
+287,12/04/2019,Atlanta Hawks,Brooklyn Nets,0.44240249775365276
+288,12/04/2019,Charlotte Hornets,Golden State Warriors,0.6618207342791553
+289,12/04/2019,Oklahoma City Thunder,Indiana Pacers,0.4839512058290032
+290,12/05/2019,New York Knicks,Denver Nuggets,0.318583048757759
+291,12/05/2019,Washington Wizards,Philadelphia 76ers,0.4434124131009573
+292,12/05/2019,Toronto Raptors,Houston Rockets,0.6328987597180001
+293,12/05/2019,New Orleans Pelicans,Phoenix Suns,0.4539930524505363
+294,12/06/2019,San Antonio Spurs,Sacramento Kings,0.5707783032211358
+295,12/06/2019,Chicago Bulls,Golden State Warriors,0.6962777424816662
+296,12/06/2019,Boston Celtics,Denver Nuggets,0.6108674847669537
+297,12/06/2019,Cleveland Cavaliers,Orlando Magic,0.45731652569904563
+298,12/06/2019,Miami Heat,Washington Wizards,0.7405546044857193
+299,12/06/2019,Detroit Pistons,Indiana Pacers,0.4988479581120821
+300,12/06/2019,Portland Trail Blazers,Los Angeles Lakers,0.3657197123707692
+301,12/06/2019,Milwaukee Bucks,LA Clippers,0.679909255529836
+302,12/06/2019,Charlotte Hornets,Brooklyn Nets,0.47961385394551653
+303,12/06/2019,Oklahoma City Thunder,Minnesota Timberwolves,0.595472209843585
+304,12/07/2019,Philadelphia 76ers,Cleveland Cavaliers,0.8103503243769251
+305,12/07/2019,New York Knicks,Indiana Pacers,0.27230426652891976
+306,12/07/2019,Houston Rockets,Phoenix Suns,0.6524156614439036
+307,12/07/2019,Utah Jazz,Memphis Grizzlies,0.7260000561009987
+308,12/07/2019,Dallas Mavericks,New Orleans Pelicans,0.7937996461243056
+309,12/08/2019,Philadelphia 76ers,Toronto Raptors,0.5625810670526864
+310,12/08/2019,Los Angeles Lakers,Minnesota Timberwolves,0.7810745642600373
+311,12/08/2019,Brooklyn Nets,Denver Nuggets,0.5302724287473163
+312,12/08/2019,Miami Heat,Chicago Bulls,0.7871743382223376
+313,12/08/2019,Portland Trail Blazers,Oklahoma City Thunder,0.536499648357826
+314,12/08/2019,Dallas Mavericks,Sacramento Kings,0.7962561628772051
+315,12/08/2019,Washington Wizards,LA Clippers,0.4399770305605416
+316,12/08/2019,Charlotte Hornets,Atlanta Hawks,0.6347681976106494
+317,12/09/2019,Golden State Warriors,Memphis Grizzlies,0.5362484874039346
+318,12/09/2019,Chicago Bulls,Toronto Raptors,0.363862409231549
+319,12/09/2019,New Orleans Pelicans,Detroit Pistons,0.45003639767250025
+320,12/09/2019,Phoenix Suns,Minnesota Timberwolves,0.6517968058480706
+321,12/09/2019,Boston Celtics,Cleveland Cavaliers,0.8381644694108332
+322,12/09/2019,Houston Rockets,Sacramento Kings,0.7411235723186009
+323,12/09/2019,Utah Jazz,Oklahoma City Thunder,0.603866463023495
+324,12/09/2019,Milwaukee Bucks,Orlando Magic,0.8177359072693523
+325,12/09/2019,Indiana Pacers,LA Clippers,0.5516037532508192
+326,12/10/2019,Philadelphia 76ers,Denver Nuggets,0.6590628522876419
+327,12/10/2019,Miami Heat,Atlanta Hawks,0.8163429469205725
+328,12/10/2019,Portland Trail Blazers,New York Knicks,0.7399652745789753
+329,12/10/2019,Charlotte Hornets,Washington Wizards,0.5177309712814219
+330,12/11/2019,Golden State Warriors,New York Knicks,0.6396587301016825
+331,12/11/2019,Chicago Bulls,Atlanta Hawks,0.6248460623919441
+332,12/11/2019,Phoenix Suns,Memphis Grizzlies,0.73795197037198
+333,12/11/2019,Brooklyn Nets,Charlotte Hornets,0.6858841480843612
+334,12/11/2019,Orlando Magic,Los Angeles Lakers,0.32885244969480604
+335,12/11/2019,Cleveland Cavaliers,Houston Rockets,0.275640079373494
+336,12/11/2019,Milwaukee Bucks,New Orleans Pelicans,0.8565593635719139
+337,12/11/2019,Indiana Pacers,Boston Celtics,0.5125028888128578
+338,12/11/2019,Sacramento Kings,Oklahoma City Thunder,0.5200304307824487
+339,12/11/2019,Minnesota Timberwolves,Utah Jazz,0.5254531893508293
+340,12/11/2019,Toronto Raptors,LA Clippers,0.5890916244845458
+341,12/12/2019,San Antonio Spurs,Cleveland Cavaliers,0.7110708462090367
+342,12/12/2019,Boston Celtics,Philadelphia 76ers,0.5852069059714632
+343,12/12/2019,Detroit Pistons,Dallas Mavericks,0.4330241030020997
+344,12/12/2019,Denver Nuggets,Portland Trail Blazers,0.6617020936472278
+345,12/13/2019,Philadelphia 76ers,New Orleans Pelicans,0.7989770289572877
+346,12/13/2019,Chicago Bulls,Charlotte Hornets,0.6093420499399702
+347,12/13/2019,Orlando Magic,Houston Rockets,0.40229875427084344
+348,12/13/2019,Miami Heat,Los Angeles Lakers,0.5303936187568243
+349,12/13/2019,Utah Jazz,Golden State Warriors,0.777746535983414
+350,12/13/2019,Atlanta Hawks,Indiana Pacers,0.3630919972409062
+351,12/13/2019,Sacramento Kings,New York Knicks,0.7575323375710878
+352,12/13/2019,Minnesota Timberwolves,LA Clippers,0.4030489841506411
+353,12/13/2019,Memphis Grizzlies,Milwaukee Bucks,0.2416159294967809
+354,12/14/2019,Chicago Bulls,LA Clippers,0.371645919651047
+355,12/14/2019,Phoenix Suns,San Antonio Spurs,0.6887153092422328
+356,12/14/2019,Houston Rockets,Detroit Pistons,0.6963913154370505
+357,12/14/2019,Milwaukee Bucks,Cleveland Cavaliers,0.8942456930807009
+358,12/14/2019,Dallas Mavericks,Miami Heat,0.609401586129831
+359,12/14/2019,Denver Nuggets,Oklahoma City Thunder,0.6209792886407826
+360,12/14/2019,Toronto Raptors,Brooklyn Nets,0.6795628330169353
+361,12/14/2019,Memphis Grizzlies,Washington Wizards,0.5169813732246973
+362,12/15/2019,Golden State Warriors,Sacramento Kings,0.4300394104097299
+363,12/15/2019,Brooklyn Nets,Philadelphia 76ers,0.43400346303193593
+364,12/15/2019,Indiana Pacers,Charlotte Hornets,0.7354744271164921
+365,12/15/2019,Atlanta Hawks,Los Angeles Lakers,0.23768190495594577
+366,12/15/2019,Denver Nuggets,New York Knicks,0.8196401182262691
+367,12/15/2019,New Orleans Pelicans,Orlando Magic,0.5286783525631004
+368,12/16/2019,Phoenix Suns,Portland Trail Blazers,0.661473847354958
+369,12/16/2019,Houston Rockets,San Antonio Spurs,0.7561221712644028
+370,12/16/2019,Detroit Pistons,Washington Wizards,0.660396866169515
+371,12/16/2019,Milwaukee Bucks,Dallas Mavericks,0.6764786964907469
+372,12/16/2019,Toronto Raptors,Cleveland Cavaliers,0.8264410478315958
+373,12/16/2019,Oklahoma City Thunder,Chicago Bulls,0.6601577783242465
+374,12/16/2019,Memphis Grizzlies,Miami Heat,0.3403468070899567
+375,12/17/2019,New York Knicks,Atlanta Hawks,0.5148676325720905
+376,12/17/2019,LA Clippers,Phoenix Suns,0.6827947844163572
+377,12/17/2019,Utah Jazz,Orlando Magic,0.677752761930834
+378,12/17/2019,Indiana Pacers,Los Angeles Lakers,0.4620292223152175
+379,12/17/2019,Charlotte Hornets,Sacramento Kings,0.49581372054249007
+380,12/17/2019,New Orleans Pelicans,Brooklyn Nets,0.45660919142768813
+381,12/18/2019,Philadelphia 76ers,Miami Heat,0.5626824952117494
+382,12/18/2019,Cleveland Cavaliers,Charlotte Hornets,0.4766323094514729
+383,12/18/2019,Detroit Pistons,Toronto Raptors,0.47970394481602485
+384,12/18/2019,Portland Trail Blazers,Golden State Warriors,0.7336980255496022
+385,12/18/2019,Dallas Mavericks,Boston Celtics,0.6324999474892583
+386,12/18/2019,Denver Nuggets,Orlando Magic,0.7046552204306976
+387,12/18/2019,Minnesota Timberwolves,New Orleans Pelicans,0.6645505584800188
+388,12/18/2019,Washington Wizards,Chicago Bulls,0.6188310953873946
+389,12/18/2019,Oklahoma City Thunder,Memphis Grizzlies,0.6845360139639554
+390,12/19/2019,San Antonio Spurs,Brooklyn Nets,0.5019533790759458
+391,12/19/2019,LA Clippers,Houston Rockets,0.604627563510355
+392,12/19/2019,Milwaukee Bucks,Los Angeles Lakers,0.635236877760582
+393,12/19/2019,Atlanta Hawks,Utah Jazz,0.36920479694181846
+394,12/20/2019,Philadelphia 76ers,Dallas Mavericks,0.5348505374013277
+395,12/20/2019,Golden State Warriors,New Orleans Pelicans,0.4970034512511923
+396,12/20/2019,Boston Celtics,Detroit Pistons,0.697943137804371
+397,12/20/2019,Cleveland Cavaliers,Memphis Grizzlies,0.47801692106037064
+398,12/20/2019,Miami Heat,New York Knicks,0.8572332752090089
+399,12/20/2019,Portland Trail Blazers,Orlando Magic,0.6189644254994605
+400,12/20/2019,Indiana Pacers,Sacramento Kings,0.6977343680946139
+401,12/20/2019,Denver Nuggets,Minnesota Timberwolves,0.7104866470289192
+402,12/20/2019,Toronto Raptors,Washington Wizards,0.7398657749248473
+403,12/20/2019,Oklahoma City Thunder,Phoenix Suns,0.6053894779677821
+404,12/21/2019,Philadelphia 76ers,Washington Wizards,0.7169311446172175
+405,12/21/2019,San Antonio Spurs,LA Clippers,0.3816064701803008
+406,12/21/2019,New York Knicks,Milwaukee Bucks,0.1721756727908087
+407,12/21/2019,Phoenix Suns,Houston Rockets,0.4516787159697281
+408,12/21/2019,Brooklyn Nets,Atlanta Hawks,0.7350766500014317
+409,12/21/2019,Detroit Pistons,Chicago Bulls,0.6415902714417083
+410,12/21/2019,Portland Trail Blazers,Minnesota Timberwolves,0.6326505326381311
+411,12/21/2019,Charlotte Hornets,Utah Jazz,0.4296385871717004
+412,12/21/2019,Memphis Grizzlies,Sacramento Kings,0.5247701345155122
+413,12/22/2019,Los Angeles Lakers,Denver Nuggets,0.6906162607843332
+414,12/22/2019,Boston Celtics,Charlotte Hornets,0.7864134833597737
+415,12/22/2019,Milwaukee Bucks,Indiana Pacers,0.7271591742109121
+416,12/22/2019,Toronto Raptors,Dallas Mavericks,0.5466742742343329
+417,12/22/2019,Oklahoma City Thunder,LA Clippers,0.48152784026892154
+418,12/23/2019,Golden State Warriors,Minnesota Timberwolves,0.45559153466427493
+419,12/23/2019,New York Knicks,Washington Wizards,0.42139762318723056
+420,12/23/2019,Phoenix Suns,Denver Nuggets,0.4797565148075954
+421,12/23/2019,Orlando Magic,Chicago Bulls,0.554414374452773
+422,12/23/2019,Cleveland Cavaliers,Atlanta Hawks,0.5806298749985148
+423,12/23/2019,Miami Heat,Utah Jazz,0.674897273870344
+424,12/23/2019,Detroit Pistons,Philadelphia 76ers,0.46274166215175744
+425,12/23/2019,Portland Trail Blazers,New Orleans Pelicans,0.6937821177629824
+426,12/23/2019,Indiana Pacers,Toronto Raptors,0.5331991269380828
+427,12/23/2019,Sacramento Kings,Houston Rockets,0.4005546205909413
+428,12/23/2019,Memphis Grizzlies,San Antonio Spurs,0.572831431313792
+429,12/25/2019,Philadelphia 76ers,Milwaukee Bucks,0.4289496642878332
+430,12/25/2019,Golden State Warriors,Houston Rockets,0.2641221063191604
+431,12/25/2019,Los Angeles Lakers,LA Clippers,0.6158993702572042
+432,12/25/2019,Denver Nuggets,New Orleans Pelicans,0.780586076303815
+433,12/25/2019,Toronto Raptors,Boston Celtics,0.5531983582912415
+434,12/26/2019,Brooklyn Nets,New York Knicks,0.779040679824495
+435,12/26/2019,Detroit Pistons,Washington Wizards,0.6142054033013218
+436,12/26/2019,Utah Jazz,Portland Trail Blazers,0.6641199125144047
+437,12/26/2019,Dallas Mavericks,San Antonio Spurs,0.7675639448862656
+438,12/26/2019,Sacramento Kings,Minnesota Timberwolves,0.6150161646787473
+439,12/26/2019,Oklahoma City Thunder,Memphis Grizzlies,0.7233171392624248
+440,12/27/2019,Golden State Warriors,Phoenix Suns,0.41367653533872
+441,12/27/2019,Boston Celtics,Cleveland Cavaliers,0.8464306706608834
+442,12/27/2019,Orlando Magic,Philadelphia 76ers,0.38271549958493545
+443,12/27/2019,Miami Heat,Indiana Pacers,0.6537256366051751
+444,12/27/2019,Atlanta Hawks,Milwaukee Bucks,0.1889236851325788
+445,12/27/2019,Charlotte Hornets,Oklahoma City Thunder,0.4236070126390767
+446,12/28/2019,Golden State Warriors,Dallas Mavericks,0.26916493002131864
+447,12/28/2019,San Antonio Spurs,Detroit Pistons,0.5314494327100917
+448,12/28/2019,Chicago Bulls,Atlanta Hawks,0.7066249597134797
+449,12/28/2019,Boston Celtics,Toronto Raptors,0.6412475263128027
+450,12/28/2019,LA Clippers,Utah Jazz,0.6626439634129117
+451,12/28/2019,Houston Rockets,Brooklyn Nets,0.7154813651354244
+452,12/28/2019,Miami Heat,Philadelphia 76ers,0.628105449153019
+453,12/28/2019,Portland Trail Blazers,Los Angeles Lakers,0.38502984554868186
+454,12/28/2019,Milwaukee Bucks,Orlando Magic,0.8475114423652694
+455,12/28/2019,Sacramento Kings,Phoenix Suns,0.5422849355985156
+456,12/28/2019,Denver Nuggets,Memphis Grizzlies,0.7436641345586357
+457,12/28/2019,Minnesota Timberwolves,Cleveland Cavaliers,0.6692957683270604
+458,12/28/2019,Washington Wizards,New York Knicks,0.7141686176246417
+459,12/28/2019,New Orleans Pelicans,Indiana Pacers,0.3849132153687569
+460,12/29/2019,Los Angeles Lakers,Dallas Mavericks,0.5859611883647842
+461,12/29/2019,Denver Nuggets,Sacramento Kings,0.7279933204356387
+462,12/29/2019,Toronto Raptors,Oklahoma City Thunder,0.6635783652213365
+463,12/29/2019,Memphis Grizzlies,Charlotte Hornets,0.6170773032723746
+464,12/29/2019,New Orleans Pelicans,Houston Rockets,0.35224127897806706
+465,12/30/2019,Chicago Bulls,Milwaukee Bucks,0.2852297479240642
+466,12/30/2019,Orlando Magic,Atlanta Hawks,0.7050896166366314
+467,12/30/2019,Portland Trail Blazers,Phoenix Suns,0.5626110668333039
+468,12/30/2019,Utah Jazz,Detroit Pistons,0.6740348998189165
+469,12/30/2019,Minnesota Timberwolves,Brooklyn Nets,0.5153089089805658
+470,12/30/2019,Washington Wizards,Miami Heat,0.3425436438390449
+471,12/31/2019,San Antonio Spurs,Golden State Warriors,0.7134764730189856
+472,12/31/2019,Houston Rockets,Denver Nuggets,0.6003629212036677
+473,12/31/2019,Indiana Pacers,Philadelphia 76ers,0.5429406418657876
+474,12/31/2019,Sacramento Kings,LA Clippers,0.384934547460046
+475,12/31/2019,Charlotte Hornets,Boston Celtics,0.3019098179315918
+476,12/31/2019,Toronto Raptors,Cleveland Cavaliers,0.817287876212164
+477,12/31/2019,Oklahoma City Thunder,Dallas Mavericks,0.4698628653409444
+478,01/01/2020,Los Angeles Lakers,Phoenix Suns,0.7475378095956027
+479,01/01/2020,New York Knicks,Portland Trail Blazers,0.4174115520808659
+480,01/01/2020,Milwaukee Bucks,Minnesota Timberwolves,0.8594645041582889
+481,01/01/2020,Washington Wizards,Orlando Magic,0.6001064313958718
+482,01/02/2020,San Antonio Spurs,Oklahoma City Thunder,0.5103635683277096
+483,01/02/2020,Chicago Bulls,Utah Jazz,0.4392178652557341
+484,01/02/2020,LA Clippers,Detroit Pistons,0.7412327805380506
+485,01/02/2020,Cleveland Cavaliers,Charlotte Hornets,0.5484330043912418
+486,01/02/2020,Miami Heat,Toronto Raptors,0.6018259771077111
+487,01/02/2020,Indiana Pacers,Denver Nuggets,0.5741769148955221
+488,01/02/2020,Dallas Mavericks,Brooklyn Nets,0.7400908638688249
+489,01/02/2020,Sacramento Kings,Memphis Grizzlies,0.5928007969356638
+490,01/02/2020,Minnesota Timberwolves,Golden State Warriors,0.6680905900455565
+491,01/03/2020,Los Angeles Lakers,New Orleans Pelicans,0.8101620600105646
+492,01/03/2020,Phoenix Suns,New York Knicks,0.7441403794290707
+493,01/03/2020,Boston Celtics,Atlanta Hawks,0.85896553889191
+494,01/03/2020,Orlando Magic,Miami Heat,0.36573204939414694
+495,01/03/2020,Houston Rockets,Philadelphia 76ers,0.624620771404058
+496,01/03/2020,Washington Wizards,Portland Trail Blazers,0.5577350822658415
+497,01/04/2020,Golden State Warriors,Detroit Pistons,0.4412299372010143
+498,01/04/2020,Chicago Bulls,Boston Celtics,0.36324135785880246
+499,01/04/2020,Brooklyn Nets,Toronto Raptors,0.43326585071758694
+500,01/04/2020,LA Clippers,Memphis Grizzlies,0.7805381141021362
+501,01/04/2020,Orlando Magic,Utah Jazz,0.4283740763644981
+502,01/04/2020,Cleveland Cavaliers,Oklahoma City Thunder,0.3635050531520708
+503,01/04/2020,Milwaukee Bucks,San Antonio Spurs,0.8297058831025385
+504,01/04/2020,Dallas Mavericks,Charlotte Hornets,0.8157508441464177
+505,01/04/2020,Atlanta Hawks,Indiana Pacers,0.31860784508568113
+506,01/04/2020,Sacramento Kings,New Orleans Pelicans,0.6169668305439446
+507,01/04/2020,Washington Wizards,Denver Nuggets,0.4015036619852251
+508,01/05/2020,Los Angeles Lakers,Detroit Pistons,0.7784951855856068
+509,01/05/2020,Phoenix Suns,Memphis Grizzlies,0.6417405186939151
+510,01/05/2020,LA Clippers,New York Knicks,0.8414097891464557
+511,01/05/2020,Cleveland Cavaliers,Minnesota Timberwolves,0.4887344656187866
+512,01/05/2020,Miami Heat,Portland Trail Blazers,0.7382512857135172
+513,01/06/2020,Philadelphia 76ers,Oklahoma City Thunder,0.6122313151953509
+514,01/06/2020,San Antonio Spurs,Milwaukee Bucks,0.2794976176029745
+515,01/06/2020,Orlando Magic,Brooklyn Nets,0.5558495303343766
+516,01/06/2020,Dallas Mavericks,Chicago Bulls,0.7695654063085082
+517,01/06/2020,Atlanta Hawks,Denver Nuggets,0.3157433179970816
+518,01/06/2020,Sacramento Kings,Golden State Warriors,0.6972884205228742
+519,01/06/2020,Charlotte Hornets,Indiana Pacers,0.3930855480821589
+520,01/06/2020,Washington Wizards,Boston Celtics,0.3418128931230395
+521,01/06/2020,New Orleans Pelicans,Utah Jazz,0.39334180563939025
+522,01/07/2020,Los Angeles Lakers,New York Knicks,0.8685726772422201
+523,01/07/2020,Phoenix Suns,Sacramento Kings,0.6244594488617077
+524,01/07/2020,Brooklyn Nets,Oklahoma City Thunder,0.4809645263173962
+525,01/07/2020,Cleveland Cavaliers,Detroit Pistons,0.4397384454180059
+526,01/07/2020,Toronto Raptors,Portland Trail Blazers,0.736978379991438
+527,01/07/2020,Memphis Grizzlies,Minnesota Timberwolves,0.6028884811931075
+528,01/08/2020,Golden State Warriors,Milwaukee Bucks,0.1839116506604658
+529,01/08/2020,Boston Celtics,San Antonio Spurs,0.7435677021709853
+530,01/08/2020,Orlando Magic,Washington Wizards,0.5961792884381464
+531,01/08/2020,Utah Jazz,New York Knicks,0.8302205798775193
+532,01/08/2020,Indiana Pacers,Miami Heat,0.5234139554304731
+533,01/08/2020,Dallas Mavericks,Denver Nuggets,0.6435040972653359
+534,01/08/2020,Atlanta Hawks,Houston Rockets,0.26744208445436246
+535,01/08/2020,Charlotte Hornets,Toronto Raptors,0.34797688045224395
+536,01/08/2020,New Orleans Pelicans,Chicago Bulls,0.5631302750562353
+537,01/09/2020,Philadelphia 76ers,Boston Celtics,0.5355185223545686
+538,01/09/2020,Detroit Pistons,Cleveland Cavaliers,0.7161594478778975
+539,01/09/2020,Minnesota Timberwolves,Portland Trail Blazers,0.5543022483185215
+540,01/09/2020,Oklahoma City Thunder,Houston Rockets,0.49189718394546633
+541,01/10/2020,Chicago Bulls,Indiana Pacers,0.4384129502877356
+542,01/10/2020,New York Knicks,New Orleans Pelicans,0.4489496763674886
+543,01/10/2020,Phoenix Suns,Orlando Magic,0.6125364930472074
+544,01/10/2020,Brooklyn Nets,Miami Heat,0.37532612881590954
+545,01/10/2020,LA Clippers,Golden State Warriors,0.8471778316551634
+546,01/10/2020,Utah Jazz,Charlotte Hornets,0.7912925692027756
+547,01/10/2020,Dallas Mavericks,Los Angeles Lakers,0.5276461070383306
+548,01/10/2020,Sacramento Kings,Milwaukee Bucks,0.2940733003182333
+549,01/10/2020,Washington Wizards,Atlanta Hawks,0.6809435120489314
+550,01/10/2020,Memphis Grizzlies,San Antonio Spurs,0.5510201445883237
+551,01/11/2020,Boston Celtics,New Orleans Pelicans,0.7579093315368687
+552,01/11/2020,Houston Rockets,Minnesota Timberwolves,0.7541779189298318
+553,01/11/2020,Detroit Pistons,Chicago Bulls,0.623178057938591
+554,01/11/2020,Portland Trail Blazers,Milwaukee Bucks,0.28117591810786935
+555,01/11/2020,Dallas Mavericks,Philadelphia 76ers,0.6153085977540181
+556,01/11/2020,Denver Nuggets,Cleveland Cavaliers,0.8039795571589936
+557,01/11/2020,Oklahoma City Thunder,Los Angeles Lakers,0.43729112217967114
+558,01/12/2020,New York Knicks,Miami Heat,0.2514523716256449
+559,01/12/2020,Phoenix Suns,Charlotte Hornets,0.6959681235789741
+560,01/12/2020,Brooklyn Nets,Atlanta Hawks,0.711834050448799
+561,01/12/2020,Denver Nuggets,LA Clippers,0.5224425496441845
+562,01/12/2020,Washington Wizards,Utah Jazz,0.3733055318698087
+563,01/12/2020,Toronto Raptors,San Antonio Spurs,0.7037599782243814
+564,01/12/2020,Memphis Grizzlies,Golden State Warriors,0.7331558051675869
+565,01/13/2020,Los Angeles Lakers,Cleveland Cavaliers,0.8646783320479249
+566,01/13/2020,Boston Celtics,Chicago Bulls,0.7701067496439418
+567,01/13/2020,Detroit Pistons,New Orleans Pelicans,0.622332037648467
+568,01/13/2020,Portland Trail Blazers,Charlotte Hornets,0.6535902309031928
+569,01/13/2020,Indiana Pacers,Philadelphia 76ers,0.5774249119949934
+570,01/13/2020,Sacramento Kings,Orlando Magic,0.5829110246142851
+571,01/13/2020,Minnesota Timberwolves,Oklahoma City Thunder,0.4561045188601995
+572,01/14/2020,Golden State Warriors,Dallas Mavericks,0.26202409826470097
+573,01/14/2020,Brooklyn Nets,Utah Jazz,0.41218179810478855
+574,01/14/2020,LA Clippers,Cleveland Cavaliers,0.8276746384256234
+575,01/14/2020,Milwaukee Bucks,New York Knicks,0.9028659651740937
+576,01/14/2020,Atlanta Hawks,Phoenix Suns,0.38793660255889184
+577,01/14/2020,Memphis Grizzlies,Houston Rockets,0.41620573300852415
+578,01/15/2020,Philadelphia 76ers,Brooklyn Nets,0.6938310673082783
+579,01/15/2020,Los Angeles Lakers,Orlando Magic,0.8032895264536046
+580,01/15/2020,Chicago Bulls,Washington Wizards,0.6032690226271967
+581,01/15/2020,Boston Celtics,Detroit Pistons,0.7579054886282496
+582,01/15/2020,Houston Rockets,Portland Trail Blazers,0.7487037619863236
+583,01/15/2020,Miami Heat,San Antonio Spurs,0.7213293124581961
+584,01/15/2020,Sacramento Kings,Dallas Mavericks,0.39151236725734107
+585,01/15/2020,Denver Nuggets,Charlotte Hornets,0.7751927169110973
+586,01/15/2020,Minnesota Timberwolves,Indiana Pacers,0.4286809808433903
+587,01/15/2020,Oklahoma City Thunder,Toronto Raptors,0.5393388472702563
+588,01/16/2020,Golden State Warriors,Denver Nuggets,0.2899508491442526
+589,01/16/2020,New York Knicks,Phoenix Suns,0.3845785829789574
+590,01/16/2020,LA Clippers,Orlando Magic,0.7472454674794586
+591,01/16/2020,New Orleans Pelicans,Utah Jazz,0.3732422477743736
+592,01/16/2020,Milwaukee Bucks,Boston Celtics,0.7039620799163001
+593,01/17/2020,Philadelphia 76ers,Chicago Bulls,0.7113830335871726
+594,01/17/2020,San Antonio Spurs,Atlanta Hawks,0.7330817391369419
+595,01/17/2020,Indiana Pacers,Minnesota Timberwolves,0.7303951257387182
+596,01/17/2020,Dallas Mavericks,Portland Trail Blazers,0.7584408101351502
+597,01/17/2020,Toronto Raptors,Washington Wizards,0.7669364102114652
+598,01/17/2020,Memphis Grizzlies,Cleveland Cavaliers,0.7268635099119516
+599,01/17/2020,Oklahoma City Thunder,Miami Heat,0.5052196759531925
+600,01/18/2020,Golden State Warriors,Orlando Magic,0.43018194827052825
+601,01/18/2020,Chicago Bulls,Cleveland Cavaliers,0.686758466155158
+602,01/18/2020,New York Knicks,Philadelphia 76ers,0.2936922250388655
+603,01/18/2020,Brooklyn Nets,Milwaukee Bucks,0.2796507684190776
+604,01/18/2020,Boston Celtics,Phoenix Suns,0.705507362655807
+605,01/18/2020,Houston Rockets,Los Angeles Lakers,0.4885650226183404
+606,01/18/2020,Utah Jazz,Sacramento Kings,0.745006268998353
+607,01/18/2020,Atlanta Hawks,Detroit Pistons,0.44498031654386705
+608,01/18/2020,Minnesota Timberwolves,Toronto Raptors,0.3726425696425354
+609,01/18/2020,Oklahoma City Thunder,Portland Trail Blazers,0.6852805922971031
+610,01/18/2020,New Orleans Pelicans,LA Clippers,0.3670397140606102
+611,01/19/2020,San Antonio Spurs,Miami Heat,0.4224867769818655
+612,01/19/2020,Denver Nuggets,Indiana Pacers,0.5995231879991219
+613,01/20/2020,Phoenix Suns,San Antonio Spurs,0.6086053615135291
+614,01/20/2020,Brooklyn Nets,Philadelphia 76ers,0.4377317992431737
+615,01/20/2020,Boston Celtics,Los Angeles Lakers,0.4909232949216662
+616,01/20/2020,Cleveland Cavaliers,New York Knicks,0.6321727340605982
+617,01/20/2020,Houston Rockets,Oklahoma City Thunder,0.6350161452394453
+618,01/20/2020,Miami Heat,Sacramento Kings,0.7520970241883785
+619,01/20/2020,Utah Jazz,Indiana Pacers,0.6326587622258228
+620,01/20/2020,Portland Trail Blazers,Golden State Warriors,0.7043171780043165
+621,01/20/2020,Milwaukee Bucks,Chicago Bulls,0.8420661292870514
+622,01/20/2020,Atlanta Hawks,Toronto Raptors,0.276597354811866
+623,01/20/2020,Minnesota Timberwolves,Denver Nuggets,0.4089104840982822
+624,01/20/2020,Charlotte Hornets,Orlando Magic,0.5032174495965146
+625,01/20/2020,Washington Wizards,Detroit Pistons,0.5009766343456565
+626,01/20/2020,Memphis Grizzlies,New Orleans Pelicans,0.6359143985599662
+627,01/21/2020,Dallas Mavericks,LA Clippers,0.5787912326103791
+628,01/22/2020,Golden State Warriors,Utah Jazz,0.257921013702289
+629,01/22/2020,Chicago Bulls,Minnesota Timberwolves,0.6109763732119057
+630,01/22/2020,New York Knicks,Los Angeles Lakers,0.21474535714330925
+631,01/22/2020,Phoenix Suns,Indiana Pacers,0.51594371219862
+632,01/22/2020,Boston Celtics,Memphis Grizzlies,0.7278819255693769
+633,01/22/2020,Orlando Magic,Oklahoma City Thunder,0.4745101921427859
+634,01/22/2020,Houston Rockets,Denver Nuggets,0.5982816979635389
+635,01/22/2020,Miami Heat,Washington Wizards,0.779381395444927
+636,01/22/2020,Detroit Pistons,Sacramento Kings,0.6235188164684278
+637,01/22/2020,Atlanta Hawks,LA Clippers,0.2684370320408793
+638,01/22/2020,Toronto Raptors,Philadelphia 76ers,0.6344001566106938
+639,01/22/2020,New Orleans Pelicans,San Antonio Spurs,0.543135442679944
+640,01/23/2020,Brooklyn Nets,Los Angeles Lakers,0.33219646620866355
+641,01/23/2020,Cleveland Cavaliers,Washington Wizards,0.4981350013039544
+642,01/23/2020,Portland Trail Blazers,Dallas Mavericks,0.39008887662058106
+643,01/24/2020,Golden State Warriors,Indiana Pacers,0.3073788828989435
+644,01/24/2020,San Antonio Spurs,Phoenix Suns,0.5832239615717465
+645,01/24/2020,Chicago Bulls,Sacramento Kings,0.6014262260994492
+646,01/24/2020,New York Knicks,Toronto Raptors,0.25721049480483155
+647,01/24/2020,Orlando Magic,Boston Celtics,0.3903450448763984
+648,01/24/2020,Miami Heat,LA Clippers,0.5825195879066594
+649,01/24/2020,Detroit Pistons,Memphis Grizzlies,0.6054062884761917
+650,01/24/2020,Minnesota Timberwolves,Houston Rockets,0.3839393924949079
+651,01/24/2020,Charlotte Hornets,Milwaukee Bucks,0.20608988862911148
+652,01/24/2020,Oklahoma City Thunder,Atlanta Hawks,0.7912163241307253
+653,01/24/2020,New Orleans Pelicans,Denver Nuggets,0.44558886206390685
+654,01/25/2020,Philadelphia 76ers,Los Angeles Lakers,0.461230593082607
+655,01/25/2020,Cleveland Cavaliers,Chicago Bulls,0.468847716070056
+656,01/25/2020,Detroit Pistons,Brooklyn Nets,0.6318435895862143
+657,01/25/2020,Utah Jazz,Dallas Mavericks,0.5989140621364092
+658,01/25/2020,Minnesota Timberwolves,Oklahoma City Thunder,0.4121826396819552
+659,01/26/2020,San Antonio Spurs,Toronto Raptors,0.4275360722977664
+660,01/26/2020,New York Knicks,Brooklyn Nets,0.43746241600786323
+661,01/26/2020,Orlando Magic,LA Clippers,0.38802541896378917
+662,01/26/2020,Portland Trail Blazers,Indiana Pacers,0.43905091833843385
+663,01/26/2020,Atlanta Hawks,Washington Wizards,0.4832407696791418
+664,01/26/2020,Denver Nuggets,Houston Rockets,0.549482908557724
+665,01/26/2020,Memphis Grizzlies,Phoenix Suns,0.5705561505065854
+666,01/26/2020,New Orleans Pelicans,Boston Celtics,0.3776448149934416
+667,01/27/2020,Chicago Bulls,San Antonio Spurs,0.5426000862181687
+668,01/27/2020,Miami Heat,Orlando Magic,0.7559662859333975
+669,01/27/2020,Detroit Pistons,Cleveland Cavaliers,0.7263259694341806
+670,01/27/2020,Utah Jazz,Houston Rockets,0.6318610943916638
+671,01/27/2020,Minnesota Timberwolves,Sacramento Kings,0.552331743448119
+672,01/27/2020,Oklahoma City Thunder,Dallas Mavericks,0.5333458073157425
+673,01/28/2020,Philadelphia 76ers,Golden State Warriors,0.81988061089565
+674,01/28/2020,Cleveland Cavaliers,New Orleans Pelicans,0.4632814074422176
+675,01/28/2020,Miami Heat,Boston Celtics,0.584898741558999
+676,01/28/2020,Milwaukee Bucks,Washington Wizards,0.8593244593844565
+677,01/28/2020,Dallas Mavericks,Phoenix Suns,0.7180241071030905
+678,01/28/2020,Charlotte Hornets,New York Knicks,0.6297459207638477
+679,01/28/2020,Toronto Raptors,Atlanta Hawks,0.8333256630845589
+680,01/28/2020,Memphis Grizzlies,Denver Nuggets,0.484342391196401
+681,01/29/2020,San Antonio Spurs,Utah Jazz,0.41262784930470076
+682,01/29/2020,New York Knicks,Memphis Grizzlies,0.39188973035234864
+683,01/29/2020,Brooklyn Nets,Detroit Pistons,0.548707126416878
+684,01/29/2020,Portland Trail Blazers,Houston Rockets,0.42379473128329
+685,01/29/2020,Indiana Pacers,Chicago Bulls,0.7104100906705813
+686,01/29/2020,Sacramento Kings,Oklahoma City Thunder,0.44813192902749005
+687,01/30/2020,Boston Celtics,Golden State Warriors,0.8523075895311439
+688,01/30/2020,LA Clippers,Sacramento Kings,0.7697967222178378
+689,01/30/2020,Cleveland Cavaliers,Toronto Raptors,0.27612397297530705
+690,01/30/2020,Atlanta Hawks,Philadelphia 76ers,0.3269092058799328
+691,01/30/2020,Denver Nuggets,Utah Jazz,0.5162758173462151
+692,01/30/2020,Washington Wizards,Charlotte Hornets,0.6379038049460917
+693,01/31/2020,Los Angeles Lakers,Portland Trail Blazers,0.7806753681130602
+694,01/31/2020,Phoenix Suns,Oklahoma City Thunder,0.5029412368282696
+695,01/31/2020,Brooklyn Nets,Chicago Bulls,0.5830239871492238
+696,01/31/2020,Houston Rockets,Dallas Mavericks,0.5660166369365576
+697,01/31/2020,Detroit Pistons,Toronto Raptors,0.4014353138762765
+698,01/31/2020,Milwaukee Bucks,Denver Nuggets,0.7629096832879938
+699,01/31/2020,New Orleans Pelicans,Memphis Grizzlies,0.5385522787486925
+700,02/01/2020,San Antonio Spurs,Charlotte Hornets,0.7169296080984697
+701,02/01/2020,Boston Celtics,Philadelphia 76ers,0.645310078744636
+702,02/01/2020,LA Clippers,Minnesota Timberwolves,0.7840279183975158
+703,02/01/2020,Orlando Magic,Miami Heat,0.3763764925486788
+704,02/01/2020,Cleveland Cavaliers,Golden State Warriors,0.6151949749721416
+705,02/01/2020,Portland Trail Blazers,Utah Jazz,0.40930941403427645
+706,02/01/2020,Indiana Pacers,New York Knicks,0.8240718906130539
+707,02/01/2020,Dallas Mavericks,Atlanta Hawks,0.8167697890990975
+708,02/01/2020,Sacramento Kings,Los Angeles Lakers,0.3475484478255183
+709,02/01/2020,Washington Wizards,Brooklyn Nets,0.5439071878914125
+710,02/02/2020,Houston Rockets,New Orleans Pelicans,0.7116392065170061
+711,02/02/2020,Detroit Pistons,Denver Nuggets,0.4573352527183076
+712,02/02/2020,Milwaukee Bucks,Phoenix Suns,0.8079864144843475
+713,02/02/2020,Toronto Raptors,Chicago Bulls,0.770665776603606
+714,02/03/2020,Brooklyn Nets,Phoenix Suns,0.5446284089918486
+715,02/03/2020,LA Clippers,San Antonio Spurs,0.7143191438093328
+716,02/03/2020,Cleveland Cavaliers,New York Knicks,0.6021109617657036
+717,02/03/2020,Miami Heat,Philadelphia 76ers,0.6418810826495766
+718,02/03/2020,Indiana Pacers,Dallas Mavericks,0.542530760432174
+719,02/03/2020,Atlanta Hawks,Boston Celtics,0.26997325303788694
+720,02/03/2020,Sacramento Kings,Minnesota Timberwolves,0.6231332172627465
+721,02/03/2020,Charlotte Hornets,Orlando Magic,0.5052237484420714
+722,02/03/2020,Washington Wizards,Golden State Warriors,0.6897991676005217
+723,02/03/2020,Memphis Grizzlies,Detroit Pistons,0.6107009875811362
+724,02/04/2020,Los Angeles Lakers,San Antonio Spurs,0.7559860865909737
+725,02/04/2020,Houston Rockets,Charlotte Hornets,0.8120940858191819
+726,02/04/2020,Denver Nuggets,Portland Trail Blazers,0.6810584968505029
+727,02/04/2020,New Orleans Pelicans,Milwaukee Bucks,0.27966236831771546
+728,02/05/2020,Brooklyn Nets,Golden State Warriors,0.7195013907470961
+729,02/05/2020,Boston Celtics,Orlando Magic,0.7844069579696732
+730,02/05/2020,LA Clippers,Miami Heat,0.5753275378321477
+731,02/05/2020,Detroit Pistons,Phoenix Suns,0.5572922290875455
+732,02/05/2020,Utah Jazz,Denver Nuggets,0.6251743526393151
+733,02/05/2020,Dallas Mavericks,Memphis Grizzlies,0.7051938194759325
+734,02/05/2020,Minnesota Timberwolves,Atlanta Hawks,0.6486587988079264
+735,02/05/2020,Toronto Raptors,Indiana Pacers,0.668681584366968
+736,02/05/2020,Oklahoma City Thunder,Cleveland Cavaliers,0.8059419639891562
+737,02/06/2020,Los Angeles Lakers,Houston Rockets,0.664973093030054
+738,02/06/2020,Chicago Bulls,New Orleans Pelicans,0.5551372191121398
+739,02/06/2020,New York Knicks,Orlando Magic,0.4700439020173189
+740,02/06/2020,Portland Trail Blazers,San Antonio Spurs,0.5643751898865952
+741,02/06/2020,Milwaukee Bucks,Philadelphia 76ers,0.7719621581409892
+742,02/07/2020,Philadelphia 76ers,Memphis Grizzlies,0.6310980592750434
+743,02/07/2020,Phoenix Suns,Houston Rockets,0.4447110894284929
+744,02/07/2020,Boston Celtics,Atlanta Hawks,0.8416563384606194
+745,02/07/2020,Utah Jazz,Portland Trail Blazers,0.7259443702650119
+746,02/07/2020,Indiana Pacers,Toronto Raptors,0.4906989981583036
+747,02/07/2020,Sacramento Kings,Miami Heat,0.39118555910006997
+748,02/07/2020,Washington Wizards,Dallas Mavericks,0.3821782184271736
+749,02/07/2020,Oklahoma City Thunder,Detroit Pistons,0.7041751496899444
+750,02/08/2020,Golden State Warriors,Los Angeles Lakers,0.22259649062369224
+751,02/08/2020,Phoenix Suns,Denver Nuggets,0.49213481824256977
+752,02/08/2020,Orlando Magic,Milwaukee Bucks,0.24600638397401706
+753,02/08/2020,Detroit Pistons,New York Knicks,0.7167610540056998
+754,02/08/2020,Indiana Pacers,New Orleans Pelicans,0.6808750224223431
+755,02/08/2020,Sacramento Kings,San Antonio Spurs,0.5552208330315291
+756,02/08/2020,Charlotte Hornets,Dallas Mavericks,0.30464593444248034
+757,02/08/2020,Minnesota Timberwolves,LA Clippers,0.33429415463643064
+758,02/08/2020,Toronto Raptors,Brooklyn Nets,0.7548855467241776
+759,02/09/2020,Philadelphia 76ers,Chicago Bulls,0.7052779748880755
+760,02/09/2020,Cleveland Cavaliers,LA Clippers,0.2804147174757757
+761,02/09/2020,Houston Rockets,Utah Jazz,0.5616720061457259
+762,02/09/2020,Portland Trail Blazers,Miami Heat,0.4200643483028096
+763,02/09/2020,Atlanta Hawks,New York Knicks,0.604305243748053
+764,02/09/2020,Washington Wizards,Memphis Grizzlies,0.5111039089086343
+765,02/09/2020,Oklahoma City Thunder,Boston Celtics,0.511025887359616
+766,02/10/2020,Golden State Warriors,Miami Heat,0.2722660889806121
+767,02/10/2020,Los Angeles Lakers,Phoenix Suns,0.7610270072296246
+768,02/10/2020,Orlando Magic,Atlanta Hawks,0.6486271168927807
+769,02/10/2020,Detroit Pistons,Charlotte Hornets,0.7051944468858428
+770,02/10/2020,Milwaukee Bucks,Sacramento Kings,0.8365030986640923
+771,02/10/2020,Indiana Pacers,Brooklyn Nets,0.6700511245100598
+772,02/10/2020,Dallas Mavericks,Utah Jazz,0.5772768868539087
+773,02/10/2020,Denver Nuggets,San Antonio Spurs,0.6979415484742534
+774,02/10/2020,Toronto Raptors,Minnesota Timberwolves,0.8027851998934077
+775,02/11/2020,Philadelphia 76ers,LA Clippers,0.49895480172069584
+776,02/11/2020,Houston Rockets,Boston Celtics,0.5209674569269778
+777,02/11/2020,Washington Wizards,Chicago Bulls,0.5740568201194863
+778,02/11/2020,Oklahoma City Thunder,San Antonio Spurs,0.69603583418675
+779,02/11/2020,New Orleans Pelicans,Portland Trail Blazers,0.5802748113360846
+780,02/12/2020,New York Knicks,Washington Wizards,0.47478180527340863
+781,02/12/2020,Phoenix Suns,Golden State Warriors,0.7505325639402944
+782,02/12/2020,Brooklyn Nets,Toronto Raptors,0.384104046529475
+783,02/12/2020,Orlando Magic,Detroit Pistons,0.5537687771154953
+784,02/12/2020,Cleveland Cavaliers,Atlanta Hawks,0.5449334908605806
+785,02/12/2020,Utah Jazz,Miami Heat,0.5888603518870605
+786,02/12/2020,Indiana Pacers,Milwaukee Bucks,0.36594226747901065
+787,02/12/2020,Dallas Mavericks,Sacramento Kings,0.730278017956891
+788,02/12/2020,Denver Nuggets,Los Angeles Lakers,0.48405993592861
+789,02/12/2020,Minnesota Timberwolves,Charlotte Hornets,0.6604830628116679
+790,02/12/2020,Memphis Grizzlies,Portland Trail Blazers,0.6132278743971687
+791,02/13/2020,Boston Celtics,LA Clippers,0.6017572446476951
+792,02/13/2020,New Orleans Pelicans,Oklahoma City Thunder,0.4760953140355951
+793,02/20/2020,Philadelphia 76ers,Brooklyn Nets,0.666950740961538
+794,02/20/2020,Golden State Warriors,Houston Rockets,0.2859206786807982
+795,02/20/2020,Chicago Bulls,Charlotte Hornets,0.6686323354198525
+796,02/20/2020,Detroit Pistons,Milwaukee Bucks,0.2676752428259246
+797,02/20/2020,Atlanta Hawks,Miami Heat,0.30687311141344953
+798,02/20/2020,Sacramento Kings,Memphis Grizzlies,0.5326532563639151
+799,02/21/2020,Los Angeles Lakers,Memphis Grizzlies,0.7611008390224208
+800,02/21/2020,New York Knicks,Indiana Pacers,0.33129733050533555
+801,02/21/2020,Orlando Magic,Dallas Mavericks,0.37948674867371573
+802,02/21/2020,Portland Trail Blazers,New Orleans Pelicans,0.5676552234845536
+803,02/21/2020,Utah Jazz,San Antonio Spurs,0.7323130577126299
+804,02/21/2020,Minnesota Timberwolves,Boston Celtics,0.3294409057766621
+805,02/21/2020,Washington Wizards,Cleveland Cavaliers,0.6944248367253077
+806,02/21/2020,Toronto Raptors,Phoenix Suns,0.7431067349683631
+807,02/21/2020,Oklahoma City Thunder,Denver Nuggets,0.5733580291154023
+808,02/22/2020,Chicago Bulls,Phoenix Suns,0.5181308740917883
+809,02/22/2020,LA Clippers,Sacramento Kings,0.7447265806023925
+810,02/22/2020,Miami Heat,Cleveland Cavaliers,0.8207098686815933
+811,02/22/2020,Utah Jazz,Houston Rockets,0.5966452176647115
+812,02/22/2020,Milwaukee Bucks,Philadelphia 76ers,0.7679098786333753
+813,02/22/2020,Atlanta Hawks,Dallas Mavericks,0.3065131413591037
+814,02/22/2020,Charlotte Hornets,Brooklyn Nets,0.45125775240537425
+815,02/23/2020,Golden State Warriors,New Orleans Pelicans,0.39083657120609355
+816,02/23/2020,Los Angeles Lakers,Boston Celtics,0.6237589249480798
+817,02/23/2020,Chicago Bulls,Washington Wizards,0.5728464202449435
+818,02/23/2020,Portland Trail Blazers,Detroit Pistons,0.5972401830465933
+819,02/23/2020,Denver Nuggets,Minnesota Timberwolves,0.7543939850062398
+820,02/23/2020,Toronto Raptors,Indiana Pacers,0.6850177024669487
+821,02/23/2020,Oklahoma City Thunder,San Antonio Spurs,0.6898189479166037
+822,02/24/2020,Philadelphia 76ers,Atlanta Hawks,0.7658964476030129
+823,02/24/2020,Brooklyn Nets,Orlando Magic,0.6485780876414488
+824,02/24/2020,LA Clippers,Memphis Grizzlies,0.709481530945069
+825,02/24/2020,Cleveland Cavaliers,Miami Heat,0.29062912531463553
+826,02/24/2020,Houston Rockets,New York Knicks,0.8342905731738872
+827,02/24/2020,Utah Jazz,Phoenix Suns,0.7092988995619903
+828,02/24/2020,Dallas Mavericks,Minnesota Timberwolves,0.7797898501066897
+829,02/24/2020,Washington Wizards,Milwaukee Bucks,0.2511150395547098
+830,02/25/2020,Golden State Warriors,Sacramento Kings,0.4153105440204264
+831,02/25/2020,Los Angeles Lakers,New Orleans Pelicans,0.7679305739824249
+832,02/25/2020,Chicago Bulls,Oklahoma City Thunder,0.4073347242846305
+833,02/25/2020,Portland Trail Blazers,Boston Celtics,0.3867251863479856
+834,02/25/2020,Indiana Pacers,Charlotte Hornets,0.7707665916455051
+835,02/25/2020,Denver Nuggets,Detroit Pistons,0.7282755354170586
+836,02/25/2020,Toronto Raptors,Milwaukee Bucks,0.486454709172601
+837,02/26/2020,San Antonio Spurs,Dallas Mavericks,0.42134261893591135
+838,02/26/2020,Phoenix Suns,LA Clippers,0.44648887686181066
+839,02/26/2020,Cleveland Cavaliers,Philadelphia 76ers,0.35063705422711683
+840,02/26/2020,Houston Rockets,Memphis Grizzlies,0.7158161508178985
+841,02/26/2020,Miami Heat,Minnesota Timberwolves,0.7749134319228707
+842,02/26/2020,Utah Jazz,Boston Celtics,0.541233251666809
+843,02/26/2020,Atlanta Hawks,Orlando Magic,0.5082927633511983
+844,02/26/2020,Charlotte Hornets,New York Knicks,0.5965122051110552
+845,02/26/2020,Washington Wizards,Brooklyn Nets,0.5325079378946755
+846,02/27/2020,Philadelphia 76ers,New York Knicks,0.7959506425311192
+847,02/27/2020,Golden State Warriors,Los Angeles Lakers,0.20707540372381067
+848,02/27/2020,Indiana Pacers,Portland Trail Blazers,0.6843538307067344
+849,02/27/2020,Oklahoma City Thunder,Sacramento Kings,0.7122295808291688
+850,02/28/2020,Phoenix Suns,Detroit Pistons,0.6388409319585004
+851,02/28/2020,LA Clippers,Denver Nuggets,0.6145246389928389
+852,02/28/2020,Orlando Magic,Minnesota Timberwolves,0.6080549091648696
+853,02/28/2020,Miami Heat,Dallas Mavericks,0.5660787530178905
+854,02/28/2020,Milwaukee Bucks,Oklahoma City Thunder,0.7401658702593364
+855,02/28/2020,Utah Jazz,Washington Wizards,0.7432967758618279
+856,02/28/2020,Atlanta Hawks,Brooklyn Nets,0.4506064002944183
+857,02/28/2020,Toronto Raptors,Charlotte Hornets,0.8525568096999808
+858,02/28/2020,Memphis Grizzlies,Sacramento Kings,0.5892346595134115
+859,02/28/2020,New Orleans Pelicans,Cleveland Cavaliers,0.7206071450995195
+860,02/29/2020,San Antonio Spurs,Orlando Magic,0.6136878625928531
+861,02/29/2020,New York Knicks,Chicago Bulls,0.4638433769642945
+862,02/29/2020,Phoenix Suns,Golden State Warriors,0.768260275121154
+863,02/29/2020,Boston Celtics,Houston Rockets,0.6119537887177197
+864,02/29/2020,Cleveland Cavaliers,Indiana Pacers,0.3562857146131915
+865,02/29/2020,Miami Heat,Brooklyn Nets,0.7207507156662163
+866,02/29/2020,Atlanta Hawks,Portland Trail Blazers,0.4843247796303679
+867,02/29/2020,Memphis Grizzlies,Los Angeles Lakers,0.3457398333227678
+868,03/01/2020,Golden State Warriors,Washington Wizards,0.4411382855486221
+869,03/01/2020,LA Clippers,Philadelphia 76ers,0.6683059630185968
+870,03/01/2020,Sacramento Kings,Detroit Pistons,0.6133569431463534
+871,03/01/2020,Denver Nuggets,Toronto Raptors,0.5107731732888373
+872,03/01/2020,Minnesota Timberwolves,Dallas Mavericks,0.35205034081912023
+873,03/01/2020,Charlotte Hornets,Milwaukee Bucks,0.1744413233310816
+874,03/01/2020,New Orleans Pelicans,Los Angeles Lakers,0.3769552990268482
+875,03/02/2020,San Antonio Spurs,Indiana Pacers,0.48428884864980476
+876,03/02/2020,Chicago Bulls,Dallas Mavericks,0.369903293652791
+877,03/02/2020,New York Knicks,Houston Rockets,0.27222893554238203
+878,03/02/2020,Orlando Magic,Portland Trail Blazers,0.5687474282435857
+879,03/02/2020,Cleveland Cavaliers,Utah Jazz,0.3069182328275445
+880,03/02/2020,Miami Heat,Milwaukee Bucks,0.4108653997119186
+881,03/02/2020,Atlanta Hawks,Memphis Grizzlies,0.4740526162161841
+882,03/03/2020,Los Angeles Lakers,Philadelphia 76ers,0.7165741780667302
+883,03/03/2020,Phoenix Suns,Toronto Raptors,0.4067555449290542
+884,03/03/2020,Boston Celtics,Brooklyn Nets,0.7547457080036387
+885,03/03/2020,Sacramento Kings,Washington Wizards,0.6164124429599778
+886,03/03/2020,Denver Nuggets,Golden State Warriors,0.8372209500426726
+887,03/03/2020,Charlotte Hornets,San Antonio Spurs,0.43864433037337475
+888,03/03/2020,Oklahoma City Thunder,LA Clippers,0.5231655656187053
+889,03/03/2020,New Orleans Pelicans,Minnesota Timberwolves,0.6789958591221223
+890,03/04/2020,New York Knicks,Utah Jazz,0.2847609306668677
+891,03/04/2020,Brooklyn Nets,Memphis Grizzlies,0.5724543765219011
+892,03/04/2020,Cleveland Cavaliers,Boston Celtics,0.2703903783995951
+893,03/04/2020,Miami Heat,Orlando Magic,0.7636761890234597
+894,03/04/2020,Detroit Pistons,Oklahoma City Thunder,0.433407619080501
+895,03/04/2020,Portland Trail Blazers,Washington Wizards,0.6059233743080226
+896,03/04/2020,Milwaukee Bucks,Indiana Pacers,0.7688606014788677
+897,03/04/2020,Dallas Mavericks,New Orleans Pelicans,0.7183113925720307
+898,03/04/2020,Minnesota Timberwolves,Chicago Bulls,0.556708279008355
+899,03/05/2020,Golden State Warriors,Toronto Raptors,0.2381873770816272
+900,03/05/2020,Houston Rockets,LA Clippers,0.5616646269591805
+901,03/05/2020,Sacramento Kings,Philadelphia 76ers,0.507190448120804
+902,03/05/2020,Charlotte Hornets,Denver Nuggets,0.31898931006795117
+903,03/06/2020,Los Angeles Lakers,Milwaukee Bucks,0.5049233667174247
+904,03/06/2020,Chicago Bulls,Indiana Pacers,0.4388261673119577
+905,03/06/2020,New York Knicks,Oklahoma City Thunder,0.3115412869780184
+906,03/06/2020,Phoenix Suns,Portland Trail Blazers,0.6003850488482255
+907,03/06/2020,Brooklyn Nets,San Antonio Spurs,0.5696669685976844
+908,03/06/2020,Boston Celtics,Utah Jazz,0.6113950091122136
+909,03/06/2020,Dallas Mavericks,Memphis Grizzlies,0.7140687896680059
+910,03/06/2020,Minnesota Timberwolves,Orlando Magic,0.5637109243036718
+911,03/06/2020,Washington Wizards,Atlanta Hawks,0.6594135950558189
+912,03/06/2020,New Orleans Pelicans,Miami Heat,0.4371062427194926
+913,03/07/2020,Golden State Warriors,Philadelphia 76ers,0.32103827077204483
+914,03/07/2020,Cleveland Cavaliers,Denver Nuggets,0.31706320589760345
+915,03/07/2020,Detroit Pistons,Utah Jazz,0.3878991776172249
+916,03/07/2020,Portland Trail Blazers,Sacramento Kings,0.5797330345425159
+917,03/07/2020,Charlotte Hornets,Houston Rockets,0.29279149503659596
+918,03/07/2020,Memphis Grizzlies,Atlanta Hawks,0.708870715914379
+919,03/08/2020,New York Knicks,Detroit Pistons,0.45681481770065263
+920,03/08/2020,Phoenix Suns,Milwaukee Bucks,0.3040613424801205
+921,03/08/2020,Brooklyn Nets,Chicago Bulls,0.6322107417606849
+922,03/08/2020,Boston Celtics,Oklahoma City Thunder,0.6326600277303478
+923,03/08/2020,LA Clippers,Los Angeles Lakers,0.5370116828552974
+924,03/08/2020,Cleveland Cavaliers,San Antonio Spurs,0.4473719581680265
+925,03/08/2020,Houston Rockets,Orlando Magic,0.7543623560793705
+926,03/08/2020,Dallas Mavericks,Indiana Pacers,0.6591215560469182
+927,03/08/2020,Sacramento Kings,Toronto Raptors,0.39451098359827474
+928,03/08/2020,Minnesota Timberwolves,New Orleans Pelicans,0.49278232956939244
+929,03/08/2020,Washington Wizards,Miami Heat,0.3941429388330607
+930,03/09/2020,Utah Jazz,Toronto Raptors,0.5455370780078865
+931,03/09/2020,Atlanta Hawks,Charlotte Hornets,0.5939711297739417
+932,03/09/2020,Denver Nuggets,Milwaukee Bucks,0.40460749031487964
+933,03/10/2020,Golden State Warriors,LA Clippers,0.2426007273275847
+934,03/10/2020,San Antonio Spurs,Dallas Mavericks,0.4056516077295336
+935,03/10/2020,Los Angeles Lakers,Brooklyn Nets,0.7916984836083449
+936,03/10/2020,Chicago Bulls,Cleveland Cavaliers,0.6563149637578837
+937,03/10/2020,Houston Rockets,Minnesota Timberwolves,0.7807174982223922
+938,03/10/2020,Portland Trail Blazers,Phoenix Suns,0.5484806388217185
+939,03/10/2020,Indiana Pacers,Boston Celtics,0.5085208945056162
+940,03/10/2020,Washington Wizards,New York Knicks,0.7004197293299681
+941,03/10/2020,Memphis Grizzlies,Orlando Magic,0.6362538507677014
+942,03/11/2020,Philadelphia 76ers,Detroit Pistons,0.7074025671070747
+943,03/11/2020,Miami Heat,Charlotte Hornets,0.8298703159213828
+944,03/11/2020,Dallas Mavericks,Denver Nuggets,0.6190413495461433
+945,03/11/2020,Atlanta Hawks,New York Knicks,0.6249865816495526

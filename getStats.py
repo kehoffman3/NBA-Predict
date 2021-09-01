@@ -10,9 +10,9 @@ from customHeaders import customHeaders
 # startDate and endDate should be in format 'mm/dd/yyyy'
 def getStatsForTeam(team, startDate, endDate, season='2019-20'):
 
-    time.sleep(1)
+    time.sleep(2)
     # Uses NBA_API to access the dictionary holding basic stats for every team per 100 possessions
-    generalTeamInfo = teamdashboardbygeneralsplits.TeamDashboardByGeneralSplits(team_id=teams[team], per_mode_detailed='Per100Possessions', date_from_nullable=startDate, date_to_nullable=endDate, season=season, headers=customHeaders, timeout=120)
+    generalTeamInfo = teamdashboardbygeneralsplits.TeamDashboardByGeneralSplits(team_id=teams[team], per_mode_detailed='Per100Possessions', date_from_nullable=startDate, date_to_nullable=endDate, season=season, headers=customHeaders, timeout=180)
     generalTeamDict = generalTeamInfo.get_normalized_dict()
     generalTeamDashboard = generalTeamDict['OverallTeamDashboard'][0]
 

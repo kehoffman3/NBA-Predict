@@ -9,7 +9,7 @@ from customHeaders import customHeaders
 # Finds league mean for the entered basic or advanced statistic (statType = 'Base' or 'Advanced')
 def basicOrAdvancedStatMean(startDate, endDate, stat,statType = 'Base', season='2018-19'):
 
-    time.sleep(.2)
+    time.sleep(2)
     # Gets list of dictionaries with stats for every team
     allTeamsInfo = leaguedashteamstats.LeagueDashTeamStats(per_mode_detailed='Per100Possessions',
                                                            measure_type_detailed_defense=statType,
@@ -32,7 +32,7 @@ def basicOrAdvancedStatMean(startDate, endDate, stat,statType = 'Base', season='
 # Finds league standard deviation for the entered basic or advanced statistic (statType = 'Base' or 'Advanced')
 def basicOrAdvancedStatStandardDeviation(startDate, endDate, stat,statType = 'Base', season='2018-19'):
 
-    time.sleep(.2)
+    time.sleep(.5)
     # Gets list of dictionaries with stats for every team
     allTeamsInfo = leaguedashteamstats.LeagueDashTeamStats(per_mode_detailed='Per100Possessions',
                                                            measure_type_detailed_defense=statType,

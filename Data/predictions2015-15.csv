@@ -1,0 +1,1197 @@
+,Date,Home,Away,Home Team Win Probability
+0,10/30/2015,Philadelphia 76ers,Utah Jazz,0.5188287537340683
+1,10/30/2015,San Antonio Spurs,Brooklyn Nets,0.6665919097311591
+2,10/30/2015,Phoenix Suns,Portland Trail Blazers,0.2768841495805197
+3,10/30/2015,Boston Celtics,Toronto Raptors,0.6620859068489854
+4,10/30/2015,Orlando Magic,Oklahoma City Thunder,0.3648185814838813
+5,10/30/2015,Cleveland Cavaliers,Miami Heat,0.5067964209213074
+6,10/30/2015,Houston Rockets,Golden State Warriors,0.27615396488046945
+7,10/30/2015,Detroit Pistons,Chicago Bulls,0.5359100084470619
+8,10/30/2015,Milwaukee Bucks,Washington Wizards,0.36640357352580577
+9,10/30/2015,Atlanta Hawks,Charlotte Hornets,0.7180565442471701
+10,10/30/2015,Sacramento Kings,Los Angeles Lakers,0.5423374037842302
+11,10/30/2015,Denver Nuggets,Minnesota Timberwolves,0.6994944912781965
+12,10/31/2015,LA Clippers,Sacramento Kings,0.6717346109852737
+13,10/31/2015,Portland Trail Blazers,Phoenix Suns,0.6106873036741804
+14,10/31/2015,Indiana Pacers,Utah Jazz,0.43687380625829636
+15,10/31/2015,Washington Wizards,New York Knicks,0.6384607197679166
+16,10/31/2015,Memphis Grizzlies,Brooklyn Nets,0.7153896553806677
+17,10/31/2015,New Orleans Pelicans,Golden State Warriors,0.2653292180873104
+18,11/01/2015,Los Angeles Lakers,Dallas Mavericks,0.5296585872371881
+19,11/01/2015,Chicago Bulls,Orlando Magic,0.7231006192924946
+20,11/01/2015,Boston Celtics,San Antonio Spurs,0.5485187861042748
+21,11/01/2015,Miami Heat,Houston Rockets,0.8094149128488821
+22,11/01/2015,Charlotte Hornets,Atlanta Hawks,0.41179039265378514
+23,11/01/2015,Toronto Raptors,Milwaukee Bucks,0.8030976348530128
+24,11/01/2015,Oklahoma City Thunder,Denver Nuggets,0.7101163447288238
+25,11/02/2015,Philadelphia 76ers,Cleveland Cavaliers,0.28045165158182095
+26,11/02/2015,Golden State Warriors,Memphis Grizzlies,0.7604498663783953
+27,11/02/2015,New York Knicks,San Antonio Spurs,0.5829206259916327
+28,11/02/2015,Brooklyn Nets,Milwaukee Bucks,0.52685870655373
+29,11/02/2015,LA Clippers,Phoenix Suns,0.6886136866629102
+30,11/02/2015,Houston Rockets,Oklahoma City Thunder,0.23373433664240026
+31,11/02/2015,Minnesota Timberwolves,Portland Trail Blazers,0.7369771393035197
+32,11/03/2015,Los Angeles Lakers,Denver Nuggets,0.576236756064411
+33,11/03/2015,Miami Heat,Atlanta Hawks,0.6404743454628845
+34,11/03/2015,Detroit Pistons,Indiana Pacers,0.7421159411871653
+35,11/03/2015,Dallas Mavericks,Toronto Raptors,0.4345620379545264
+36,11/03/2015,Sacramento Kings,Memphis Grizzlies,0.7224106371768398
+37,11/03/2015,Charlotte Hornets,Chicago Bulls,0.3977608534079928
+38,11/03/2015,New Orleans Pelicans,Orlando Magic,0.5315745151506791
+39,11/04/2015,Golden State Warriors,LA Clippers,0.7078014327055385
+40,11/04/2015,Phoenix Suns,Sacramento Kings,0.6032525711964954
+41,11/04/2015,Cleveland Cavaliers,New York Knicks,0.6829463388320665
+42,11/04/2015,Houston Rockets,Orlando Magic,0.4869021436016068
+43,11/04/2015,Utah Jazz,Portland Trail Blazers,0.7012690680351196
+44,11/04/2015,Milwaukee Bucks,Philadelphia 76ers,0.7072472864684383
+45,11/04/2015,Indiana Pacers,Boston Celtics,0.544552484881078
+46,11/04/2015,Atlanta Hawks,Brooklyn Nets,0.7950698218249191
+47,11/04/2015,Washington Wizards,San Antonio Spurs,0.5307797418309942
+48,11/04/2015,Oklahoma City Thunder,Toronto Raptors,0.5425720814802764
+49,11/05/2015,Chicago Bulls,Oklahoma City Thunder,0.49723965543903037
+50,11/05/2015,Portland Trail Blazers,Memphis Grizzlies,0.7284467005866356
+51,11/05/2015,Dallas Mavericks,Charlotte Hornets,0.5601586495716324
+52,11/05/2015,Denver Nuggets,Utah Jazz,0.5141665431038878
+53,11/05/2015,Minnesota Timberwolves,Miami Heat,0.6059127222270386
+54,11/06/2015,Golden State Warriors,Denver Nuggets,0.861609367741939
+55,11/06/2015,New York Knicks,Milwaukee Bucks,0.6165537721851054
+56,11/06/2015,Phoenix Suns,Detroit Pistons,0.6501233728819679
+57,11/06/2015,Brooklyn Nets,Los Angeles Lakers,0.5101998620283843
+58,11/06/2015,Boston Celtics,Washington Wizards,0.46602395655834006
+59,11/06/2015,Orlando Magic,Toronto Raptors,0.3418362363550306
+60,11/06/2015,Cleveland Cavaliers,Philadelphia 76ers,0.8533561811289934
+61,11/06/2015,Indiana Pacers,Miami Heat,0.4351643422580007
+62,11/06/2015,Sacramento Kings,Houston Rockets,0.6095875822148534
+63,11/06/2015,New Orleans Pelicans,Atlanta Hawks,0.2959591032089427
+64,11/07/2015,Philadelphia 76ers,Orlando Magic,0.425037524098809
+65,11/07/2015,San Antonio Spurs,Charlotte Hornets,0.6390680330463121
+66,11/07/2015,Chicago Bulls,Minnesota Timberwolves,0.6132474498863186
+67,11/07/2015,LA Clippers,Houston Rockets,0.7574662074947781
+68,11/07/2015,Utah Jazz,Memphis Grizzlies,0.7640746443289163
+69,11/07/2015,Milwaukee Bucks,Brooklyn Nets,0.7608535861473075
+70,11/07/2015,Dallas Mavericks,New Orleans Pelicans,0.6755121609013031
+71,11/07/2015,Atlanta Hawks,Washington Wizards,0.6946395171478811
+72,11/07/2015,Sacramento Kings,Golden State Warriors,0.21519984422177066
+73,11/08/2015,New York Knicks,Los Angeles Lakers,0.6341143811637441
+74,11/08/2015,Cleveland Cavaliers,Indiana Pacers,0.7651422969586246
+75,11/08/2015,Miami Heat,Toronto Raptors,0.5136868992793417
+76,11/08/2015,Portland Trail Blazers,Detroit Pistons,0.6695683062460418
+77,11/08/2015,Oklahoma City Thunder,Phoenix Suns,0.6509259628144808
+78,11/09/2015,Philadelphia 76ers,Chicago Bulls,0.39687159184076176
+79,11/09/2015,Golden State Warriors,Detroit Pistons,0.7876173996327027
+80,11/09/2015,LA Clippers,Memphis Grizzlies,0.81372733262296
+81,11/09/2015,Indiana Pacers,Orlando Magic,0.5239885606074157
+82,11/09/2015,Atlanta Hawks,Minnesota Timberwolves,0.712068033300457
+83,11/09/2015,Sacramento Kings,San Antonio Spurs,0.33565717067186257
+84,11/09/2015,Denver Nuggets,Portland Trail Blazers,0.4036636543971462
+85,11/10/2015,Cleveland Cavaliers,Utah Jazz,0.6518087019741535
+86,11/10/2015,Miami Heat,Los Angeles Lakers,0.7657474174743197
+87,11/10/2015,Milwaukee Bucks,Boston Celtics,0.5629055961074273
+88,11/10/2015,Minnesota Timberwolves,Charlotte Hornets,0.6592165322469027
+89,11/10/2015,Washington Wizards,Oklahoma City Thunder,0.45469466938692976
+90,11/10/2015,Toronto Raptors,New York Knicks,0.6796933687566148
+91,11/10/2015,New Orleans Pelicans,Dallas Mavericks,0.43667432851263865
+92,11/11/2015,Philadelphia 76ers,Toronto Raptors,0.3026874490334337
+93,11/11/2015,Boston Celtics,Indiana Pacers,0.6645632454197103
+94,11/11/2015,Orlando Magic,Los Angeles Lakers,0.6807613107845901
+95,11/11/2015,Houston Rockets,Brooklyn Nets,0.7652526952852962
+96,11/11/2015,Portland Trail Blazers,San Antonio Spurs,0.4502558627244348
+97,11/11/2015,Dallas Mavericks,LA Clippers,0.4060878103434968
+98,11/11/2015,Atlanta Hawks,New Orleans Pelicans,0.8010899856112492
+99,11/11/2015,Sacramento Kings,Detroit Pistons,0.4208900401977973
+100,11/11/2015,Denver Nuggets,Milwaukee Bucks,0.5489444310871703
+101,11/11/2015,Charlotte Hornets,New York Knicks,0.622401018766553
+102,11/11/2015,Memphis Grizzlies,Golden State Warriors,0.1709200142790271
+103,11/12/2015,Phoenix Suns,LA Clippers,0.48395956327491774
+104,11/12/2015,Miami Heat,Utah Jazz,0.6135861216583018
+105,11/12/2015,Minnesota Timberwolves,Golden State Warriors,0.31652792985484685
+106,11/13/2015,Chicago Bulls,Charlotte Hornets,0.5897764458332928
+107,11/13/2015,New York Knicks,Cleveland Cavaliers,0.37899202828890977
+108,11/13/2015,Boston Celtics,Atlanta Hawks,0.4620854784543655
+109,11/13/2015,Orlando Magic,Utah Jazz,0.5073766877507319
+110,11/13/2015,Indiana Pacers,Minnesota Timberwolves,0.5792182046225592
+111,11/13/2015,Dallas Mavericks,Los Angeles Lakers,0.6892618421279113
+112,11/13/2015,Sacramento Kings,Brooklyn Nets,0.6841157944931424
+113,11/13/2015,Denver Nuggets,Houston Rockets,0.6018368744481397
+114,11/13/2015,Toronto Raptors,New Orleans Pelicans,0.7663809051998697
+115,11/13/2015,Oklahoma City Thunder,Philadelphia 76ers,0.8767017860491114
+116,11/13/2015,Memphis Grizzlies,Portland Trail Blazers,0.38124182831301323
+117,11/14/2015,Golden State Warriors,Brooklyn Nets,0.9225373668976488
+118,11/14/2015,San Antonio Spurs,Philadelphia 76ers,0.9036070730562332
+119,11/14/2015,Phoenix Suns,Denver Nuggets,0.6245226269354509
+120,11/14/2015,LA Clippers,Detroit Pistons,0.6313730966368243
+121,11/14/2015,Houston Rockets,Dallas Mavericks,0.5141568293266426
+122,11/14/2015,Milwaukee Bucks,Cleveland Cavaliers,0.37453896320363284
+123,11/14/2015,Washington Wizards,Orlando Magic,0.5115902525992874
+124,11/15/2015,Los Angeles Lakers,Detroit Pistons,0.4503854235304912
+125,11/15/2015,New York Knicks,New Orleans Pelicans,0.6923120330236069
+126,11/15/2015,Atlanta Hawks,Utah Jazz,0.6826590801229202
+127,11/15/2015,Sacramento Kings,Toronto Raptors,0.3906196249197034
+128,11/15/2015,Minnesota Timberwolves,Memphis Grizzlies,0.7442535584964128
+129,11/15/2015,Charlotte Hornets,Portland Trail Blazers,0.5734210502577619
+130,11/15/2015,Oklahoma City Thunder,Boston Celtics,0.6976757724895725
+131,11/16/2015,Philadelphia 76ers,Dallas Mavericks,0.2950359552294105
+132,11/16/2015,San Antonio Spurs,Portland Trail Blazers,0.7747690872827186
+133,11/16/2015,Chicago Bulls,Indiana Pacers,0.6035475054344787
+134,11/16/2015,Phoenix Suns,Los Angeles Lakers,0.7527235495767652
+135,11/16/2015,Houston Rockets,Boston Celtics,0.41576209815509124
+136,11/16/2015,Memphis Grizzlies,Oklahoma City Thunder,0.32982217415331355
+137,11/17/2015,Golden State Warriors,Toronto Raptors,0.7914482370408458
+138,11/17/2015,New York Knicks,Charlotte Hornets,0.5186656130597858
+139,11/17/2015,Brooklyn Nets,Atlanta Hawks,0.2713422729986676
+140,11/17/2015,Miami Heat,Minnesota Timberwolves,0.6942977556958665
+141,11/17/2015,Detroit Pistons,Cleveland Cavaliers,0.3749267367256995
+142,11/17/2015,Washington Wizards,Milwaukee Bucks,0.5680385856267709
+143,11/17/2015,New Orleans Pelicans,Denver Nuggets,0.48872583122165947
+144,11/18/2015,Philadelphia 76ers,Indiana Pacers,0.3100089181318071
+145,11/18/2015,San Antonio Spurs,Denver Nuggets,0.7832101332226602
+146,11/18/2015,Phoenix Suns,Chicago Bulls,0.64034320125339
+147,11/18/2015,Boston Celtics,Dallas Mavericks,0.6458334751396634
+148,11/18/2015,Orlando Magic,Minnesota Timberwolves,0.5534800230962982
+149,11/18/2015,Houston Rockets,Portland Trail Blazers,0.5041789503898674
+150,11/18/2015,Utah Jazz,Toronto Raptors,0.5386854400277986
+151,11/18/2015,Atlanta Hawks,Sacramento Kings,0.7276468838188234
+152,11/18/2015,Charlotte Hornets,Brooklyn Nets,0.7608117648470596
+153,11/18/2015,Oklahoma City Thunder,New Orleans Pelicans,0.8210645491043118
+154,11/19/2015,LA Clippers,Golden State Warriors,0.3148830679279252
+155,11/19/2015,Cleveland Cavaliers,Milwaukee Bucks,0.7558567512072044
+156,11/19/2015,Miami Heat,Sacramento Kings,0.716994970689126
+157,11/20/2015,Golden State Warriors,Chicago Bulls,0.8122099814451298
+158,11/20/2015,Los Angeles Lakers,Toronto Raptors,0.3917080320631492
+159,11/20/2015,Boston Celtics,Brooklyn Nets,0.7952122855601519
+160,11/20/2015,Portland Trail Blazers,LA Clippers,0.48558412430373527
+161,11/20/2015,Dallas Mavericks,Utah Jazz,0.5879150560619812
+162,11/20/2015,Denver Nuggets,Phoenix Suns,0.46188129646059845
+163,11/20/2015,Charlotte Hornets,Philadelphia 76ers,0.8300557442513979
+164,11/20/2015,Minnesota Timberwolves,Detroit Pistons,0.6139882005342607
+165,11/20/2015,Oklahoma City Thunder,New York Knicks,0.7042686018815173
+166,11/20/2015,Memphis Grizzlies,Houston Rockets,0.5857725397228651
+167,11/20/2015,New Orleans Pelicans,San Antonio Spurs,0.22731009647461733
+168,11/21/2015,San Antonio Spurs,Memphis Grizzlies,0.7891319758123831
+169,11/21/2015,Orlando Magic,Sacramento Kings,0.6282438430197133
+170,11/21/2015,Cleveland Cavaliers,Atlanta Hawks,0.6314199127975257
+171,11/21/2015,Houston Rockets,New York Knicks,0.4713937127929556
+172,11/21/2015,Miami Heat,Philadelphia 76ers,0.8724406011236002
+173,11/21/2015,Detroit Pistons,Washington Wizards,0.5409735287943523
+174,11/21/2015,Indiana Pacers,Milwaukee Bucks,0.7000576427287293
+175,11/22/2015,Los Angeles Lakers,Portland Trail Blazers,0.47334109924473694
+176,11/22/2015,Brooklyn Nets,Boston Celtics,0.2810762952807626
+177,11/22/2015,LA Clippers,Toronto Raptors,0.5318262460508829
+178,11/22/2015,Denver Nuggets,Golden State Warriors,0.21531474490946007
+179,11/22/2015,Oklahoma City Thunder,Dallas Mavericks,0.6050690657657568
+180,11/22/2015,New Orleans Pelicans,Phoenix Suns,0.34957554660192597
+181,11/23/2015,San Antonio Spurs,Phoenix Suns,0.6793137448886807
+182,11/23/2015,Cleveland Cavaliers,Orlando Magic,0.763905484468736
+183,11/23/2015,Miami Heat,New York Knicks,0.6666320927333634
+184,11/23/2015,Utah Jazz,Oklahoma City Thunder,0.511538055966321
+185,11/23/2015,Milwaukee Bucks,Detroit Pistons,0.49757850000491577
+186,11/23/2015,Minnesota Timberwolves,Philadelphia 76ers,0.8033085410287634
+187,11/23/2015,Charlotte Hornets,Sacramento Kings,0.6963399146184491
+188,11/24/2015,Golden State Warriors,Los Angeles Lakers,0.9171599926487161
+189,11/24/2015,Portland Trail Blazers,Chicago Bulls,0.537939633718755
+190,11/24/2015,Atlanta Hawks,Boston Celtics,0.5709273953632428
+191,11/24/2015,Denver Nuggets,LA Clippers,0.5048962426674628
+192,11/24/2015,Washington Wizards,Indiana Pacers,0.5239929236861791
+193,11/24/2015,Memphis Grizzlies,Dallas Mavericks,0.44085730294024317
+194,11/25/2015,San Antonio Spurs,Dallas Mavericks,0.7202231844525598
+195,11/25/2015,Phoenix Suns,New Orleans Pelicans,0.7436659418116652
+196,11/25/2015,Boston Celtics,Philadelphia 76ers,0.846068162319774
+197,11/25/2015,LA Clippers,Utah Jazz,0.6112159065048556
+198,11/25/2015,Orlando Magic,New York Knicks,0.5510377777302565
+199,11/25/2015,Houston Rockets,Memphis Grizzlies,0.5231401303392127
+200,11/25/2015,Detroit Pistons,Miami Heat,0.4165325318252333
+201,11/25/2015,Milwaukee Bucks,Sacramento Kings,0.5661675442038618
+202,11/25/2015,Charlotte Hornets,Washington Wizards,0.6439052123324103
+203,11/25/2015,Minnesota Timberwolves,Atlanta Hawks,0.4643630899928039
+204,11/25/2015,Toronto Raptors,Cleveland Cavaliers,0.4889701575076866
+205,11/25/2015,Oklahoma City Thunder,Brooklyn Nets,0.8215798944961439
+206,11/27/2015,New York Knicks,Miami Heat,0.4783984452285804
+207,11/27/2015,Phoenix Suns,Golden State Warriors,0.2844468045242051
+208,11/27/2015,Boston Celtics,Washington Wizards,0.6552483368903771
+209,11/27/2015,LA Clippers,New Orleans Pelicans,0.6841252959162353
+210,11/27/2015,Orlando Magic,Milwaukee Bucks,0.626988390937507
+211,11/27/2015,Houston Rockets,Philadelphia 76ers,0.7237563422147792
+212,11/27/2015,Indiana Pacers,Chicago Bulls,0.6649645841249853
+213,11/27/2015,Sacramento Kings,Minnesota Timberwolves,0.5545408527445121
+214,11/27/2015,Denver Nuggets,San Antonio Spurs,0.3136100425149809
+215,11/27/2015,Charlotte Hornets,Cleveland Cavaliers,0.5168949315882446
+216,11/27/2015,Memphis Grizzlies,Atlanta Hawks,0.4573917406309963
+217,11/27/2015,Oklahoma City Thunder,Detroit Pistons,0.7387415488498604
+218,11/28/2015,Golden State Warriors,Sacramento Kings,0.8754825849254452
+219,11/28/2015,San Antonio Spurs,Atlanta Hawks,0.6591678979500312
+220,11/28/2015,Cleveland Cavaliers,Brooklyn Nets,0.8418403636563231
+221,11/28/2015,Portland Trail Blazers,Los Angeles Lakers,0.7292707171259096
+222,11/28/2015,Utah Jazz,New Orleans Pelicans,0.7086848240587755
+223,11/28/2015,Dallas Mavericks,Denver Nuggets,0.7005211346006692
+224,11/28/2015,Washington Wizards,Toronto Raptors,0.43367496626377255
+225,11/29/2015,Los Angeles Lakers,Indiana Pacers,0.27678186956584055
+226,11/29/2015,New York Knicks,Houston Rockets,0.6154513590510902
+227,11/29/2015,Brooklyn Nets,Detroit Pistons,0.4701130305166394
+228,11/29/2015,LA Clippers,Minnesota Timberwolves,0.6018806358501588
+229,11/29/2015,Orlando Magic,Boston Celtics,0.49540001723617166
+230,11/29/2015,Charlotte Hornets,Milwaukee Bucks,0.7337752898529123
+231,11/29/2015,Toronto Raptors,Phoenix Suns,0.6485004485459858
+232,11/29/2015,Memphis Grizzlies,Philadelphia 76ers,0.7635464021276894
+233,11/30/2015,Chicago Bulls,San Antonio Spurs,0.39908585796570145
+234,11/30/2015,LA Clippers,Portland Trail Blazers,0.6414169507738201
+235,11/30/2015,Miami Heat,Boston Celtics,0.6120863795407057
+236,11/30/2015,Detroit Pistons,Houston Rockets,0.5920602645800016
+237,11/30/2015,Utah Jazz,Golden State Warriors,0.2765913858098973
+238,11/30/2015,Milwaukee Bucks,Denver Nuggets,0.5885452633970488
+239,11/30/2015,Atlanta Hawks,Oklahoma City Thunder,0.5190684504784014
+240,11/30/2015,Sacramento Kings,Dallas Mavericks,0.4868000859169373
+241,12/01/2015,Philadelphia 76ers,Los Angeles Lakers,0.5389074928851119
+242,12/01/2015,Brooklyn Nets,Phoenix Suns,0.3975267207470362
+243,12/01/2015,Cleveland Cavaliers,Washington Wizards,0.7777170428790273
+244,12/01/2015,Portland Trail Blazers,Dallas Mavericks,0.5309347946665508
+245,12/01/2015,Minnesota Timberwolves,Orlando Magic,0.5748136821857827
+246,12/01/2015,New Orleans Pelicans,Memphis Grizzlies,0.4854329231247523
+247,12/02/2015,San Antonio Spurs,Milwaukee Bucks,0.8090280040631193
+248,12/02/2015,Chicago Bulls,Denver Nuggets,0.721661552184907
+249,12/02/2015,New York Knicks,Philadelphia 76ers,0.73630924550912
+250,12/02/2015,LA Clippers,Indiana Pacers,0.5041589356450084
+251,12/02/2015,Houston Rockets,New Orleans Pelicans,0.626751198049765
+252,12/02/2015,Detroit Pistons,Phoenix Suns,0.506234641345035
+253,12/02/2015,Atlanta Hawks,Toronto Raptors,0.5914819667856962
+254,12/02/2015,Washington Wizards,Los Angeles Lakers,0.7352846428960605
+255,12/02/2015,Charlotte Hornets,Golden State Warriors,0.30431541921112676
+256,12/03/2015,Miami Heat,Oklahoma City Thunder,0.5335784826647839
+257,12/03/2015,Portland Trail Blazers,Indiana Pacers,0.39823540610602526
+258,12/03/2015,Utah Jazz,Orlando Magic,0.5887935698158434
+259,12/03/2015,Sacramento Kings,Boston Celtics,0.4601255170961017
+260,12/03/2015,Toronto Raptors,Denver Nuggets,0.7827111191010976
+261,12/03/2015,Memphis Grizzlies,San Antonio Spurs,0.36766905238286884
+262,12/04/2015,New York Knicks,Brooklyn Nets,0.6811327373963273
+263,12/04/2015,Detroit Pistons,Milwaukee Bucks,0.6546395899551367
+264,12/04/2015,Dallas Mavericks,Houston Rockets,0.6840337643979282
+265,12/04/2015,Atlanta Hawks,Los Angeles Lakers,0.8065846552723149
+266,12/04/2015,Washington Wizards,Phoenix Suns,0.5159267806929728
+267,12/04/2015,New Orleans Pelicans,Cleveland Cavaliers,0.31695079979761653
+268,12/05/2015,Philadelphia 76ers,Denver Nuggets,0.4785629378380545
+269,12/05/2015,San Antonio Spurs,Boston Celtics,0.691582970052828
+270,12/05/2015,Chicago Bulls,Charlotte Hornets,0.5559402640816021
+271,12/05/2015,LA Clippers,Orlando Magic,0.5910885750882963
+272,12/05/2015,Houston Rockets,Sacramento Kings,0.577414763010782
+273,12/05/2015,Miami Heat,Cleveland Cavaliers,0.5529570908888605
+274,12/05/2015,Utah Jazz,Indiana Pacers,0.4735132536287622
+275,12/05/2015,Milwaukee Bucks,New York Knicks,0.48579593046826586
+276,12/05/2015,Minnesota Timberwolves,Portland Trail Blazers,0.600897043835663
+277,12/05/2015,Toronto Raptors,Golden State Warriors,0.29392641542420106
+278,12/06/2015,Brooklyn Nets,Golden State Warriors,0.1347584945792519
+279,12/06/2015,Detroit Pistons,Los Angeles Lakers,0.7478429491173504
+280,12/06/2015,Washington Wizards,Dallas Mavericks,0.5306966353001045
+281,12/06/2015,Memphis Grizzlies,Phoenix Suns,0.5219012100065044
+282,12/06/2015,Oklahoma City Thunder,Sacramento Kings,0.754046360691404
+283,12/07/2015,Philadelphia 76ers,San Antonio Spurs,0.18837166790598736
+284,12/07/2015,Chicago Bulls,Phoenix Suns,0.5884389077952945
+285,12/07/2015,New York Knicks,Dallas Mavericks,0.5126865467405479
+286,12/07/2015,Miami Heat,Washington Wizards,0.7219341841013763
+287,12/07/2015,Milwaukee Bucks,Portland Trail Blazers,0.48671226122455813
+288,12/07/2015,Minnesota Timberwolves,LA Clippers,0.5263531239325268
+289,12/07/2015,Charlotte Hornets,Detroit Pistons,0.649644117576574
+290,12/07/2015,Toronto Raptors,Los Angeles Lakers,0.8178340135016495
+291,12/07/2015,New Orleans Pelicans,Boston Celtics,0.36776224923511286
+292,12/08/2015,Brooklyn Nets,Houston Rockets,0.4640170094112059
+293,12/08/2015,Cleveland Cavaliers,Portland Trail Blazers,0.6825617255204951
+294,12/08/2015,Indiana Pacers,Golden State Warriors,0.3345444779141467
+295,12/08/2015,Sacramento Kings,Utah Jazz,0.48406783242871027
+296,12/08/2015,Denver Nuggets,Orlando Magic,0.4440801279843574
+297,12/08/2015,Memphis Grizzlies,Oklahoma City Thunder,0.42877507824068123
+298,12/09/2015,Phoenix Suns,Orlando Magic,0.5656288770855334
+299,12/09/2015,Boston Celtics,Chicago Bulls,0.6757036903529946
+300,12/09/2015,Detroit Pistons,Memphis Grizzlies,0.6192769494184528
+301,12/09/2015,Utah Jazz,New York Knicks,0.6322225039826668
+302,12/09/2015,Milwaukee Bucks,LA Clippers,0.4424740477412288
+303,12/09/2015,Dallas Mavericks,Atlanta Hawks,0.5465363179263112
+304,12/09/2015,Minnesota Timberwolves,Los Angeles Lakers,0.7581694541200117
+305,12/09/2015,Charlotte Hornets,Miami Heat,0.5623765169561525
+306,12/09/2015,Washington Wizards,Houston Rockets,0.6093381933985257
+307,12/09/2015,Toronto Raptors,San Antonio Spurs,0.4115422456492332
+308,12/10/2015,Chicago Bulls,LA Clippers,0.5158958060528019
+309,12/10/2015,Brooklyn Nets,Philadelphia 76ers,0.6836823045897896
+310,12/10/2015,Sacramento Kings,New York Knicks,0.5806250766271324
+311,12/10/2015,Oklahoma City Thunder,Atlanta Hawks,0.637183906405889
+312,12/11/2015,Philadelphia 76ers,Detroit Pistons,0.36310464834158446
+313,12/11/2015,San Antonio Spurs,Los Angeles Lakers,0.8959478690289842
+314,12/11/2015,Phoenix Suns,Portland Trail Blazers,0.6248874128841467
+315,12/11/2015,Boston Celtics,Golden State Warriors,0.32886579880012573
+316,12/11/2015,Orlando Magic,Cleveland Cavaliers,0.5130051687341004
+317,12/11/2015,Utah Jazz,Oklahoma City Thunder,0.4672029580659689
+318,12/11/2015,Indiana Pacers,Miami Heat,0.6128555327797798
+319,12/11/2015,Denver Nuggets,Minnesota Timberwolves,0.46922786884853585
+320,12/11/2015,Toronto Raptors,Milwaukee Bucks,0.7474317701148804
+321,12/11/2015,Memphis Grizzlies,Charlotte Hornets,0.43646691333255944
+322,12/11/2015,New Orleans Pelicans,Washington Wizards,0.473220671682701
+323,12/12/2015,Chicago Bulls,New Orleans Pelicans,0.695070271411011
+324,12/12/2015,Brooklyn Nets,LA Clippers,0.40683707179824397
+325,12/12/2015,Houston Rockets,Los Angeles Lakers,0.7455400458504088
+326,12/12/2015,Detroit Pistons,Indiana Pacers,0.4526811712282089
+327,12/12/2015,Portland Trail Blazers,New York Knicks,0.6330862781666888
+328,12/12/2015,Milwaukee Bucks,Golden State Warriors,0.17779595721267422
+329,12/12/2015,Dallas Mavericks,Washington Wizards,0.6460645198387798
+330,12/12/2015,Atlanta Hawks,San Antonio Spurs,0.4148497426247989
+331,12/12/2015,Charlotte Hornets,Boston Celtics,0.6016604272728586
+332,12/13/2015,Phoenix Suns,Minnesota Timberwolves,0.614156714526264
+333,12/13/2015,Miami Heat,Memphis Grizzlies,0.7049598009240896
+334,12/13/2015,Toronto Raptors,Philadelphia 76ers,0.8553213014917468
+335,12/13/2015,Oklahoma City Thunder,Utah Jazz,0.7054295044304769
+336,12/14/2015,San Antonio Spurs,Utah Jazz,0.7923307455895685
+337,12/14/2015,Chicago Bulls,Philadelphia 76ers,0.8081589117967745
+338,12/14/2015,Brooklyn Nets,Orlando Magic,0.451516363649264
+339,12/14/2015,Detroit Pistons,LA Clippers,0.522455236323536
+340,12/14/2015,Portland Trail Blazers,New Orleans Pelicans,0.6901237993945808
+341,12/14/2015,Indiana Pacers,Toronto Raptors,0.5690028633224133
+342,12/14/2015,Dallas Mavericks,Phoenix Suns,0.5851911543220152
+343,12/14/2015,Atlanta Hawks,Miami Heat,0.579376000467789
+344,12/14/2015,Denver Nuggets,Houston Rockets,0.47884012023623485
+345,12/14/2015,Memphis Grizzlies,Washington Wizards,0.5276917236842555
+346,12/15/2015,Los Angeles Lakers,Milwaukee Bucks,0.43830623658868834
+347,12/15/2015,Boston Celtics,Cleveland Cavaliers,0.5427718130383252
+348,12/15/2015,Sacramento Kings,Houston Rockets,0.5483479838484445
+349,12/15/2015,Minnesota Timberwolves,Denver Nuggets,0.6631551833848693
+350,12/16/2015,Golden State Warriors,Phoenix Suns,0.8412768314055511
+351,12/16/2015,San Antonio Spurs,Washington Wizards,0.8323371715427402
+352,12/16/2015,Chicago Bulls,Memphis Grizzlies,0.6536011508065849
+353,12/16/2015,New York Knicks,Minnesota Timberwolves,0.5612131629761266
+354,12/16/2015,Brooklyn Nets,Miami Heat,0.3719309404671338
+355,12/16/2015,LA Clippers,Milwaukee Bucks,0.7283673191763045
+356,12/16/2015,Orlando Magic,Charlotte Hornets,0.5097964431919808
+357,12/16/2015,Detroit Pistons,Boston Celtics,0.49818656036647085
+358,12/16/2015,Utah Jazz,New Orleans Pelicans,0.6882046469208513
+359,12/16/2015,Indiana Pacers,Dallas Mavericks,0.6451366292060813
+360,12/16/2015,Atlanta Hawks,Philadelphia 76ers,0.8342490480563918
+361,12/16/2015,Oklahoma City Thunder,Portland Trail Blazers,0.7323807486706311
+362,12/17/2015,Los Angeles Lakers,Houston Rockets,0.3925020500341834
+363,12/17/2015,Cleveland Cavaliers,Oklahoma City Thunder,0.5586514401705627
+364,12/17/2015,Charlotte Hornets,Toronto Raptors,0.5788240293950307
+365,12/18/2015,Philadelphia 76ers,New York Knicks,0.3547495511510697
+366,12/18/2015,Golden State Warriors,Milwaukee Bucks,0.8996648810325065
+367,12/18/2015,San Antonio Spurs,LA Clippers,0.7678552578402755
+368,12/18/2015,Chicago Bulls,Detroit Pistons,0.6145969395301357
+369,12/18/2015,Phoenix Suns,New Orleans Pelicans,0.6854756391696681
+370,12/18/2015,Boston Celtics,Atlanta Hawks,0.591958650780641
+371,12/18/2015,Orlando Magic,Portland Trail Blazers,0.6428331871450194
+372,12/18/2015,Miami Heat,Toronto Raptors,0.5900030730729905
+373,12/18/2015,Utah Jazz,Denver Nuggets,0.6412942786217195
+374,12/18/2015,Indiana Pacers,Brooklyn Nets,0.8034912444015433
+375,12/18/2015,Dallas Mavericks,Memphis Grizzlies,0.6581635546368476
+376,12/18/2015,Minnesota Timberwolves,Sacramento Kings,0.5797324113558959
+377,12/19/2015,New York Knicks,Chicago Bulls,0.5319894246149431
+378,12/19/2015,Houston Rockets,LA Clippers,0.5141924940227929
+379,12/19/2015,Washington Wizards,Charlotte Hornets,0.440987761412564
+380,12/19/2015,Oklahoma City Thunder,Los Angeles Lakers,0.8675459392327476
+381,12/19/2015,Memphis Grizzlies,Indiana Pacers,0.3926436415579029
+382,12/20/2015,Phoenix Suns,Milwaukee Bucks,0.7008366185812379
+383,12/20/2015,Brooklyn Nets,Minnesota Timberwolves,0.46486076811046767
+384,12/20/2015,Orlando Magic,Atlanta Hawks,0.5659449000759901
+385,12/20/2015,Cleveland Cavaliers,Philadelphia 76ers,0.8829468402337057
+386,12/20/2015,Miami Heat,Portland Trail Blazers,0.6694041352752047
+387,12/20/2015,Denver Nuggets,New Orleans Pelicans,0.6121603321597071
+388,12/20/2015,Toronto Raptors,Sacramento Kings,0.6931470739361701
+389,12/21/2015,San Antonio Spurs,Indiana Pacers,0.7471762828271175
+390,12/21/2015,Chicago Bulls,Brooklyn Nets,0.729766957177738
+391,12/21/2015,New York Knicks,Orlando Magic,0.5272404608594259
+392,12/21/2015,LA Clippers,Oklahoma City Thunder,0.4585014802889341
+393,12/21/2015,Boston Celtics,Minnesota Timberwolves,0.6582101557902026
+394,12/21/2015,Houston Rockets,Charlotte Hornets,0.508120527319991
+395,12/21/2015,Utah Jazz,Phoenix Suns,0.5657878975754382
+396,12/21/2015,Atlanta Hawks,Portland Trail Blazers,0.6790688294589574
+397,12/21/2015,Washington Wizards,Sacramento Kings,0.5712629877141187
+398,12/22/2015,Philadelphia 76ers,Memphis Grizzlies,0.36882519853192247
+399,12/22/2015,Miami Heat,Detroit Pistons,0.6561978403855331
+400,12/22/2015,Denver Nuggets,Los Angeles Lakers,0.7210587408343756
+401,12/22/2015,Toronto Raptors,Dallas Mavericks,0.6254520440457428
+402,12/23/2015,Golden State Warriors,Utah Jazz,0.8498275387031768
+403,12/23/2015,Los Angeles Lakers,Oklahoma City Thunder,0.2137114660794384
+404,12/23/2015,Phoenix Suns,Denver Nuggets,0.6703713727267232
+405,12/23/2015,Brooklyn Nets,Dallas Mavericks,0.41764531055894427
+406,12/23/2015,Orlando Magic,Houston Rockets,0.6224911800699336
+407,12/23/2015,Cleveland Cavaliers,New York Knicks,0.7447966508242384
+408,12/23/2015,Milwaukee Bucks,Philadelphia 76ers,0.7411604259266656
+409,12/23/2015,Indiana Pacers,Sacramento Kings,0.6946515072150856
+410,12/23/2015,Atlanta Hawks,Detroit Pistons,0.6573690084535974
+411,12/23/2015,Minnesota Timberwolves,San Antonio Spurs,0.2822091997716593
+412,12/23/2015,Charlotte Hornets,Boston Celtics,0.5802200548388623
+413,12/23/2015,Washington Wizards,Memphis Grizzlies,0.6119341855351516
+414,12/23/2015,New Orleans Pelicans,Portland Trail Blazers,0.5165255407403088
+415,12/25/2015,Golden State Warriors,Cleveland Cavaliers,0.7551200386648034
+416,12/25/2015,Los Angeles Lakers,LA Clippers,0.3015384785007551
+417,12/25/2015,Houston Rockets,San Antonio Spurs,0.30385127785463184
+418,12/25/2015,Miami Heat,New Orleans Pelicans,0.717093897990885
+419,12/25/2015,Oklahoma City Thunder,Chicago Bulls,0.7565629903680243
+420,12/26/2015,San Antonio Spurs,Denver Nuggets,0.8633038260126344
+421,12/26/2015,Phoenix Suns,Philadelphia 76ers,0.8091164774221336
+422,12/26/2015,Brooklyn Nets,Washington Wizards,0.44289479091015915
+423,12/26/2015,Orlando Magic,Miami Heat,0.5726469059404723
+424,12/26/2015,Detroit Pistons,Boston Celtics,0.49883506691711865
+425,12/26/2015,Utah Jazz,LA Clippers,0.5229880088469497
+426,12/26/2015,Portland Trail Blazers,Cleveland Cavaliers,0.3908667187858632
+427,12/26/2015,Milwaukee Bucks,Toronto Raptors,0.42615917630040023
+428,12/26/2015,Dallas Mavericks,Chicago Bulls,0.6075558445059936
+429,12/26/2015,Atlanta Hawks,New York Knicks,0.6961344196133715
+430,12/26/2015,Charlotte Hornets,Memphis Grizzlies,0.687208811805236
+431,12/26/2015,Minnesota Timberwolves,Indiana Pacers,0.4656504750736873
+432,12/26/2015,New Orleans Pelicans,Houston Rockets,0.4868310492200537
+433,12/27/2015,Boston Celtics,New York Knicks,0.6985303650754925
+434,12/27/2015,Sacramento Kings,Portland Trail Blazers,0.5940914504635606
+435,12/27/2015,Memphis Grizzlies,Los Angeles Lakers,0.7494066512760474
+436,12/27/2015,Oklahoma City Thunder,Denver Nuggets,0.8124093003438697
+437,12/28/2015,Golden State Warriors,Sacramento Kings,0.870291228705473
+438,12/28/2015,San Antonio Spurs,Minnesota Timberwolves,0.8451501306884676
+439,12/28/2015,Chicago Bulls,Toronto Raptors,0.49773309741238164
+440,12/28/2015,Phoenix Suns,Cleveland Cavaliers,0.4501069958771984
+441,12/28/2015,Orlando Magic,New Orleans Pelicans,0.6979079597160881
+442,12/28/2015,Miami Heat,Brooklyn Nets,0.7839420938519543
+443,12/28/2015,Utah Jazz,Philadelphia 76ers,0.8001320507637061
+444,12/28/2015,Indiana Pacers,Atlanta Hawks,0.5715932411596774
+445,12/28/2015,Dallas Mavericks,Milwaukee Bucks,0.7063958000188908
+446,12/28/2015,Charlotte Hornets,Los Angeles Lakers,0.8348709975562224
+447,12/28/2015,Washington Wizards,LA Clippers,0.5267596063883769
+448,12/29/2015,New York Knicks,Detroit Pistons,0.5471045682208036
+449,12/29/2015,Houston Rockets,Atlanta Hawks,0.5010346720078924
+450,12/29/2015,Denver Nuggets,Cleveland Cavaliers,0.3652729161998786
+451,12/29/2015,Memphis Grizzlies,Miami Heat,0.46492192334283783
+452,12/29/2015,Oklahoma City Thunder,Milwaukee Bucks,0.8193916933120392
+453,12/30/2015,San Antonio Spurs,Phoenix Suns,0.8313613212354471
+454,12/30/2015,Chicago Bulls,Indiana Pacers,0.498284023357069
+455,12/30/2015,Boston Celtics,Los Angeles Lakers,0.8487560103726601
+456,12/30/2015,Orlando Magic,Brooklyn Nets,0.7642572451391653
+457,12/30/2015,Portland Trail Blazers,Denver Nuggets,0.652876779273649
+458,12/30/2015,Dallas Mavericks,Golden State Warriors,0.2818768091846046
+459,12/30/2015,Sacramento Kings,Philadelphia 76ers,0.7747942577844593
+460,12/30/2015,Minnesota Timberwolves,Utah Jazz,0.5412122847026428
+461,12/30/2015,Charlotte Hornets,LA Clippers,0.5778902306846702
+462,12/30/2015,Toronto Raptors,Washington Wizards,0.664450515657647
+463,12/31/2015,Houston Rockets,Golden State Warriors,0.26951609875022053
+464,12/31/2015,Detroit Pistons,Minnesota Timberwolves,0.5989982992208156
+465,12/31/2015,Utah Jazz,Portland Trail Blazers,0.5884218915974112
+466,12/31/2015,Indiana Pacers,Milwaukee Bucks,0.7506508801916746
+467,12/31/2015,Oklahoma City Thunder,Phoenix Suns,0.7851681784223362
+468,12/31/2015,New Orleans Pelicans,LA Clippers,0.4159048397325583
+469,01/01/2016,Los Angeles Lakers,Philadelphia 76ers,0.5964233909671842
+470,01/01/2016,Chicago Bulls,New York Knicks,0.6292926687855245
+471,01/01/2016,Miami Heat,Dallas Mavericks,0.5866074021309465
+472,01/01/2016,Toronto Raptors,Charlotte Hornets,0.59698835355535
+473,01/01/2016,Washington Wizards,Orlando Magic,0.4969822337771144
+474,01/02/2016,Golden State Warriors,Denver Nuggets,0.8958346074567952
+475,01/02/2016,San Antonio Spurs,Houston Rockets,0.8248272449745709
+476,01/02/2016,Boston Celtics,Brooklyn Nets,0.7815090416631642
+477,01/02/2016,LA Clippers,Philadelphia 76ers,0.8497915549732231
+478,01/02/2016,Cleveland Cavaliers,Orlando Magic,0.6476341057538726
+479,01/02/2016,Utah Jazz,Memphis Grizzlies,0.6188167572216358
+480,01/02/2016,Indiana Pacers,Detroit Pistons,0.6667984666786326
+481,01/02/2016,Dallas Mavericks,New Orleans Pelicans,0.7015230804641214
+482,01/02/2016,Sacramento Kings,Phoenix Suns,0.5798959483100483
+483,01/02/2016,Minnesota Timberwolves,Milwaukee Bucks,0.6213899397617887
+484,01/02/2016,Charlotte Hornets,Oklahoma City Thunder,0.4365200792563678
+485,01/03/2016,Los Angeles Lakers,Phoenix Suns,0.3988742833914929
+486,01/03/2016,Denver Nuggets,Portland Trail Blazers,0.5011277059579867
+487,01/03/2016,Toronto Raptors,Chicago Bulls,0.6345244458888438
+488,01/03/2016,Washington Wizards,Miami Heat,0.49915851039177817
+489,01/03/2016,New York Knicks,Atlanta Hawks,0.434245061838213
+490,01/04/2016,Philadelphia 76ers,Minnesota Timberwolves,0.3801289015291753
+491,01/04/2016,Golden State Warriors,Charlotte Hornets,0.8240612642186063
+492,01/04/2016,Brooklyn Nets,Boston Celtics,0.3726798216957343
+493,01/04/2016,Cleveland Cavaliers,Toronto Raptors,0.6415150958098546
+494,01/04/2016,Miami Heat,Indiana Pacers,0.5848297845669458
+495,01/04/2016,Detroit Pistons,Orlando Magic,0.5243533570242942
+496,01/04/2016,Portland Trail Blazers,Memphis Grizzlies,0.6081010982966356
+497,01/04/2016,Utah Jazz,Houston Rockets,0.5859486367076177
+498,01/04/2016,Milwaukee Bucks,San Antonio Spurs,0.2184075512624416
+499,01/04/2016,Oklahoma City Thunder,Sacramento Kings,0.7815378649988661
+500,01/05/2016,Los Angeles Lakers,Golden State Warriors,0.1310661591191815
+501,01/05/2016,Chicago Bulls,Milwaukee Bucks,0.7031391078907155
+502,01/05/2016,Dallas Mavericks,Sacramento Kings,0.6345900157395766
+503,01/05/2016,Atlanta Hawks,New York Knicks,0.7029710741275793
+504,01/06/2016,San Antonio Spurs,Utah Jazz,0.8422590693357063
+505,01/06/2016,Phoenix Suns,Charlotte Hornets,0.4959330967796362
+506,01/06/2016,Brooklyn Nets,Toronto Raptors,0.3740599008508673
+507,01/06/2016,Boston Celtics,Detroit Pistons,0.6591756356636798
+508,01/06/2016,Orlando Magic,Indiana Pacers,0.5316642688510004
+509,01/06/2016,Miami Heat,New York Knicks,0.6959055261788811
+510,01/06/2016,Portland Trail Blazers,LA Clippers,0.4482604266066491
+511,01/06/2016,Minnesota Timberwolves,Denver Nuggets,0.6358298771245208
+512,01/06/2016,Washington Wizards,Cleveland Cavaliers,0.40526461009336956
+513,01/06/2016,Oklahoma City Thunder,Memphis Grizzlies,0.7811006879988504
+514,01/06/2016,New Orleans Pelicans,Dallas Mavericks,0.4682217257185733
+515,01/07/2016,Philadelphia 76ers,Atlanta Hawks,0.2723145431193506
+516,01/07/2016,Chicago Bulls,Boston Celtics,0.5629326563996864
+517,01/07/2016,Houston Rockets,Utah Jazz,0.6048259931897566
+518,01/07/2016,Sacramento Kings,Los Angeles Lakers,0.7621020039090277
+519,01/08/2016,San Antonio Spurs,New York Knicks,0.8545648495084965
+520,01/08/2016,Los Angeles Lakers,Oklahoma City Thunder,0.21036348224558768
+521,01/08/2016,Phoenix Suns,Miami Heat,0.455615253585096
+522,01/08/2016,Brooklyn Nets,Orlando Magic,0.4114155054992754
+523,01/08/2016,Portland Trail Blazers,Golden State Warriors,0.23892163489565138
+524,01/08/2016,Milwaukee Bucks,Dallas Mavericks,0.443001502299731
+525,01/08/2016,Minnesota Timberwolves,Cleveland Cavaliers,0.3638038468419859
+526,01/08/2016,Washington Wizards,Toronto Raptors,0.48717330530300823
+527,01/08/2016,Memphis Grizzlies,Denver Nuggets,0.6436438311979259
+528,01/08/2016,New Orleans Pelicans,Indiana Pacers,0.41329118515994806
+529,01/09/2016,Philadelphia 76ers,Toronto Raptors,0.27243134801938024
+530,01/09/2016,LA Clippers,Charlotte Hornets,0.667144041909602
+531,01/09/2016,Orlando Magic,Washington Wizards,0.6353852105616136
+532,01/09/2016,Detroit Pistons,Brooklyn Nets,0.7266320848065134
+533,01/09/2016,Utah Jazz,Miami Heat,0.48087508108698407
+534,01/09/2016,Atlanta Hawks,Chicago Bulls,0.6261022194132039
+535,01/09/2016,Sacramento Kings,Golden State Warriors,0.25808132484685253
+536,01/10/2016,Philadelphia 76ers,Cleveland Cavaliers,0.20740093201696766
+537,01/10/2016,Los Angeles Lakers,Utah Jazz,0.38136625637439986
+538,01/10/2016,New York Knicks,Milwaukee Bucks,0.6486544642768047
+539,01/10/2016,LA Clippers,New Orleans Pelicans,0.7596058194083017
+540,01/10/2016,Houston Rockets,Indiana Pacers,0.50973150546364
+541,01/10/2016,Portland Trail Blazers,Oklahoma City Thunder,0.3474440589787905
+542,01/10/2016,Denver Nuggets,Charlotte Hornets,0.4558813144104379
+543,01/10/2016,Minnesota Timberwolves,Dallas Mavericks,0.47094788830557516
+544,01/10/2016,Memphis Grizzlies,Boston Celtics,0.48383588804250144
+545,01/11/2016,Golden State Warriors,Miami Heat,0.8026881346559239
+546,01/11/2016,Chicago Bulls,Washington Wizards,0.6425556626981241
+547,01/11/2016,Brooklyn Nets,San Antonio Spurs,0.17029220890557428
+548,01/12/2016,Los Angeles Lakers,New Orleans Pelicans,0.4608414395507139
+549,01/12/2016,New York Knicks,Boston Celtics,0.5149237653472779
+550,01/12/2016,Detroit Pistons,San Antonio Spurs,0.28269450867779283
+551,01/12/2016,Indiana Pacers,Phoenix Suns,0.71008893154075
+552,01/12/2016,Milwaukee Bucks,Chicago Bulls,0.4517799204830933
+553,01/12/2016,Dallas Mavericks,Cleveland Cavaliers,0.45969253730656234
+554,01/12/2016,Minnesota Timberwolves,Oklahoma City Thunder,0.324709685928796
+555,01/12/2016,Memphis Grizzlies,Houston Rockets,0.5271518742306649
+556,01/13/2016,Brooklyn Nets,New York Knicks,0.42986734749066424
+557,01/13/2016,Boston Celtics,Indiana Pacers,0.5367780051934308
+558,01/13/2016,LA Clippers,Miami Heat,0.6340579963370722
+559,01/13/2016,Houston Rockets,Minnesota Timberwolves,0.6878268118712745
+560,01/13/2016,Portland Trail Blazers,Utah Jazz,0.5411562044624857
+561,01/13/2016,Sacramento Kings,New Orleans Pelicans,0.6605480619865854
+562,01/13/2016,Denver Nuggets,Golden State Warriors,0.18935567342880338
+563,01/13/2016,Charlotte Hornets,Atlanta Hawks,0.4848184392922858
+564,01/13/2016,Washington Wizards,Milwaukee Bucks,0.6640468668158116
+565,01/13/2016,Oklahoma City Thunder,Dallas Mavericks,0.7165072513470114
+566,01/14/2016,Philadelphia 76ers,Chicago Bulls,0.3103022633552456
+567,01/14/2016,Golden State Warriors,Los Angeles Lakers,0.9252528290217322
+568,01/14/2016,San Antonio Spurs,Cleveland Cavaliers,0.7320170771728741
+569,01/14/2016,Orlando Magic,Toronto Raptors,0.5168801790314089
+570,01/14/2016,Utah Jazz,Sacramento Kings,0.6017633793199575
+571,01/14/2016,Memphis Grizzlies,Detroit Pistons,0.5313074172627894
+572,01/15/2016,Chicago Bulls,Dallas Mavericks,0.586688532085375
+573,01/15/2016,Brooklyn Nets,Portland Trail Blazers,0.4627214945071558
+574,01/15/2016,Boston Celtics,Phoenix Suns,0.6928781122481059
+575,01/15/2016,Houston Rockets,Cleveland Cavaliers,0.45509203502407725
+576,01/15/2016,Milwaukee Bucks,Atlanta Hawks,0.3971541881176198
+577,01/15/2016,Indiana Pacers,Washington Wizards,0.6667954757284099
+578,01/15/2016,Denver Nuggets,Miami Heat,0.4220265712172204
+579,01/15/2016,Oklahoma City Thunder,Minnesota Timberwolves,0.8149977996677407
+580,01/15/2016,New Orleans Pelicans,Charlotte Hornets,0.47570458200959326
+581,01/16/2016,Philadelphia 76ers,Portland Trail Blazers,0.36031222849310196
+582,01/16/2016,LA Clippers,Sacramento Kings,0.7132297722218204
+583,01/16/2016,Detroit Pistons,Golden State Warriors,0.2716712754513583
+584,01/16/2016,Utah Jazz,Los Angeles Lakers,0.7639941792094153
+585,01/16/2016,Atlanta Hawks,Brooklyn Nets,0.7888549799022408
+586,01/16/2016,Charlotte Hornets,Milwaukee Bucks,0.682158617124278
+587,01/16/2016,Washington Wizards,Boston Celtics,0.5336519658081099
+588,01/16/2016,Memphis Grizzlies,New York Knicks,0.5601630012434888
+589,01/17/2016,San Antonio Spurs,Dallas Mavericks,0.8268458203818185
+590,01/17/2016,Los Angeles Lakers,Houston Rockets,0.3331864279254677
+591,01/17/2016,Denver Nuggets,Indiana Pacers,0.3999003865378169
+592,01/17/2016,Minnesota Timberwolves,Phoenix Suns,0.5617398844400608
+593,01/17/2016,Oklahoma City Thunder,Miami Heat,0.7163695754270765
+594,01/18/2016,New York Knicks,Philadelphia 76ers,0.7704615613097815
+595,01/18/2016,LA Clippers,Houston Rockets,0.6614021308768915
+596,01/18/2016,Cleveland Cavaliers,Golden State Warriors,0.42941304920501366
+597,01/18/2016,Detroit Pistons,Chicago Bulls,0.5760316335596397
+598,01/18/2016,Dallas Mavericks,Boston Celtics,0.5420818721085264
+599,01/18/2016,Atlanta Hawks,Orlando Magic,0.6624394770066453
+600,01/18/2016,Charlotte Hornets,Utah Jazz,0.5845430052757495
+601,01/18/2016,Washington Wizards,Portland Trail Blazers,0.6242615795727793
+602,01/18/2016,Toronto Raptors,Brooklyn Nets,0.8016359685608213
+603,01/18/2016,Memphis Grizzlies,New Orleans Pelicans,0.6313258543375438
+604,01/19/2016,Phoenix Suns,Indiana Pacers,0.4239366501219243
+605,01/19/2016,Miami Heat,Milwaukee Bucks,0.7004761126644843
+606,01/19/2016,Denver Nuggets,Oklahoma City Thunder,0.28605110060194044
+607,01/19/2016,New Orleans Pelicans,Minnesota Timberwolves,0.5767787965992811
+608,01/20/2016,Los Angeles Lakers,Sacramento Kings,0.36451497275774153
+609,01/20/2016,Chicago Bulls,Golden State Warriors,0.2952033601876701
+610,01/20/2016,New York Knicks,Utah Jazz,0.5703289113069888
+611,01/20/2016,Brooklyn Nets,Cleveland Cavaliers,0.27719201419575795
+612,01/20/2016,Orlando Magic,Philadelphia 76ers,0.7863286106606292
+613,01/20/2016,Houston Rockets,Detroit Pistons,0.608333893679479
+614,01/20/2016,Portland Trail Blazers,Atlanta Hawks,0.4459597256146732
+615,01/20/2016,Dallas Mavericks,Minnesota Timberwolves,0.6804002633321539
+616,01/20/2016,Washington Wizards,Miami Heat,0.5441351083941603
+617,01/20/2016,Toronto Raptors,Boston Celtics,0.6241162668991467
+618,01/20/2016,Oklahoma City Thunder,Charlotte Hornets,0.7576054263306975
+619,01/21/2016,Phoenix Suns,San Antonio Spurs,0.20020947279597687
+620,01/21/2016,Cleveland Cavaliers,LA Clippers,0.6137164701198177
+621,01/21/2016,Sacramento Kings,Atlanta Hawks,0.4724422321428325
+622,01/21/2016,Denver Nuggets,Memphis Grizzlies,0.5127729538433486
+623,01/21/2016,New Orleans Pelicans,Detroit Pistons,0.5044451205343832
+624,01/22/2016,Golden State Warriors,Indiana Pacers,0.7980712342740444
+625,01/22/2016,Los Angeles Lakers,San Antonio Spurs,0.11697176568574898
+626,01/22/2016,New York Knicks,LA Clippers,0.4657377454210573
+627,01/22/2016,Brooklyn Nets,Utah Jazz,0.4135209947614981
+628,01/22/2016,Boston Celtics,Chicago Bulls,0.6247064833009074
+629,01/22/2016,Orlando Magic,Charlotte Hornets,0.5758896965477839
+630,01/22/2016,Houston Rockets,Milwaukee Bucks,0.6701569791590408
+631,01/22/2016,Dallas Mavericks,Oklahoma City Thunder,0.39881200647715526
+632,01/22/2016,Toronto Raptors,Miami Heat,0.6522850671137375
+633,01/23/2016,Phoenix Suns,Atlanta Hawks,0.3853388931921121
+634,01/23/2016,Cleveland Cavaliers,Chicago Bulls,0.7207894785364686
+635,01/23/2016,Portland Trail Blazers,Los Angeles Lakers,0.7611348173956899
+636,01/23/2016,Sacramento Kings,Indiana Pacers,0.5148984783388019
+637,01/23/2016,Denver Nuggets,Detroit Pistons,0.4818622581384446
+638,01/23/2016,Charlotte Hornets,New York Knicks,0.6125354346625455
+639,01/23/2016,Minnesota Timberwolves,Memphis Grizzlies,0.5229188691370854
+640,01/23/2016,New Orleans Pelicans,Milwaukee Bucks,0.5978248560310674
+641,01/24/2016,Philadelphia 76ers,Boston Celtics,0.31219023793389644
+642,01/24/2016,Brooklyn Nets,Oklahoma City Thunder,0.22126499371733385
+643,01/24/2016,Houston Rockets,Dallas Mavericks,0.5828342857223733
+644,01/24/2016,Toronto Raptors,LA Clippers,0.5705942807716385
+645,01/25/2016,Golden State Warriors,San Antonio Spurs,0.5720935684371692
+646,01/25/2016,Chicago Bulls,Miami Heat,0.577039023230348
+647,01/25/2016,Cleveland Cavaliers,Minnesota Timberwolves,0.7728241567552623
+648,01/25/2016,Utah Jazz,Detroit Pistons,0.5964809245281684
+649,01/25/2016,Sacramento Kings,Charlotte Hornets,0.5743259735923466
+650,01/25/2016,Denver Nuggets,Atlanta Hawks,0.3893192109498369
+651,01/25/2016,Washington Wizards,Boston Celtics,0.5279136212355062
+652,01/25/2016,Memphis Grizzlies,Orlando Magic,0.564773526461314
+653,01/25/2016,New Orleans Pelicans,Houston Rockets,0.5057111193678353
+654,01/26/2016,Philadelphia 76ers,Phoenix Suns,0.4502656108967008
+655,01/26/2016,Los Angeles Lakers,Dallas Mavericks,0.32685264506300893
+656,01/26/2016,New York Knicks,Oklahoma City Thunder,0.3555359378292651
+657,01/26/2016,Brooklyn Nets,Miami Heat,0.38992555295297315
+658,01/26/2016,Portland Trail Blazers,Sacramento Kings,0.5534640718327204
+659,01/26/2016,Milwaukee Bucks,Orlando Magic,0.5153805283219405
+660,01/26/2016,Indiana Pacers,LA Clippers,0.53221048692638
+661,01/26/2016,Toronto Raptors,Washington Wizards,0.6960818993597879
+662,01/27/2016,Golden State Warriors,Dallas Mavericks,0.8392545807510935
+663,01/27/2016,San Antonio Spurs,Houston Rockets,0.8234465102734424
+664,01/27/2016,Boston Celtics,Denver Nuggets,0.7412653310714785
+665,01/27/2016,Cleveland Cavaliers,Phoenix Suns,0.7886691807498131
+666,01/27/2016,Detroit Pistons,Philadelphia 76ers,0.7700591654680264
+667,01/27/2016,Utah Jazz,Charlotte Hornets,0.5704783657031919
+668,01/27/2016,Atlanta Hawks,LA Clippers,0.5748161796890654
+669,01/27/2016,Minnesota Timberwolves,Oklahoma City Thunder,0.30832443778113855
+670,01/28/2016,Los Angeles Lakers,Chicago Bulls,0.34416653743008857
+671,01/28/2016,Indiana Pacers,Atlanta Hawks,0.5389730522152991
+672,01/28/2016,Washington Wizards,Denver Nuggets,0.6699699024452689
+673,01/28/2016,Toronto Raptors,New York Knicks,0.7255601637403553
+674,01/28/2016,Memphis Grizzlies,Milwaukee Bucks,0.6282706147683943
+675,01/28/2016,New Orleans Pelicans,Sacramento Kings,0.5382078712972891
+676,01/29/2016,New York Knicks,Phoenix Suns,0.6436440885577954
+677,01/29/2016,Boston Celtics,Orlando Magic,0.66955287993215
+678,01/29/2016,LA Clippers,Los Angeles Lakers,0.8553222065666148
+679,01/29/2016,Detroit Pistons,Cleveland Cavaliers,0.43503168768710226
+680,01/29/2016,Portland Trail Blazers,Charlotte Hornets,0.5622189390273421
+681,01/29/2016,Utah Jazz,Minnesota Timberwolves,0.67478053911535
+682,01/29/2016,Milwaukee Bucks,Miami Heat,0.47891128833762775
+683,01/29/2016,Dallas Mavericks,Brooklyn Nets,0.7467253242276225
+684,01/29/2016,Oklahoma City Thunder,Houston Rockets,0.7441004212134755
+685,01/30/2016,Philadelphia 76ers,Golden State Warriors,0.1293091984087646
+686,01/30/2016,Cleveland Cavaliers,San Antonio Spurs,0.4062218246737471
+687,01/30/2016,Houston Rockets,Washington Wizards,0.611161620577947
+688,01/30/2016,Indiana Pacers,Denver Nuggets,0.7265028109448304
+689,01/30/2016,Toronto Raptors,Detroit Pistons,0.699744745086696
+690,01/30/2016,Memphis Grizzlies,Sacramento Kings,0.5800527353555224
+691,01/30/2016,New Orleans Pelicans,Brooklyn Nets,0.703373100035587
+692,01/31/2016,Los Angeles Lakers,Charlotte Hornets,0.3460103964302622
+693,01/31/2016,New York Knicks,Golden State Warriors,0.23685993268432262
+694,01/31/2016,LA Clippers,Chicago Bulls,0.679215003872722
+695,01/31/2016,Orlando Magic,Boston Celtics,0.4746360641349252
+696,01/31/2016,Miami Heat,Atlanta Hawks,0.5255965693682954
+697,01/31/2016,Portland Trail Blazers,Minnesota Timberwolves,0.6547196265398086
+698,01/31/2016,Dallas Mavericks,Phoenix Suns,0.7013371272146497
+699,02/01/2016,San Antonio Spurs,Orlando Magic,0.8463112039782792
+700,02/01/2016,Brooklyn Nets,Detroit Pistons,0.41548100525333326
+701,02/01/2016,Utah Jazz,Chicago Bulls,0.6062518510263256
+702,02/01/2016,Indiana Pacers,Cleveland Cavaliers,0.49151816867006903
+703,02/01/2016,Atlanta Hawks,Dallas Mavericks,0.6377754603020418
+704,02/01/2016,Sacramento Kings,Milwaukee Bucks,0.6489843749464014
+705,02/01/2016,Denver Nuggets,Toronto Raptors,0.36245952713962093
+706,02/01/2016,Oklahoma City Thunder,Washington Wizards,0.7665308947328838
+707,02/01/2016,New Orleans Pelicans,Memphis Grizzlies,0.5485065390444122
+708,02/02/2016,Los Angeles Lakers,Minnesota Timberwolves,0.4216750041850827
+709,02/02/2016,New York Knicks,Boston Celtics,0.4615327661720035
+710,02/02/2016,Phoenix Suns,Toronto Raptors,0.35737420977904544
+711,02/02/2016,Houston Rockets,Miami Heat,0.5540566162186734
+712,02/02/2016,Portland Trail Blazers,Milwaukee Bucks,0.6559690502763412
+713,02/03/2016,Philadelphia 76ers,Atlanta Hawks,0.2940677143603028
+714,02/03/2016,San Antonio Spurs,New Orleans Pelicans,0.8635698806666254
+715,02/03/2016,Brooklyn Nets,Indiana Pacers,0.3535771864075819
+716,02/03/2016,Boston Celtics,Detroit Pistons,0.6640517806184374
+717,02/03/2016,LA Clippers,Minnesota Timberwolves,0.7690371474976775
+718,02/03/2016,Utah Jazz,Denver Nuggets,0.6886367626139623
+719,02/03/2016,Dallas Mavericks,Miami Heat,0.5674365471141045
+720,02/03/2016,Sacramento Kings,Chicago Bulls,0.5802822741569628
+721,02/03/2016,Charlotte Hornets,Cleveland Cavaliers,0.4242061706920788
+722,02/03/2016,Washington Wizards,Golden State Warriors,0.24416654025923806
+723,02/03/2016,Oklahoma City Thunder,Orlando Magic,0.7815749931014133
+724,02/04/2016,Phoenix Suns,Houston Rockets,0.4519455642347269
+725,02/04/2016,Detroit Pistons,New York Knicks,0.6222556333024254
+726,02/04/2016,Portland Trail Blazers,Toronto Raptors,0.4638721142351678
+727,02/04/2016,New Orleans Pelicans,Los Angeles Lakers,0.7466097380332648
+728,02/05/2016,New York Knicks,Memphis Grizzlies,0.5318281793390707
+729,02/05/2016,Brooklyn Nets,Sacramento Kings,0.42082547550000604
+730,02/05/2016,Orlando Magic,LA Clippers,0.4353131363804873
+731,02/05/2016,Cleveland Cavaliers,Boston Celtics,0.6499904666030879
+732,02/05/2016,Utah Jazz,Milwaukee Bucks,0.6951846610055303
+733,02/05/2016,Dallas Mavericks,San Antonio Spurs,0.2832585964755342
+734,02/05/2016,Atlanta Hawks,Indiana Pacers,0.6187980829092471
+735,02/05/2016,Denver Nuggets,Chicago Bulls,0.49992127446604795
+736,02/05/2016,Charlotte Hornets,Miami Heat,0.5585816950392669
+737,02/05/2016,Washington Wizards,Philadelphia 76ers,0.7592145546267265
+738,02/06/2016,Philadelphia 76ers,Brooklyn Nets,0.526737126929855
+739,02/06/2016,San Antonio Spurs,Los Angeles Lakers,0.9316410263532394
+740,02/06/2016,Phoenix Suns,Utah Jazz,0.43580537328516433
+741,02/06/2016,Cleveland Cavaliers,New Orleans Pelicans,0.7632389591081088
+742,02/06/2016,Houston Rockets,Portland Trail Blazers,0.6121720271693138
+743,02/06/2016,Indiana Pacers,Detroit Pistons,0.6437077058615224
+744,02/06/2016,Minnesota Timberwolves,Chicago Bulls,0.5084940740694721
+745,02/06/2016,Charlotte Hornets,Washington Wizards,0.6008373002789963
+746,02/06/2016,Memphis Grizzlies,Dallas Mavericks,0.589934852113405
+747,02/06/2016,Golden State Warriors,Oklahoma City Thunder,0.7148074580616273
+748,02/07/2016,New York Knicks,Denver Nuggets,0.6119334971470226
+749,02/07/2016,Boston Celtics,Sacramento Kings,0.6782422644286846
+750,02/07/2016,Orlando Magic,Atlanta Hawks,0.4413231075101885
+751,02/07/2016,Miami Heat,LA Clippers,0.4869007808978524
+752,02/08/2016,Philadelphia 76ers,LA Clippers,0.2574624709874124
+753,02/08/2016,Phoenix Suns,Oklahoma City Thunder,0.28091782510996904
+754,02/08/2016,Brooklyn Nets,Denver Nuggets,0.49680563564854335
+755,02/08/2016,Cleveland Cavaliers,Sacramento Kings,0.7367668025156593
+756,02/08/2016,Detroit Pistons,Toronto Raptors,0.4538665448107605
+757,02/08/2016,Indiana Pacers,Los Angeles Lakers,0.8253793514004071
+758,02/08/2016,Atlanta Hawks,Orlando Magic,0.7064998689714767
+759,02/08/2016,Minnesota Timberwolves,New Orleans Pelicans,0.5783607153242896
+760,02/08/2016,Charlotte Hornets,Chicago Bulls,0.6005768957305204
+761,02/08/2016,Memphis Grizzlies,Portland Trail Blazers,0.5848847713674191
+762,02/09/2016,Golden State Warriors,Houston Rockets,0.8429138820806381
+763,02/09/2016,New York Knicks,Washington Wizards,0.5444223524000815
+764,02/09/2016,Miami Heat,San Antonio Spurs,0.2919829509305941
+765,02/09/2016,Milwaukee Bucks,Boston Celtics,0.40614845804380545
+766,02/09/2016,Dallas Mavericks,Utah Jazz,0.5508708534969218
+767,02/10/2016,Philadelphia 76ers,Sacramento Kings,0.39613230076666683
+768,02/10/2016,Chicago Bulls,Atlanta Hawks,0.4710997046488483
+769,02/10/2016,Phoenix Suns,Golden State Warriors,0.17442693875514742
+770,02/10/2016,Brooklyn Nets,Memphis Grizzlies,0.4260463994121877
+771,02/10/2016,Boston Celtics,LA Clippers,0.5430615887814303
+772,02/10/2016,Orlando Magic,San Antonio Spurs,0.25023355064852026
+773,02/10/2016,Cleveland Cavaliers,Los Angeles Lakers,0.872268374534384
+774,02/10/2016,Detroit Pistons,Denver Nuggets,0.6492407017630539
+775,02/10/2016,Portland Trail Blazers,Houston Rockets,0.5822365755794326
+776,02/10/2016,Indiana Pacers,Charlotte Hornets,0.6358012969602175
+777,02/10/2016,Minnesota Timberwolves,Toronto Raptors,0.37437663905269997
+778,02/10/2016,New Orleans Pelicans,Utah Jazz,0.4835471563640823
+779,02/11/2016,Milwaukee Bucks,Washington Wizards,0.5097365139895775
+780,02/11/2016,Oklahoma City Thunder,New Orleans Pelicans,0.7986565894963713
+781,02/18/2016,LA Clippers,San Antonio Spurs,0.37963468350569574
+782,02/18/2016,Cleveland Cavaliers,Chicago Bulls,0.7466346481052978
+783,02/18/2016,Washington Wizards,Utah Jazz,0.5298666540662202
+784,02/19/2016,Los Angeles Lakers,San Antonio Spurs,0.12863819114453523
+785,02/19/2016,Chicago Bulls,Toronto Raptors,0.429023671746094
+786,02/19/2016,Phoenix Suns,Houston Rockets,0.45585507380385
+787,02/19/2016,Brooklyn Nets,New York Knicks,0.4794190275199623
+788,02/19/2016,Orlando Magic,Dallas Mavericks,0.553509582630421
+789,02/19/2016,Portland Trail Blazers,Golden State Warriors,0.26553875090200135
+790,02/19/2016,Utah Jazz,Boston Celtics,0.5233034725924248
+791,02/19/2016,Milwaukee Bucks,Charlotte Hornets,0.47876645353647346
+792,02/19/2016,Atlanta Hawks,Miami Heat,0.6618517914616429
+793,02/19/2016,Sacramento Kings,Denver Nuggets,0.6336611958927943
+794,02/19/2016,Washington Wizards,Detroit Pistons,0.5945675900156627
+795,02/19/2016,Memphis Grizzlies,Minnesota Timberwolves,0.665935544585865
+796,02/19/2016,Oklahoma City Thunder,Indiana Pacers,0.7203630963587538
+797,02/19/2016,New Orleans Pelicans,Philadelphia 76ers,0.7209593030542137
+798,02/20/2016,LA Clippers,Golden State Warriors,0.3830849506021157
+799,02/20/2016,Miami Heat,Washington Wizards,0.6115201260294979
+800,02/20/2016,Atlanta Hawks,Milwaukee Bucks,0.7503507394503012
+801,02/20/2016,Minnesota Timberwolves,New York Knicks,0.5682516930662875
+802,02/21/2016,Chicago Bulls,Los Angeles Lakers,0.7702839090322491
+803,02/21/2016,Phoenix Suns,San Antonio Spurs,0.17986034724556108
+804,02/21/2016,Brooklyn Nets,Charlotte Hornets,0.3967934651987114
+805,02/21/2016,Orlando Magic,Indiana Pacers,0.49807085465945994
+806,02/21/2016,Detroit Pistons,New Orleans Pelicans,0.6216598388196717
+807,02/21/2016,Portland Trail Blazers,Utah Jazz,0.5683896685364289
+808,02/21/2016,Dallas Mavericks,Philadelphia 76ers,0.772334618576959
+809,02/21/2016,Denver Nuggets,Boston Celtics,0.4214706309863315
+810,02/21/2016,Toronto Raptors,Memphis Grizzlies,0.6810148362629425
+811,02/21/2016,Oklahoma City Thunder,Cleveland Cavaliers,0.6227659592862663
+812,02/22/2016,New York Knicks,Toronto Raptors,0.4053819700780373
+813,02/22/2016,LA Clippers,Phoenix Suns,0.8035945645691268
+814,02/22/2016,Cleveland Cavaliers,Detroit Pistons,0.759254763971334
+815,02/22/2016,Miami Heat,Indiana Pacers,0.5512201727438789
+816,02/22/2016,Milwaukee Bucks,Los Angeles Lakers,0.7327479924209236
+817,02/22/2016,Atlanta Hawks,Golden State Warriors,0.346713693953346
+818,02/22/2016,Minnesota Timberwolves,Boston Celtics,0.41056071632499924
+819,02/23/2016,Philadelphia 76ers,Orlando Magic,0.39033805975772046
+820,02/23/2016,Portland Trail Blazers,Brooklyn Nets,0.7491557624714025
+821,02/23/2016,Utah Jazz,Houston Rockets,0.6100059964286461
+822,02/23/2016,Denver Nuggets,Sacramento Kings,0.5194484674990522
+823,02/23/2016,Washington Wizards,New Orleans Pelicans,0.6252541436383915
+824,02/24/2016,Chicago Bulls,Washington Wizards,0.5678946941146046
+825,02/24/2016,LA Clippers,Denver Nuggets,0.7791515899651174
+826,02/24/2016,Cleveland Cavaliers,Charlotte Hornets,0.7045124176532427
+827,02/24/2016,Miami Heat,Golden State Warriors,0.28929758497888214
+828,02/24/2016,Detroit Pistons,Philadelphia 76ers,0.7569389741766156
+829,02/24/2016,Indiana Pacers,New York Knicks,0.6988469725744486
+830,02/24/2016,Dallas Mavericks,Oklahoma City Thunder,0.4022872055056453
+831,02/24/2016,Sacramento Kings,San Antonio Spurs,0.2655047946349047
+832,02/24/2016,Toronto Raptors,Minnesota Timberwolves,0.761530762118921
+833,02/24/2016,Memphis Grizzlies,Los Angeles Lakers,0.7927622227263768
+834,02/25/2016,Phoenix Suns,Brooklyn Nets,0.5997693398974547
+835,02/25/2016,Boston Celtics,Milwaukee Bucks,0.7258508374685
+836,02/25/2016,Orlando Magic,Golden State Warriors,0.24821320918747897
+837,02/25/2016,Portland Trail Blazers,Houston Rockets,0.6063373164040514
+838,02/25/2016,Utah Jazz,San Antonio Spurs,0.3094030537291176
+839,02/25/2016,New Orleans Pelicans,Oklahoma City Thunder,0.3310134875414145
+840,02/26/2016,Philadelphia 76ers,Washington Wizards,0.37055780276456074
+841,02/26/2016,Los Angeles Lakers,Memphis Grizzlies,0.3353934797894821
+842,02/26/2016,New York Knicks,Orlando Magic,0.5475034829436703
+843,02/26/2016,Indiana Pacers,Charlotte Hornets,0.612088613934927
+844,02/26/2016,Dallas Mavericks,Denver Nuggets,0.6646767982499295
+845,02/26/2016,Atlanta Hawks,Chicago Bulls,0.683086264316468
+846,02/26/2016,Sacramento Kings,LA Clippers,0.42909670161985053
+847,02/26/2016,Toronto Raptors,Cleveland Cavaliers,0.5492510088870683
+848,02/27/2016,Chicago Bulls,Portland Trail Blazers,0.5318824950706734
+849,02/27/2016,Phoenix Suns,Memphis Grizzlies,0.41792605977373426
+850,02/27/2016,Boston Celtics,Miami Heat,0.6440085474099785
+851,02/27/2016,Houston Rockets,San Antonio Spurs,0.2872999842476517
+852,02/27/2016,Utah Jazz,Brooklyn Nets,0.7466622557402334
+853,02/27/2016,Milwaukee Bucks,Detroit Pistons,0.5264258527686195
+854,02/27/2016,Oklahoma City Thunder,Golden State Warriors,0.43649068283795345
+855,02/27/2016,New Orleans Pelicans,Minnesota Timberwolves,0.6019899978955803
+856,02/28/2016,New York Knicks,Miami Heat,0.5025951678577696
+857,02/28/2016,Orlando Magic,Philadelphia 76ers,0.750962814762836
+858,02/28/2016,Detroit Pistons,Toronto Raptors,0.4411715537802136
+859,02/28/2016,Indiana Pacers,Portland Trail Blazers,0.6057977987990661
+860,02/28/2016,Dallas Mavericks,Minnesota Timberwolves,0.6610954692105391
+861,02/28/2016,Atlanta Hawks,Charlotte Hornets,0.6422435622749265
+862,02/28/2016,Washington Wizards,Cleveland Cavaliers,0.41561300166594806
+863,02/29/2016,Boston Celtics,Utah Jazz,0.6426085119186764
+864,02/29/2016,LA Clippers,Brooklyn Nets,0.8160622803329071
+865,02/29/2016,Cleveland Cavaliers,Indiana Pacers,0.6867090728009881
+866,02/29/2016,Milwaukee Bucks,Houston Rockets,0.4964477454208918
+867,02/29/2016,Sacramento Kings,Oklahoma City Thunder,0.3798492693661195
+868,02/29/2016,Denver Nuggets,Memphis Grizzlies,0.4851361338491083
+869,02/29/2016,Washington Wizards,Philadelphia 76ers,0.7780183269667869
+870,03/01/2016,Golden State Warriors,Atlanta Hawks,0.7876469401163843
+871,03/01/2016,Los Angeles Lakers,Brooklyn Nets,0.4856900953470567
+872,03/01/2016,New York Knicks,Portland Trail Blazers,0.4794552102852442
+873,03/01/2016,Miami Heat,Chicago Bulls,0.6356319837723631
+874,03/01/2016,Dallas Mavericks,Orlando Magic,0.6280922543604082
+875,03/01/2016,Charlotte Hornets,Phoenix Suns,0.7335503306062601
+876,03/02/2016,Philadelphia 76ers,Charlotte Hornets,0.3300236211248964
+877,03/02/2016,San Antonio Spurs,Detroit Pistons,0.8421585501075322
+878,03/02/2016,Boston Celtics,Portland Trail Blazers,0.63003265413484
+879,03/02/2016,LA Clippers,Oklahoma City Thunder,0.5354354315096129
+880,03/02/2016,Orlando Magic,Chicago Bulls,0.588380863373023
+881,03/02/2016,Houston Rockets,New Orleans Pelicans,0.647311067954163
+882,03/02/2016,Milwaukee Bucks,Indiana Pacers,0.4717774642040845
+883,03/02/2016,Denver Nuggets,Los Angeles Lakers,0.7239839488119754
+884,03/02/2016,Minnesota Timberwolves,Washington Wizards,0.4966514406600905
+885,03/02/2016,Toronto Raptors,Utah Jazz,0.6807360626984967
+886,03/02/2016,Memphis Grizzlies,Sacramento Kings,0.6314270310797757
+887,03/03/2016,Golden State Warriors,Oklahoma City Thunder,0.7210850665156422
+888,03/03/2016,Miami Heat,Phoenix Suns,0.7500931048902857
+889,03/03/2016,Dallas Mavericks,Sacramento Kings,0.6375034219429259
+890,03/03/2016,New Orleans Pelicans,San Antonio Spurs,0.22806212504008488
+891,03/04/2016,Philadelphia 76ers,Miami Heat,0.32196822097469124
+892,03/04/2016,Los Angeles Lakers,Atlanta Hawks,0.2714660236707333
+893,03/04/2016,Boston Celtics,New York Knicks,0.735703566037651
+894,03/04/2016,Orlando Magic,Phoenix Suns,0.7036759630598788
+895,03/04/2016,Cleveland Cavaliers,Washington Wizards,0.7157117980724382
+896,03/04/2016,Milwaukee Bucks,Minnesota Timberwolves,0.5967551369189887
+897,03/04/2016,Denver Nuggets,Brooklyn Nets,0.6564889876307595
+898,03/04/2016,Charlotte Hornets,Indiana Pacers,0.581661138800595
+899,03/04/2016,Toronto Raptors,Portland Trail Blazers,0.6729880711785667
+900,03/04/2016,Memphis Grizzlies,Utah Jazz,0.5914183401826625
+901,03/05/2016,San Antonio Spurs,Sacramento Kings,0.8525417915474665
+902,03/05/2016,Chicago Bulls,Houston Rockets,0.5288181402498735
+903,03/05/2016,New York Knicks,Detroit Pistons,0.5189566236367192
+904,03/05/2016,LA Clippers,Atlanta Hawks,0.6189961379833465
+905,03/05/2016,Cleveland Cavaliers,Boston Celtics,0.6491473324111571
+906,03/05/2016,Minnesota Timberwolves,Brooklyn Nets,0.6390363068093249
+907,03/05/2016,Washington Wizards,Indiana Pacers,0.5468058000333618
+908,03/05/2016,New Orleans Pelicans,Utah Jazz,0.5087062491930594
+909,03/06/2016,Los Angeles Lakers,Golden State Warriors,0.11853490110897155
+910,03/06/2016,Miami Heat,Philadelphia 76ers,0.8083270863470143
+911,03/06/2016,Detroit Pistons,Portland Trail Blazers,0.5348641499835579
+912,03/06/2016,Milwaukee Bucks,Oklahoma City Thunder,0.3535335393620819
+913,03/06/2016,Denver Nuggets,Dallas Mavericks,0.4837295574208224
+914,03/06/2016,Toronto Raptors,Houston Rockets,0.6963218344010462
+915,03/06/2016,Memphis Grizzlies,Phoenix Suns,0.7387968542436804
+916,03/07/2016,Golden State Warriors,Orlando Magic,0.8600672273185473
+917,03/07/2016,Chicago Bulls,Milwaukee Bucks,0.6095797701658416
+918,03/07/2016,Cleveland Cavaliers,Memphis Grizzlies,0.7174923405718653
+919,03/07/2016,Indiana Pacers,San Antonio Spurs,0.3049368038582982
+920,03/07/2016,Dallas Mavericks,LA Clippers,0.4699991387270606
+921,03/07/2016,Charlotte Hornets,Minnesota Timberwolves,0.6984292698337111
+922,03/07/2016,New Orleans Pelicans,Sacramento Kings,0.5452944624283692
+923,03/08/2016,Los Angeles Lakers,Orlando Magic,0.38662542051376947
+924,03/08/2016,Portland Trail Blazers,Washington Wizards,0.6106176890354584
+925,03/08/2016,Utah Jazz,Atlanta Hawks,0.49398806970910075
+926,03/08/2016,Denver Nuggets,New York Knicks,0.5803170733234873
+927,03/08/2016,Minnesota Timberwolves,San Antonio Spurs,0.22170591013774238
+928,03/08/2016,Toronto Raptors,Brooklyn Nets,0.8128218239991971
+929,03/09/2016,Philadelphia 76ers,Houston Rockets,0.3409319543902815
+930,03/09/2016,Golden State Warriors,Utah Jazz,0.8345853809570842
+931,03/09/2016,Phoenix Suns,New York Knicks,0.5177699126728046
+932,03/09/2016,Boston Celtics,Memphis Grizzlies,0.6428830184302499
+933,03/09/2016,Milwaukee Bucks,Miami Heat,0.4676134498271369
+934,03/09/2016,Dallas Mavericks,Detroit Pistons,0.6064032966119272
+935,03/09/2016,Sacramento Kings,Cleveland Cavaliers,0.39133956184553015
+936,03/09/2016,Charlotte Hornets,New Orleans Pelicans,0.6899413587294958
+937,03/09/2016,Oklahoma City Thunder,LA Clippers,0.6195078612571561
+938,03/10/2016,San Antonio Spurs,Chicago Bulls,0.8540064739816827
+939,03/10/2016,Los Angeles Lakers,Cleveland Cavaliers,0.22259718762645256
+940,03/10/2016,Denver Nuggets,Phoenix Suns,0.6605741195154567
+941,03/10/2016,Toronto Raptors,Atlanta Hawks,0.6067940999863525
+942,03/11/2016,Philadelphia 76ers,Brooklyn Nets,0.49699801133901195
+943,03/11/2016,Golden State Warriors,Portland Trail Blazers,0.8269261793540691
+944,03/11/2016,Chicago Bulls,Miami Heat,0.5071532447213343
+945,03/11/2016,Boston Celtics,Houston Rockets,0.6539488817237239
+946,03/11/2016,LA Clippers,New York Knicks,0.7567695156061934
+947,03/11/2016,Utah Jazz,Washington Wizards,0.5952797016493856
+948,03/11/2016,Sacramento Kings,Orlando Magic,0.5948278802344831
+949,03/11/2016,Charlotte Hornets,Detroit Pistons,0.643440891833983
+950,03/11/2016,Oklahoma City Thunder,Minnesota Timberwolves,0.8031725481758559
+951,03/11/2016,Memphis Grizzlies,New Orleans Pelicans,0.6639181139524134
+952,03/12/2016,Philadelphia 76ers,Detroit Pistons,0.36843436247276556
+953,03/12/2016,Golden State Warriors,Phoenix Suns,0.9106611245290255
+954,03/12/2016,San Antonio Spurs,Oklahoma City Thunder,0.7160989386374107
+955,03/12/2016,Portland Trail Blazers,Orlando Magic,0.6443312792810268
+956,03/12/2016,Milwaukee Bucks,New Orleans Pelicans,0.5892005015587995
+957,03/12/2016,Dallas Mavericks,Indiana Pacers,0.5515171058108533
+958,03/12/2016,Atlanta Hawks,Memphis Grizzlies,0.6634051101532907
+959,03/12/2016,Denver Nuggets,Washington Wizards,0.533735814240811
+960,03/12/2016,Charlotte Hornets,Houston Rockets,0.6196588942959372
+961,03/12/2016,Toronto Raptors,Miami Heat,0.6620714251925313
+962,03/13/2016,Los Angeles Lakers,New York Knicks,0.4177299175621228
+963,03/13/2016,Brooklyn Nets,Milwaukee Bucks,0.49120639153622975
+964,03/13/2016,LA Clippers,Cleveland Cavaliers,0.5538040621688374
+965,03/13/2016,Atlanta Hawks,Indiana Pacers,0.6410665799761225
+966,03/13/2016,Sacramento Kings,Utah Jazz,0.5370399827183276
+967,03/14/2016,Golden State Warriors,New Orleans Pelicans,0.8797545209569729
+968,03/14/2016,Phoenix Suns,Minnesota Timberwolves,0.5060232996194556
+969,03/14/2016,Houston Rockets,Memphis Grizzlies,0.5847792804629776
+970,03/14/2016,Miami Heat,Denver Nuggets,0.6770445023685175
+971,03/14/2016,Utah Jazz,Cleveland Cavaliers,0.42824868513513736
+972,03/14/2016,Washington Wizards,Detroit Pistons,0.571261302177783
+973,03/14/2016,Charlotte Hornets,Dallas Mavericks,0.6410743347543073
+974,03/14/2016,Toronto Raptors,Chicago Bulls,0.7405374525296656
+975,03/14/2016,Oklahoma City Thunder,Portland Trail Blazers,0.7066459186821898
+976,03/15/2016,San Antonio Spurs,LA Clippers,0.752027854429745
+977,03/15/2016,Los Angeles Lakers,Sacramento Kings,0.39065794462435177
+978,03/15/2016,Brooklyn Nets,Philadelphia 76ers,0.659774902632238
+979,03/15/2016,Orlando Magic,Denver Nuggets,0.590097062914499
+980,03/15/2016,Milwaukee Bucks,Toronto Raptors,0.40135892112487226
+981,03/15/2016,Indiana Pacers,Boston Celtics,0.532643551342646
+982,03/16/2016,Golden State Warriors,New York Knicks,0.8762163802718973
+983,03/16/2016,Boston Celtics,Oklahoma City Thunder,0.48873959372210457
+984,03/16/2016,Cleveland Cavaliers,Dallas Mavericks,0.7241766561870698
+985,03/16/2016,Houston Rockets,LA Clippers,0.4913093319561786
+986,03/16/2016,Detroit Pistons,Atlanta Hawks,0.4518011027816203
+987,03/16/2016,Sacramento Kings,New Orleans Pelicans,0.6285285617623471
+988,03/16/2016,Charlotte Hornets,Orlando Magic,0.684354161656726
+989,03/16/2016,Washington Wizards,Chicago Bulls,0.6166394742939385
+990,03/16/2016,Memphis Grizzlies,Minnesota Timberwolves,0.6563077665070441
+991,03/17/2016,Philadelphia 76ers,Washington Wizards,0.35236352881881644
+992,03/17/2016,San Antonio Spurs,Portland Trail Blazers,0.8222126850147029
+993,03/17/2016,Chicago Bulls,Brooklyn Nets,0.6762108543710686
+994,03/17/2016,Miami Heat,Charlotte Hornets,0.5720893239193917
+995,03/17/2016,Utah Jazz,Phoenix Suns,0.7396922332765632
+996,03/17/2016,Milwaukee Bucks,Memphis Grizzlies,0.5355620431730388
+997,03/17/2016,Indiana Pacers,Toronto Raptors,0.4876407216671437
+998,03/17/2016,Atlanta Hawks,Denver Nuggets,0.7367499851318597
+999,03/18/2016,Philadelphia 76ers,Oklahoma City Thunder,0.21256276749447248
+1000,03/18/2016,Los Angeles Lakers,Phoenix Suns,0.5131195860392963
+1001,03/18/2016,Orlando Magic,Cleveland Cavaliers,0.3742279355631725
+1002,03/18/2016,Houston Rockets,Minnesota Timberwolves,0.6745704085404138
+1003,03/18/2016,Detroit Pistons,Sacramento Kings,0.6022880642458148
+1004,03/18/2016,Dallas Mavericks,Golden State Warriors,0.27089728688604114
+1005,03/18/2016,Toronto Raptors,Boston Celtics,0.6390286118062944
+1006,03/18/2016,New Orleans Pelicans,Portland Trail Blazers,0.49102597258309666
+1007,03/19/2016,San Antonio Spurs,Golden State Warriors,0.5626497717219988
+1008,03/19/2016,Chicago Bulls,Utah Jazz,0.5147820430913442
+1009,03/19/2016,Miami Heat,Cleveland Cavaliers,0.46545234130557556
+1010,03/19/2016,Detroit Pistons,Brooklyn Nets,0.7016304029714491
+1011,03/19/2016,Indiana Pacers,Oklahoma City Thunder,0.43884485158083225
+1012,03/19/2016,Atlanta Hawks,Houston Rockets,0.6726615614716588
+1013,03/19/2016,Charlotte Hornets,Denver Nuggets,0.6984225956909191
+1014,03/19/2016,Washington Wizards,New York Knicks,0.6593106735456692
+1015,03/19/2016,Memphis Grizzlies,LA Clippers,0.44404993568635776
+1016,03/20/2016,Philadelphia 76ers,Boston Celtics,0.294837136801119
+1017,03/20/2016,New York Knicks,Sacramento Kings,0.5470588123464274
+1018,03/20/2016,Milwaukee Bucks,Utah Jazz,0.5017349813977093
+1019,03/20/2016,Dallas Mavericks,Portland Trail Blazers,0.5641387110476511
+1020,03/20/2016,Toronto Raptors,Orlando Magic,0.74928755651381
+1021,03/20/2016,New Orleans Pelicans,LA Clippers,0.38883272304697186
+1022,03/21/2016,Chicago Bulls,Sacramento Kings,0.5873512477214499
+1023,03/21/2016,Phoenix Suns,Memphis Grizzlies,0.43847704138869065
+1024,03/21/2016,Boston Celtics,Orlando Magic,0.6977481582121696
+1025,03/21/2016,Cleveland Cavaliers,Denver Nuggets,0.7713184495769159
+1026,03/21/2016,Detroit Pistons,Milwaukee Bucks,0.6271778028263467
+1027,03/21/2016,Indiana Pacers,Philadelphia 76ers,0.8065926311483594
+1028,03/21/2016,Atlanta Hawks,Washington Wizards,0.6912017009812966
+1029,03/21/2016,Minnesota Timberwolves,Golden State Warriors,0.21200168731934724
+1030,03/21/2016,Charlotte Hornets,San Antonio Spurs,0.33063487872142555
+1031,03/22/2016,Los Angeles Lakers,Memphis Grizzlies,0.36483158505815233
+1032,03/22/2016,Brooklyn Nets,Charlotte Hornets,0.38050264697213915
+1033,03/22/2016,Oklahoma City Thunder,Houston Rockets,0.7305799136700185
+1034,03/22/2016,New Orleans Pelicans,Miami Heat,0.45911192171699405
+1035,03/23/2016,Golden State Warriors,LA Clippers,0.7703210321667876
+1036,03/23/2016,San Antonio Spurs,Miami Heat,0.7949418839125818
+1037,03/23/2016,Chicago Bulls,New York Knicks,0.6355024895867691
+1038,03/23/2016,Phoenix Suns,Los Angeles Lakers,0.6463023435282395
+1039,03/23/2016,Boston Celtics,Toronto Raptors,0.5226431338511223
+1040,03/23/2016,Cleveland Cavaliers,Milwaukee Bucks,0.7770421190969052
+1041,03/23/2016,Houston Rockets,Utah Jazz,0.5708387781146568
+1042,03/23/2016,Detroit Pistons,Orlando Magic,0.6283856817413946
+1043,03/23/2016,Portland Trail Blazers,Dallas Mavericks,0.5912113805265411
+1044,03/23/2016,Denver Nuggets,Philadelphia 76ers,0.7395643402120406
+1045,03/23/2016,Minnesota Timberwolves,Sacramento Kings,0.5455923554980125
+1046,03/23/2016,Washington Wizards,Atlanta Hawks,0.4788819428047338
+1047,03/24/2016,New York Knicks,Chicago Bulls,0.5393428813529001
+1048,03/24/2016,Brooklyn Nets,Cleveland Cavaliers,0.27810277160760283
+1049,03/24/2016,LA Clippers,Portland Trail Blazers,0.6704293771919665
+1050,03/24/2016,Indiana Pacers,New Orleans Pelicans,0.6871406964043815
+1051,03/24/2016,Oklahoma City Thunder,Utah Jazz,0.7208263263764755
+1052,03/25/2016,Golden State Warriors,Dallas Mavericks,0.842234665304871
+1053,03/25/2016,San Antonio Spurs,Memphis Grizzlies,0.8407647837224191
+1054,03/25/2016,Los Angeles Lakers,Denver Nuggets,0.4193728609666619
+1055,03/25/2016,Houston Rockets,Toronto Raptors,0.4716376121173064
+1056,03/25/2016,Miami Heat,Orlando Magic,0.6914738496149581
+1057,03/25/2016,Detroit Pistons,Charlotte Hornets,0.5191944419276191
+1058,03/25/2016,Atlanta Hawks,Milwaukee Bucks,0.7489980421985465
+1059,03/25/2016,Sacramento Kings,Phoenix Suns,0.6862203181006542
+1060,03/25/2016,Washington Wizards,Minnesota Timberwolves,0.6570984138063064
+1061,03/26/2016,New York Knicks,Cleveland Cavaliers,0.3520723030029584
+1062,03/26/2016,Phoenix Suns,Boston Celtics,0.3515881308330866
+1063,03/26/2016,Brooklyn Nets,Indiana Pacers,0.40084846716970784
+1064,03/26/2016,Orlando Magic,Chicago Bulls,0.5566771702197619
+1065,03/26/2016,Detroit Pistons,Atlanta Hawks,0.4544421194252228
+1066,03/26/2016,Portland Trail Blazers,Philadelphia 76ers,0.7979098839018628
+1067,03/26/2016,Milwaukee Bucks,Charlotte Hornets,0.463983192488643
+1068,03/26/2016,Minnesota Timberwolves,Utah Jazz,0.4912853612254066
+1069,03/26/2016,Oklahoma City Thunder,San Antonio Spurs,0.4554135234559109
+1070,03/26/2016,New Orleans Pelicans,Toronto Raptors,0.3820771062368473
+1071,03/27/2016,Golden State Warriors,Philadelphia 76ers,0.9345709447358119
+1072,03/27/2016,Los Angeles Lakers,Washington Wizards,0.3515241025443823
+1073,03/27/2016,LA Clippers,Denver Nuggets,0.7360643398624939
+1074,03/27/2016,Indiana Pacers,Houston Rockets,0.6052683866182201
+1075,03/27/2016,Sacramento Kings,Dallas Mavericks,0.5474423308826979
+1076,03/28/2016,Chicago Bulls,Atlanta Hawks,0.4067062972800792
+1077,03/28/2016,LA Clippers,Boston Celtics,0.6162904733186556
+1078,03/28/2016,Miami Heat,Brooklyn Nets,0.7518471479458009
+1079,03/28/2016,Portland Trail Blazers,Sacramento Kings,0.6279583924159583
+1080,03/28/2016,Utah Jazz,Los Angeles Lakers,0.8010514792343958
+1081,03/28/2016,Denver Nuggets,Dallas Mavericks,0.5255474821324141
+1082,03/28/2016,Minnesota Timberwolves,Phoenix Suns,0.6670646661998775
+1083,03/28/2016,Toronto Raptors,Oklahoma City Thunder,0.5239323629184235
+1084,03/28/2016,Memphis Grizzlies,San Antonio Spurs,0.2790149669173279
+1085,03/28/2016,New Orleans Pelicans,New York Knicks,0.5781699204433544
+1086,03/29/2016,Philadelphia 76ers,Charlotte Hornets,0.2935215055396461
+1087,03/29/2016,Golden State Warriors,Washington Wizards,0.8372178785620354
+1088,03/29/2016,Cleveland Cavaliers,Houston Rockets,0.7206778191040452
+1089,03/29/2016,Orlando Magic,Brooklyn Nets,0.657895406684089
+1090,03/29/2016,Detroit Pistons,Oklahoma City Thunder,0.38224790346391313
+1091,03/29/2016,Indiana Pacers,Chicago Bulls,0.6668226418960029
+1092,03/30/2016,San Antonio Spurs,New Orleans Pelicans,0.8695886663040755
+1093,03/30/2016,Los Angeles Lakers,Miami Heat,0.293072629847128
+1094,03/30/2016,Utah Jazz,Golden State Warriors,0.30285962030681035
+1095,03/30/2016,Milwaukee Bucks,Phoenix Suns,0.6639593738407314
+1096,03/30/2016,Dallas Mavericks,New York Knicks,0.6560506644575956
+1097,03/30/2016,Sacramento Kings,Washington Wizards,0.5453116171311745
+1098,03/30/2016,Minnesota Timberwolves,LA Clippers,0.3998545114682344
+1099,03/30/2016,Toronto Raptors,Atlanta Hawks,0.5756674420589326
+1100,03/30/2016,Memphis Grizzlies,Denver Nuggets,0.6308352219133246
+1101,03/31/2016,Cleveland Cavaliers,Brooklyn Nets,0.8273043251171239
+1102,03/31/2016,Houston Rockets,Chicago Bulls,0.645271431399443
+1103,03/31/2016,Portland Trail Blazers,Boston Celtics,0.5365476647086342
+1104,03/31/2016,Indiana Pacers,Orlando Magic,0.6632358443614208
+1105,03/31/2016,Oklahoma City Thunder,LA Clippers,0.6448032621313229
+1106,03/31/2016,New Orleans Pelicans,Denver Nuggets,0.5664485587549631
+1107,04/01/2016,Golden State Warriors,Boston Celtics,0.8043570859410766
+1108,04/01/2016,New York Knicks,Brooklyn Nets,0.6490225092006449
+1109,04/01/2016,Phoenix Suns,Washington Wizards,0.4220905954842472
+1110,04/01/2016,Detroit Pistons,Dallas Mavericks,0.5756907949884791
+1111,04/01/2016,Milwaukee Bucks,Orlando Magic,0.5574852409358751
+1112,04/01/2016,Utah Jazz,Minnesota Timberwolves,0.6867829695442779
+1113,04/01/2016,Atlanta Hawks,Cleveland Cavaliers,0.5450556530458064
+1114,04/01/2016,Sacramento Kings,Miami Heat,0.500955564292103
+1115,04/01/2016,Charlotte Hornets,Philadelphia 76ers,0.8302858819367381
+1116,04/01/2016,Memphis Grizzlies,Toronto Raptors,0.4381853093114077
+1117,04/02/2016,Philadelphia 76ers,Indiana Pacers,0.3173943732159991
+1118,04/02/2016,San Antonio Spurs,Toronto Raptors,0.7462038057177585
+1119,04/02/2016,Chicago Bulls,Detroit Pistons,0.5534957493468184
+1120,04/02/2016,Portland Trail Blazers,Miami Heat,0.5470812812678308
+1121,04/02/2016,Denver Nuggets,Sacramento Kings,0.5479992782071746
+1122,04/03/2016,Golden State Warriors,Portland Trail Blazers,0.822251244523659
+1123,04/03/2016,Los Angeles Lakers,Boston Celtics,0.2887138677703449
+1124,04/03/2016,New York Knicks,Indiana Pacers,0.4771735651557794
+1125,04/03/2016,Phoenix Suns,Utah Jazz,0.3814786090890749
+1126,04/03/2016,Brooklyn Nets,New Orleans Pelicans,0.5087608142957107
+1127,04/03/2016,LA Clippers,Washington Wizards,0.6922466084014997
+1128,04/03/2016,Orlando Magic,Memphis Grizzlies,0.5717992293507368
+1129,04/03/2016,Cleveland Cavaliers,Charlotte Hornets,0.6716255384081975
+1130,04/03/2016,Houston Rockets,Oklahoma City Thunder,0.4080424209963313
+1131,04/03/2016,Milwaukee Bucks,Chicago Bulls,0.5672282375999146
+1132,04/03/2016,Minnesota Timberwolves,Dallas Mavericks,0.5047088166196629
+1133,04/05/2016,Philadelphia 76ers,New Orleans Pelicans,0.4104786372278122
+1134,04/05/2016,Golden State Warriors,Minnesota Timberwolves,0.8796857328938238
+1135,04/05/2016,LA Clippers,Los Angeles Lakers,0.8589221528105964
+1136,04/05/2016,Miami Heat,Detroit Pistons,0.64354180054688
+1137,04/05/2016,Utah Jazz,San Antonio Spurs,0.32914594772217404
+1138,04/05/2016,Milwaukee Bucks,Cleveland Cavaliers,0.35818191080722883
+1139,04/05/2016,Atlanta Hawks,Phoenix Suns,0.8159716280466391
+1140,04/05/2016,Sacramento Kings,Portland Trail Blazers,0.5362285384554164
+1141,04/05/2016,Denver Nuggets,Oklahoma City Thunder,0.33762400033767204
+1142,04/05/2016,Toronto Raptors,Charlotte Hornets,0.6360138205320693
+1143,04/05/2016,Memphis Grizzlies,Chicago Bulls,0.5956760997431969
+1144,04/06/2016,Los Angeles Lakers,LA Clippers,0.23803732369921224
+1145,04/06/2016,New York Knicks,Charlotte Hornets,0.44772495341580526
+1146,04/06/2016,Boston Celtics,New Orleans Pelicans,0.7141058235052372
+1147,04/06/2016,Orlando Magic,Detroit Pistons,0.5663896822139849
+1148,04/06/2016,Portland Trail Blazers,Oklahoma City Thunder,0.42287970991233786
+1149,04/06/2016,Indiana Pacers,Cleveland Cavaliers,0.447371429551459
+1150,04/06/2016,Dallas Mavericks,Houston Rockets,0.5732400491250392
+1151,04/06/2016,Washington Wizards,Brooklyn Nets,0.7306681796757899
+1152,04/07/2016,Golden State Warriors,San Antonio Spurs,0.6016791544040427
+1153,04/07/2016,Houston Rockets,Phoenix Suns,0.7413096108630634
+1154,04/07/2016,Miami Heat,Chicago Bulls,0.6809550359842459
+1155,04/07/2016,Atlanta Hawks,Toronto Raptors,0.5877887877754822
+1156,04/07/2016,Sacramento Kings,Minnesota Timberwolves,0.6291389356711213
+1157,04/08/2016,Philadelphia 76ers,New York Knicks,0.4255921651434028
+1158,04/08/2016,Boston Celtics,Milwaukee Bucks,0.7158509075965093
+1159,04/08/2016,Orlando Magic,Miami Heat,0.48643419120147013
+1160,04/08/2016,Detroit Pistons,Washington Wizards,0.561682336541817
+1161,04/08/2016,Utah Jazz,LA Clippers,0.49552727524884116
+1162,04/08/2016,Dallas Mavericks,Memphis Grizzlies,0.6132487139332904
+1163,04/08/2016,Denver Nuggets,San Antonio Spurs,0.23771077888534117
+1164,04/08/2016,Charlotte Hornets,Brooklyn Nets,0.7791128242694791
+1165,04/08/2016,Toronto Raptors,Indiana Pacers,0.6548139761448426
+1166,04/08/2016,New Orleans Pelicans,Los Angeles Lakers,0.7387169862777601
+1167,04/09/2016,Chicago Bulls,Cleveland Cavaliers,0.37214581375495187
+1168,04/09/2016,Portland Trail Blazers,Minnesota Timberwolves,0.6780213953698092
+1169,04/09/2016,Atlanta Hawks,Boston Celtics,0.6341550517530492
+1170,04/09/2016,Sacramento Kings,Oklahoma City Thunder,0.37286679696593783
+1171,04/09/2016,Memphis Grizzlies,Golden State Warriors,0.25171355055180766
+1172,04/09/2016,New Orleans Pelicans,Phoenix Suns,0.6685114107248707
+1173,04/10/2016,Philadelphia 76ers,Milwaukee Bucks,0.4207461988898262
+1174,04/10/2016,San Antonio Spurs,Golden State Warriors,0.554504263595168
+1175,04/10/2016,New York Knicks,Toronto Raptors,0.3862926620647432
+1176,04/10/2016,LA Clippers,Dallas Mavericks,0.6979885965905362
+1177,04/10/2016,Houston Rockets,Los Angeles Lakers,0.8002346964753774
+1178,04/10/2016,Miami Heat,Orlando Magic,0.669835369856216
+1179,04/10/2016,Indiana Pacers,Brooklyn Nets,0.7636457835523849
+1180,04/10/2016,Denver Nuggets,Utah Jazz,0.47007573144506054
+1181,04/10/2016,Washington Wizards,Charlotte Hornets,0.5205178025516413
+1182,04/11/2016,Phoenix Suns,Sacramento Kings,0.45918865173631623
+1183,04/11/2016,Brooklyn Nets,Washington Wizards,0.4022644577328833
+1184,04/11/2016,Boston Celtics,Charlotte Hornets,0.5921251875710809
+1185,04/11/2016,Orlando Magic,Milwaukee Bucks,0.6180264026216004
+1186,04/11/2016,Cleveland Cavaliers,Atlanta Hawks,0.6166304191870082
+1187,04/11/2016,Utah Jazz,Dallas Mavericks,0.6210138093278154
+1188,04/11/2016,Minnesota Timberwolves,Houston Rockets,0.4987712363452871
+1189,04/11/2016,Oklahoma City Thunder,Los Angeles Lakers,0.889471483794219
+1190,04/11/2016,New Orleans Pelicans,Chicago Bulls,0.5523252642218852
+1191,04/12/2016,San Antonio Spurs,Oklahoma City Thunder,0.6768963729358177
+1192,04/12/2016,LA Clippers,Memphis Grizzlies,0.7324676008800989
+1193,04/12/2016,Detroit Pistons,Miami Heat,0.5130412784247934
+1194,04/12/2016,Indiana Pacers,New York Knicks,0.6992189627696354
+1195,04/12/2016,Toronto Raptors,Philadelphia 76ers,0.8586533118181784

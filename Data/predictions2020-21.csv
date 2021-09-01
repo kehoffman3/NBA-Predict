@@ -1,0 +1,1027 @@
+,Date,Home,Away,Home Team Win Probability
+0,12/28/2020,Los Angeles Lakers,Portland Trail Blazers,0.7740430483393103
+1,12/28/2020,Brooklyn Nets,Memphis Grizzlies,0.7937563762240939
+2,12/28/2020,Atlanta Hawks,Detroit Pistons,0.7641455698250886
+3,12/28/2020,Denver Nuggets,Houston Rockets,0.47898519804295225
+4,12/28/2020,Oklahoma City Thunder,Utah Jazz,0.7392551578561162
+5,12/29/2020,Philadelphia 76ers,Toronto Raptors,0.666848654776802
+6,12/29/2020,Phoenix Suns,New Orleans Pelicans,0.6928803673971663
+7,12/29/2020,LA Clippers,Minnesota Timberwolves,0.6059159946806979
+8,12/29/2020,Cleveland Cavaliers,New York Knicks,0.7403352962533475
+9,12/29/2020,Miami Heat,Milwaukee Bucks,0.7327234087399824
+10,12/29/2020,Detroit Pistons,Golden State Warriors,0.6075308129360821
+11,12/29/2020,Indiana Pacers,Boston Celtics,0.8491135285833334
+12,12/29/2020,Sacramento Kings,Denver Nuggets,0.5185634480026644
+13,12/29/2020,Washington Wizards,Chicago Bulls,0.5678882265495996
+14,12/29/2020,Oklahoma City Thunder,Orlando Magic,0.4691501990991419
+15,12/30/2020,San Antonio Spurs,Los Angeles Lakers,0.39938879762522705
+16,12/30/2020,Brooklyn Nets,Atlanta Hawks,0.48173421481903184
+17,12/30/2020,Boston Celtics,Memphis Grizzlies,0.5354459123325002
+18,12/30/2020,LA Clippers,Portland Trail Blazers,0.5057899065870719
+19,12/30/2020,Miami Heat,Milwaukee Bucks,0.3062172117984756
+20,12/30/2020,Dallas Mavericks,Charlotte Hornets,0.7282125646287501
+21,12/31/2020,Orlando Magic,Philadelphia 76ers,0.7048995326182687
+22,12/31/2020,Houston Rockets,Sacramento Kings,0.460552826941546
+23,12/31/2020,Utah Jazz,Phoenix Suns,0.4314794887875255
+24,12/31/2020,Indiana Pacers,Cleveland Cavaliers,0.6011114604313613
+25,12/31/2020,Toronto Raptors,New York Knicks,0.390315613616956
+26,12/31/2020,Washington Wizards,Chicago Bulls,0.4768033861197961
+27,12/31/2020,Oklahoma City Thunder,New Orleans Pelicans,0.7009403230324445
+28,01/01/2021,Golden State Warriors,Portland Trail Blazers,0.5384192721010018
+29,01/01/2021,San Antonio Spurs,Los Angeles Lakers,0.29324558532310746
+30,01/01/2021,Brooklyn Nets,Atlanta Hawks,0.5819811202473318
+31,01/01/2021,Detroit Pistons,Boston Celtics,0.40338051675050096
+32,01/01/2021,Utah Jazz,LA Clippers,0.40660632723028345
+33,01/01/2021,Milwaukee Bucks,Chicago Bulls,0.69215261501953
+34,01/01/2021,Dallas Mavericks,Miami Heat,0.5655680075484543
+35,01/01/2021,Denver Nuggets,Phoenix Suns,0.4110879685991577
+36,01/01/2021,Minnesota Timberwolves,Washington Wizards,0.498801202669933
+37,01/01/2021,Charlotte Hornets,Memphis Grizzlies,0.753689902751342
+38,01/02/2021,Philadelphia 76ers,Charlotte Hornets,0.6825584368178316
+39,01/02/2021,Orlando Magic,Oklahoma City Thunder,0.7515659729910892
+40,01/02/2021,Houston Rockets,Sacramento Kings,0.5672669350123262
+41,01/02/2021,Indiana Pacers,New York Knicks,0.7550844782124764
+42,01/02/2021,Atlanta Hawks,Cleveland Cavaliers,0.703223633779144
+43,01/02/2021,New Orleans Pelicans,Toronto Raptors,0.5696355365033322
+44,01/03/2021,Golden State Warriors,Portland Trail Blazers,0.36627641500721275
+45,01/03/2021,San Antonio Spurs,Utah Jazz,0.5104729123117513
+46,01/03/2021,Chicago Bulls,Dallas Mavericks,0.4674325385222444
+47,01/03/2021,Phoenix Suns,LA Clippers,0.7102705795270589
+48,01/03/2021,Brooklyn Nets,Washington Wizards,0.6428975206480947
+49,01/03/2021,Detroit Pistons,Boston Celtics,0.47899059112420217
+50,01/03/2021,Minnesota Timberwolves,Denver Nuggets,0.3737595500168709
+51,01/03/2021,Memphis Grizzlies,Los Angeles Lakers,0.31508533113144516
+52,01/04/2021,Philadelphia 76ers,Charlotte Hornets,0.7806918058528634
+53,01/04/2021,Golden State Warriors,Sacramento Kings,0.5910995854442009
+54,01/04/2021,Orlando Magic,Cleveland Cavaliers,0.5336662599011104
+55,01/04/2021,Houston Rockets,Dallas Mavericks,0.6189900482983587
+56,01/04/2021,Miami Heat,Oklahoma City Thunder,0.6359088648029138
+57,01/04/2021,Milwaukee Bucks,Detroit Pistons,0.8539828990544664
+58,01/04/2021,Atlanta Hawks,New York Knicks,0.6569403087468487
+59,01/04/2021,Toronto Raptors,Boston Celtics,0.5039187824975632
+60,01/04/2021,New Orleans Pelicans,Indiana Pacers,0.4501161462167852
+61,01/05/2021,Brooklyn Nets,Utah Jazz,0.5396469806545356
+62,01/05/2021,LA Clippers,San Antonio Spurs,0.7850462950436746
+63,01/05/2021,Portland Trail Blazers,Chicago Bulls,0.6183965138420796
+64,01/05/2021,Denver Nuggets,Minnesota Timberwolves,0.8096680193856062
+65,01/05/2021,Memphis Grizzlies,Los Angeles Lakers,0.26483556510892764
+66,01/06/2021,Philadelphia 76ers,Washington Wizards,0.7761798289378661
+67,01/06/2021,Golden State Warriors,LA Clippers,0.571662546415181
+68,01/06/2021,New York Knicks,Utah Jazz,0.660593923036248
+69,01/06/2021,Phoenix Suns,Toronto Raptors,0.7872040257879942
+70,01/06/2021,Orlando Magic,Cleveland Cavaliers,0.6459501250141501
+71,01/06/2021,Miami Heat,Boston Celtics,0.5931951396729838
+72,01/06/2021,Milwaukee Bucks,Detroit Pistons,0.8650384887092538
+73,01/06/2021,Indiana Pacers,Houston Rockets,0.7271014530165153
+74,01/06/2021,Atlanta Hawks,Charlotte Hornets,0.7075166851312091
+75,01/06/2021,Sacramento Kings,Chicago Bulls,0.4611439918825678
+76,01/06/2021,New Orleans Pelicans,Oklahoma City Thunder,0.6905018081763338
+77,01/07/2021,Los Angeles Lakers,San Antonio Spurs,0.8482926997174555
+78,01/07/2021,Brooklyn Nets,Philadelphia 76ers,0.4574830857625438
+79,01/07/2021,Portland Trail Blazers,Minnesota Timberwolves,0.7871932052452978
+80,01/07/2021,Denver Nuggets,Dallas Mavericks,0.59238399240642
+81,01/07/2021,Memphis Grizzlies,Cleveland Cavaliers,0.5462768243757344
+82,01/08/2021,Golden State Warriors,LA Clippers,0.5186971094522307
+83,01/08/2021,Los Angeles Lakers,Chicago Bulls,0.7543977935804749
+84,01/08/2021,New York Knicks,Oklahoma City Thunder,0.7431153867898523
+85,01/08/2021,Boston Celtics,Washington Wizards,0.676052898666891
+86,01/08/2021,Houston Rockets,Orlando Magic,0.47223405725523193
+87,01/08/2021,Detroit Pistons,Phoenix Suns,0.27059274650680293
+88,01/08/2021,Milwaukee Bucks,Utah Jazz,0.8463396211851163
+89,01/08/2021,Sacramento Kings,Toronto Raptors,0.6081753914666888
+90,01/08/2021,Memphis Grizzlies,Brooklyn Nets,0.3647141942966163
+91,01/08/2021,New Orleans Pelicans,Charlotte Hornets,0.5943734140235083
+92,01/09/2021,Philadelphia 76ers,Denver Nuggets,0.7248787149548873
+93,01/09/2021,Milwaukee Bucks,Cleveland Cavaliers,0.7991981293738386
+94,01/09/2021,Indiana Pacers,Phoenix Suns,0.6070415383794494
+95,01/09/2021,Dallas Mavericks,Orlando Magic,0.6806522223119835
+96,01/09/2021,Sacramento Kings,Portland Trail Blazers,0.416992525034197
+97,01/09/2021,Minnesota Timberwolves,San Antonio Spurs,0.3688593593698803
+98,01/09/2021,Charlotte Hornets,Atlanta Hawks,0.5625690570958075
+99,01/09/2021,Washington Wizards,Miami Heat,0.4844850792270112
+100,01/10/2021,Golden State Warriors,Toronto Raptors,0.6619548934283225
+101,01/10/2021,New York Knicks,Denver Nuggets,0.5501958788900481
+102,01/10/2021,Brooklyn Nets,Oklahoma City Thunder,0.7361268450141185
+103,01/10/2021,LA Clippers,Chicago Bulls,0.6592062025823004
+104,01/10/2021,Houston Rockets,Los Angeles Lakers,0.4339200774352567
+105,01/10/2021,Detroit Pistons,Utah Jazz,0.47746746071295554
+106,01/10/2021,Minnesota Timberwolves,San Antonio Spurs,0.3636057091557098
+107,01/11/2021,Portland Trail Blazers,Toronto Raptors,0.7219359538235895
+108,01/11/2021,Sacramento Kings,Indiana Pacers,0.3138693581027763
+109,01/11/2021,Orlando Magic,Milwaukee Bucks,0.3065400626354014
+110,01/11/2021,Cleveland Cavaliers,Memphis Grizzlies,0.611991181399179
+111,01/11/2021,Atlanta Hawks,Philadelphia 76ers,0.42417874499944574
+112,01/11/2021,Charlotte Hornets,New York Knicks,0.6263521054200888
+113,01/11/2021,Washington Wizards,Phoenix Suns,0.34967095664810066
+114,01/12/2021,Philadelphia 76ers,Miami Heat,0.601581298824242
+115,01/12/2021,Golden State Warriors,Indiana Pacers,0.5546856661711429
+116,01/12/2021,Brooklyn Nets,Denver Nuggets,0.5363672670535448
+117,01/12/2021,Cleveland Cavaliers,Utah Jazz,0.5157445392738303
+118,01/12/2021,Houston Rockets,Los Angeles Lakers,0.3593663932989174
+119,01/12/2021,Oklahoma City Thunder,San Antonio Spurs,0.6408634404797802
+120,01/13/2021,New York Knicks,Brooklyn Nets,0.4339209052810724
+121,01/13/2021,LA Clippers,New Orleans Pelicans,0.6962749415702989
+122,01/13/2021,Detroit Pistons,Milwaukee Bucks,0.21212213625134152
+123,01/13/2021,Sacramento Kings,Portland Trail Blazers,0.35607386277108677
+124,01/13/2021,Minnesota Timberwolves,Memphis Grizzlies,0.3927586364732068
+125,01/13/2021,Charlotte Hornets,Dallas Mavericks,0.5145502972290442
+126,01/13/2021,Oklahoma City Thunder,Los Angeles Lakers,0.3017327640785089
+127,01/14/2021,Philadelphia 76ers,Miami Heat,0.6324424546258935
+128,01/14/2021,San Antonio Spurs,Houston Rockets,0.5713770657176693
+129,01/14/2021,Portland Trail Blazers,Indiana Pacers,0.6019953329284845
+130,01/14/2021,Denver Nuggets,Golden State Warriors,0.6371570443375127
+131,01/14/2021,Toronto Raptors,Charlotte Hornets,0.5074723992400264
+132,01/15/2021,Los Angeles Lakers,New Orleans Pelicans,0.847006143944863
+133,01/15/2021,Boston Celtics,Orlando Magic,0.7448590330404348
+134,01/15/2021,Cleveland Cavaliers,New York Knicks,0.5535542509385992
+135,01/15/2021,Utah Jazz,Atlanta Hawks,0.6366047307925737
+136,01/15/2021,Milwaukee Bucks,Dallas Mavericks,0.6882110304408898
+137,01/15/2021,Sacramento Kings,LA Clippers,0.3856292167489438
+138,01/15/2021,Oklahoma City Thunder,Chicago Bulls,0.52115350377047
+139,01/16/2021,San Antonio Spurs,Houston Rockets,0.5352740794297509
+140,01/16/2021,Brooklyn Nets,Orlando Magic,0.7724178794219824
+141,01/16/2021,Miami Heat,Detroit Pistons,0.7282670544927812
+142,01/16/2021,Portland Trail Blazers,Atlanta Hawks,0.6896048882604445
+143,01/16/2021,Toronto Raptors,Charlotte Hornets,0.5474445154042101
+144,01/16/2021,Memphis Grizzlies,Philadelphia 76ers,0.4548598957494327
+145,01/17/2021,Boston Celtics,New York Knicks,0.7729575088862848
+146,01/17/2021,LA Clippers,Indiana Pacers,0.5874488847892003
+147,01/17/2021,Dallas Mavericks,Chicago Bulls,0.7014699846335941
+148,01/17/2021,Sacramento Kings,New Orleans Pelicans,0.5320396239015536
+149,01/17/2021,Denver Nuggets,Utah Jazz,0.590383468797233
+150,01/18/2021,Atlanta Hawks,Minnesota Timberwolves,0.737355171997429
+151,01/18/2021,Miami Heat,Detroit Pistons,0.6662434111777619
+152,01/18/2021,Portland Trail Blazers,San Antonio Spurs,0.693177254192815
+153,01/18/2021,Memphis Grizzlies,Phoenix Suns,0.4836845871783422
+154,01/18/2021,Brooklyn Nets,Milwaukee Bucks,0.45285307951401177
+155,01/18/2021,Toronto Raptors,Dallas Mavericks,0.5131492830957106
+156,01/18/2021,Chicago Bulls,Houston Rockets,0.6209123125427042
+157,01/18/2021,New York Knicks,Orlando Magic,0.6771232936125925
+158,01/18/2021,Los Angeles Lakers,Golden State Warriors,0.8015551292933739
+159,01/19/2021,Utah Jazz,New Orleans Pelicans,0.7507978520116321
+160,01/19/2021,Denver Nuggets,Oklahoma City Thunder,0.7116868401917975
+161,01/20/2021,Philadelphia 76ers,Boston Celtics,0.6106937991987146
+162,01/20/2021,Golden State Warriors,San Antonio Spurs,0.6133751094900018
+163,01/20/2021,LA Clippers,Sacramento Kings,0.8489415147814695
+164,01/20/2021,Cleveland Cavaliers,Brooklyn Nets,0.37393136330186294
+165,01/20/2021,Houston Rockets,Phoenix Suns,0.4679801929217829
+166,01/20/2021,Indiana Pacers,Dallas Mavericks,0.6408666085836585
+167,01/20/2021,Atlanta Hawks,Detroit Pistons,0.6719228036980863
+168,01/20/2021,Minnesota Timberwolves,Orlando Magic,0.49889685802760253
+169,01/20/2021,Toronto Raptors,Miami Heat,0.607010843344117
+170,01/21/2021,Golden State Warriors,New York Knicks,0.6640118418717634
+171,01/21/2021,Utah Jazz,New Orleans Pelicans,0.7842285963959289
+172,01/21/2021,Milwaukee Bucks,Los Angeles Lakers,0.5500772455954117
+173,01/22/2021,Philadelphia 76ers,Boston Celtics,0.6472097336166482
+174,01/22/2021,San Antonio Spurs,Dallas Mavericks,0.5013467864000213
+175,01/22/2021,Phoenix Suns,Denver Nuggets,0.5820181354768919
+176,01/22/2021,LA Clippers,Oklahoma City Thunder,0.8240420385911585
+177,01/22/2021,Cleveland Cavaliers,Brooklyn Nets,0.4289198654569021
+178,01/22/2021,Detroit Pistons,Houston Rockets,0.5092183864344433
+179,01/22/2021,Indiana Pacers,Orlando Magic,0.7543503864474768
+180,01/22/2021,Sacramento Kings,New York Knicks,0.4060544818710534
+181,01/22/2021,Minnesota Timberwolves,Atlanta Hawks,0.3632339394396578
+182,01/22/2021,Charlotte Hornets,Chicago Bulls,0.5655352049241197
+183,01/22/2021,Toronto Raptors,Miami Heat,0.5618304089634966
+184,01/23/2021,Chicago Bulls,Los Angeles Lakers,0.36987360532518615
+185,01/23/2021,Phoenix Suns,Denver Nuggets,0.5583796477693473
+186,01/23/2021,Brooklyn Nets,Miami Heat,0.651597397179219
+187,01/23/2021,Detroit Pistons,Philadelphia 76ers,0.3257589226881404
+188,01/23/2021,Utah Jazz,Golden State Warriors,0.6974181182693201
+189,01/23/2021,Dallas Mavericks,Houston Rockets,0.6759332326348123
+190,01/23/2021,Minnesota Timberwolves,New Orleans Pelicans,0.4496135734806056
+191,01/24/2021,San Antonio Spurs,Washington Wizards,0.5672624791876509
+192,01/24/2021,Boston Celtics,Cleveland Cavaliers,0.6395525762591355
+193,01/24/2021,LA Clippers,Oklahoma City Thunder,0.8420076709360143
+194,01/24/2021,Orlando Magic,Charlotte Hornets,0.4608730573218298
+195,01/24/2021,Portland Trail Blazers,New York Knicks,0.6454137687430131
+196,01/24/2021,Milwaukee Bucks,Atlanta Hawks,0.741197558701363
+197,01/24/2021,Indiana Pacers,Toronto Raptors,0.6032182384900328
+198,01/25/2021,Chicago Bulls,Boston Celtics,0.5280489640085476
+199,01/25/2021,Dallas Mavericks,Denver Nuggets,0.4973832389569108
+200,01/25/2021,Golden State Warriors,Minnesota Timberwolves,0.7688877332490294
+201,01/25/2021,Portland Trail Blazers,Oklahoma City Thunder,0.7364256453964755
+202,01/25/2021,Brooklyn Nets,Miami Heat,0.6744791922009788
+203,01/25/2021,Orlando Magic,Charlotte Hornets,0.44633203326047755
+204,01/25/2021,Cleveland Cavaliers,Los Angeles Lakers,0.26219642704318796
+205,01/25/2021,Detroit Pistons,Philadelphia 76ers,0.31679158716443184
+206,01/25/2021,Indiana Pacers,Toronto Raptors,0.5768976417728304
+207,01/26/2021,Houston Rockets,Washington Wizards,0.650436893815178
+208,01/26/2021,Utah Jazz,New York Knicks,0.7647087243389089
+209,01/26/2021,Atlanta Hawks,LA Clippers,0.3598695997902292
+210,01/27/2021,Philadelphia 76ers,Los Angeles Lakers,0.42659319800536066
+211,01/27/2021,Golden State Warriors,Minnesota Timberwolves,0.8069417706493065
+212,01/27/2021,San Antonio Spurs,Boston Celtics,0.45382111401564884
+213,01/27/2021,Phoenix Suns,Oklahoma City Thunder,0.7255400339575673
+214,01/27/2021,Orlando Magic,Sacramento Kings,0.6224470204423783
+215,01/27/2021,Cleveland Cavaliers,Detroit Pistons,0.5959099904350652
+216,01/27/2021,Miami Heat,Denver Nuggets,0.43222101696107884
+217,01/27/2021,Utah Jazz,Dallas Mavericks,0.736886409499047
+218,01/27/2021,Atlanta Hawks,Brooklyn Nets,0.49825835203397173
+219,01/27/2021,Charlotte Hornets,Indiana Pacers,0.4868794599003175
+220,01/27/2021,Toronto Raptors,Milwaukee Bucks,0.4012985213235445
+221,01/27/2021,New Orleans Pelicans,Washington Wizards,0.55854987362387
+222,01/28/2021,Phoenix Suns,Golden State Warriors,0.5645669422662325
+223,01/28/2021,Houston Rockets,Portland Trail Blazers,0.5786972704759291
+224,01/28/2021,Miami Heat,LA Clippers,0.3279430944189453
+225,01/28/2021,Detroit Pistons,Los Angeles Lakers,0.2436409713695871
+226,01/29/2021,San Antonio Spurs,Denver Nuggets,0.42443048270743944
+227,01/29/2021,New York Knicks,Cleveland Cavaliers,0.5864885641797866
+228,01/29/2021,Orlando Magic,LA Clippers,0.25614857202836
+229,01/29/2021,Utah Jazz,Dallas Mavericks,0.760442013086556
+230,01/29/2021,Minnesota Timberwolves,Philadelphia 76ers,0.2428569133495511
+231,01/29/2021,Charlotte Hornets,Indiana Pacers,0.4530345698824401
+232,01/29/2021,Washington Wizards,Atlanta Hawks,0.4513540075294858
+233,01/29/2021,Toronto Raptors,Sacramento Kings,0.7228375692457075
+234,01/29/2021,Oklahoma City Thunder,Brooklyn Nets,0.38298723372526633
+235,01/29/2021,New Orleans Pelicans,Milwaukee Bucks,0.2879472690152954
+236,01/30/2021,Golden State Warriors,Detroit Pistons,0.6882145190635436
+237,01/30/2021,San Antonio Spurs,Memphis Grizzlies,0.5781493589954002
+238,01/30/2021,Chicago Bulls,Portland Trail Blazers,0.5701539853983147
+239,01/30/2021,Boston Celtics,Los Angeles Lakers,0.4513053752816347
+240,01/30/2021,Miami Heat,Sacramento Kings,0.6238998569441945
+241,01/30/2021,Dallas Mavericks,Phoenix Suns,0.49313072445935197
+242,01/30/2021,Charlotte Hornets,Milwaukee Bucks,0.37425375140881817
+243,01/30/2021,New Orleans Pelicans,Houston Rockets,0.4794039543872575
+244,01/31/2021,New York Knicks,LA Clippers,0.3426444771405912
+245,01/31/2021,Denver Nuggets,Utah Jazz,0.5130131269714301
+246,01/31/2021,Indiana Pacers,Philadelphia 76ers,0.5225560694594705
+247,01/31/2021,Minnesota Timberwolves,Cleveland Cavaliers,0.41904680617708845
+248,01/31/2021,Toronto Raptors,Orlando Magic,0.7389912954871433
+249,01/31/2021,Washington Wizards,Brooklyn Nets,0.3136407428782142
+250,02/01/2021,San Antonio Spurs,Memphis Grizzlies,0.5234563843419007
+251,02/01/2021,Chicago Bulls,New York Knicks,0.6261852326827921
+252,02/01/2021,Cleveland Cavaliers,Minnesota Timberwolves,0.7094208240600695
+253,02/01/2021,Miami Heat,Charlotte Hornets,0.5354755744868417
+254,02/01/2021,Milwaukee Bucks,Portland Trail Blazers,0.7083615771492124
+255,02/01/2021,Atlanta Hawks,Los Angeles Lakers,0.3950416418455186
+256,02/01/2021,Dallas Mavericks,Phoenix Suns,0.47067496265862
+257,02/01/2021,Oklahoma City Thunder,Houston Rockets,0.4228921456530502
+258,02/01/2021,New Orleans Pelicans,Sacramento Kings,0.6078556540734111
+259,02/02/2021,Golden State Warriors,Boston Celtics,0.5679614312063889
+260,02/02/2021,Brooklyn Nets,LA Clippers,0.48256659690108933
+261,02/02/2021,Orlando Magic,Toronto Raptors,0.3903872432016495
+262,02/02/2021,Utah Jazz,Detroit Pistons,0.8186738865987153
+263,02/02/2021,Indiana Pacers,Memphis Grizzlies,0.5503687042750796
+264,02/02/2021,Washington Wizards,Portland Trail Blazers,0.46854029599046965
+265,02/03/2021,San Antonio Spurs,Minnesota Timberwolves,0.7475731233760035
+266,02/03/2021,Chicago Bulls,New York Knicks,0.6502435213077706
+267,02/03/2021,Cleveland Cavaliers,LA Clippers,0.3133443621776624
+268,02/03/2021,Miami Heat,Washington Wizards,0.6480140935096734
+269,02/03/2021,Milwaukee Bucks,Indiana Pacers,0.6814709503961887
+270,02/03/2021,Atlanta Hawks,Dallas Mavericks,0.6401973254593665
+271,02/03/2021,Sacramento Kings,Boston Celtics,0.4161942564987583
+272,02/03/2021,Charlotte Hornets,Philadelphia 76ers,0.44891624795885327
+273,02/03/2021,Oklahoma City Thunder,Houston Rockets,0.3765007834015072
+274,02/03/2021,New Orleans Pelicans,Phoenix Suns,0.4078963242325571
+275,02/04/2021,Philadelphia 76ers,Portland Trail Blazers,0.720870951257415
+276,02/04/2021,Los Angeles Lakers,Denver Nuggets,0.6641869506634012
+277,02/04/2021,Dallas Mavericks,Golden State Warriors,0.5085476064078225
+278,02/04/2021,Atlanta Hawks,Utah Jazz,0.40122601024620796
+279,02/04/2021,Memphis Grizzlies,Houston Rockets,0.581872458078776
+280,02/05/2021,Phoenix Suns,Detroit Pistons,0.7370838226514663
+281,02/05/2021,Brooklyn Nets,Toronto Raptors,0.6639014040619055
+282,02/05/2021,LA Clippers,Boston Celtics,0.7233687706262548
+283,02/05/2021,Orlando Magic,Chicago Bulls,0.4008891687739509
+284,02/05/2021,Cleveland Cavaliers,Milwaukee Bucks,0.2960390632376196
+285,02/05/2021,Miami Heat,Washington Wizards,0.6309846820813999
+286,02/05/2021,Indiana Pacers,New Orleans Pelicans,0.7068999026766427
+287,02/05/2021,Charlotte Hornets,Utah Jazz,0.38562254333363777
+288,02/05/2021,Oklahoma City Thunder,Minnesota Timberwolves,0.7018432997591594
+289,02/06/2021,Philadelphia 76ers,Brooklyn Nets,0.601783066797202
+290,02/06/2021,Los Angeles Lakers,Detroit Pistons,0.86693461438931
+291,02/06/2021,New York Knicks,Portland Trail Blazers,0.5204873501392433
+292,02/06/2021,Orlando Magic,Chicago Bulls,0.4286703974185918
+293,02/06/2021,Cleveland Cavaliers,Milwaukee Bucks,0.27732538354006986
+294,02/06/2021,Houston Rockets,San Antonio Spurs,0.6894938254126658
+295,02/06/2021,Dallas Mavericks,Golden State Warriors,0.45017086504178605
+296,02/06/2021,Atlanta Hawks,Toronto Raptors,0.5096278772936269
+297,02/06/2021,Sacramento Kings,Denver Nuggets,0.3978713275049513
+298,02/06/2021,Oklahoma City Thunder,Minnesota Timberwolves,0.6837876323767623
+299,02/06/2021,New Orleans Pelicans,Memphis Grizzlies,0.48261498954921717
+300,02/07/2021,New York Knicks,Miami Heat,0.5917922713976913
+301,02/07/2021,Phoenix Suns,Boston Celtics,0.5821859152301692
+302,02/07/2021,LA Clippers,Sacramento Kings,0.8078970259738869
+303,02/07/2021,Indiana Pacers,Utah Jazz,0.41302183950181026
+304,02/07/2021,Charlotte Hornets,Washington Wizards,0.6999127839948011
+305,02/08/2021,San Antonio Spurs,Golden State Warriors,0.49323874499032394
+306,02/08/2021,Chicago Bulls,Washington Wizards,0.7462299742953526
+307,02/08/2021,Los Angeles Lakers,Oklahoma City Thunder,0.8461479295377097
+308,02/08/2021,Phoenix Suns,Cleveland Cavaliers,0.7683366029862633
+309,02/08/2021,Dallas Mavericks,Minnesota Timberwolves,0.7267935708365028
+310,02/08/2021,Denver Nuggets,Milwaukee Bucks,0.44737002459041547
+311,02/08/2021,Charlotte Hornets,Houston Rockets,0.5163151222787099
+312,02/08/2021,Memphis Grizzlies,Toronto Raptors,0.5698175497022144
+313,02/09/2021,San Antonio Spurs,Golden State Warriors,0.5131572067760246
+314,02/09/2021,Miami Heat,New York Knicks,0.5956450111648374
+315,02/09/2021,Detroit Pistons,Brooklyn Nets,0.3456794862701059
+316,02/09/2021,Portland Trail Blazers,Orlando Magic,0.7547891757852196
+317,02/09/2021,Utah Jazz,Boston Celtics,0.7353600094797426
+318,02/09/2021,Sacramento Kings,Philadelphia 76ers,0.3763357471486748
+319,02/09/2021,New Orleans Pelicans,Houston Rockets,0.4931232768995029
+320,02/10/2021,Los Angeles Lakers,Oklahoma City Thunder,0.8543728130865017
+321,02/10/2021,Chicago Bulls,New Orleans Pelicans,0.6094414572435102
+322,02/10/2021,Phoenix Suns,Milwaukee Bucks,0.4358139918801853
+323,02/10/2021,Brooklyn Nets,Indiana Pacers,0.6348763172105922
+324,02/10/2021,Dallas Mavericks,Atlanta Hawks,0.547118512177399
+325,02/10/2021,Denver Nuggets,Cleveland Cavaliers,0.7648194091439904
+326,02/10/2021,Minnesota Timberwolves,LA Clippers,0.22148480162831524
+327,02/10/2021,Washington Wizards,Toronto Raptors,0.37986743387788396
+328,02/10/2021,Memphis Grizzlies,Charlotte Hornets,0.5609063209668035
+329,02/11/2021,Golden State Warriors,Orlando Magic,0.8076636885400336
+330,02/11/2021,Boston Celtics,Toronto Raptors,0.5446625468307971
+331,02/11/2021,Houston Rockets,Miami Heat,0.6136627839538061
+332,02/11/2021,Detroit Pistons,Indiana Pacers,0.4507649734291337
+333,02/11/2021,Portland Trail Blazers,Philadelphia 76ers,0.44048284749690386
+334,02/12/2021,Los Angeles Lakers,Memphis Grizzlies,0.7779713080399799
+335,02/12/2021,Chicago Bulls,LA Clippers,0.4257035731252371
+336,02/12/2021,Boston Celtics,Detroit Pistons,0.7452829382551551
+337,02/12/2021,Portland Trail Blazers,Cleveland Cavaliers,0.7422069744759507
+338,02/12/2021,Utah Jazz,Milwaukee Bucks,0.592560355756845
+339,02/12/2021,Dallas Mavericks,New Orleans Pelicans,0.5875720314186906
+340,02/12/2021,Atlanta Hawks,San Antonio Spurs,0.6050787465113613
+341,02/12/2021,Sacramento Kings,Orlando Magic,0.6993459224614507
+342,02/12/2021,Denver Nuggets,Oklahoma City Thunder,0.7605220347533245
+343,02/12/2021,Charlotte Hornets,Minnesota Timberwolves,0.7720033577310169
+344,02/12/2021,Washington Wizards,New York Knicks,0.45884423229471333
+345,02/13/2021,Golden State Warriors,Brooklyn Nets,0.5761452231489309
+346,02/13/2021,New York Knicks,Houston Rockets,0.5508966253671747
+347,02/13/2021,Phoenix Suns,Philadelphia 76ers,0.5379991323277312
+348,02/13/2021,Utah Jazz,Miami Heat,0.7809205676912807
+349,02/13/2021,Atlanta Hawks,Indiana Pacers,0.5307922196455317
+350,02/14/2021,Phoenix Suns,Orlando Magic,0.8112087518919501
+351,02/14/2021,LA Clippers,Cleveland Cavaliers,0.8630737973476765
+352,02/14/2021,Detroit Pistons,New Orleans Pelicans,0.5148143158728602
+353,02/14/2021,Dallas Mavericks,Portland Trail Blazers,0.53504490006797
+354,02/14/2021,Sacramento Kings,Memphis Grizzlies,0.4969170346411848
+355,02/14/2021,Denver Nuggets,Los Angeles Lakers,0.4420943880202455
+356,02/14/2021,Charlotte Hornets,San Antonio Spurs,0.6187976144834662
+357,02/14/2021,Washington Wizards,Boston Celtics,0.3779711779646368
+358,02/14/2021,Toronto Raptors,Minnesota Timberwolves,0.8041265159118619
+359,02/14/2021,Oklahoma City Thunder,Milwaukee Bucks,0.29755562614968595
+360,02/15/2021,Golden State Warriors,Cleveland Cavaliers,0.7947715011515337
+361,02/15/2021,New York Knicks,Atlanta Hawks,0.6150638175197086
+362,02/15/2021,LA Clippers,Miami Heat,0.7765736671813772
+363,02/15/2021,Utah Jazz,Philadelphia 76ers,0.693921379708277
+364,02/15/2021,Indiana Pacers,Chicago Bulls,0.6130764760399605
+365,02/15/2021,Sacramento Kings,Brooklyn Nets,0.39321186042623474
+366,02/15/2021,Washington Wizards,Houston Rockets,0.44483933356391664
+367,02/16/2021,Phoenix Suns,Brooklyn Nets,0.5837417792460724
+368,02/16/2021,Boston Celtics,Denver Nuggets,0.4859669176390208
+369,02/16/2021,Milwaukee Bucks,Toronto Raptors,0.7045191081973844
+370,02/16/2021,Minnesota Timberwolves,Los Angeles Lakers,0.20794463938255817
+371,02/16/2021,Memphis Grizzlies,New Orleans Pelicans,0.6679834028827409
+372,02/16/2021,Oklahoma City Thunder,Portland Trail Blazers,0.44632008870350937
+373,02/17/2021,Orlando Magic,New York Knicks,0.3891109291714313
+374,02/17/2021,Washington Wizards,Denver Nuggets,0.3546491847071451
+375,02/17/2021,Boston Celtics,Atlanta Hawks,0.6636865225617338
+376,02/17/2021,Philadelphia 76ers,Houston Rockets,0.7031585082503359
+377,02/17/2021,Minnesota Timberwolves,Indiana Pacers,0.3596264522767255
+378,02/17/2021,New Orleans Pelicans,Portland Trail Blazers,0.5005118228981472
+379,02/17/2021,Golden State Warriors,Miami Heat,0.6914761678148929
+380,02/17/2021,LA Clippers,Utah Jazz,0.5499268598741314
+381,02/17/2021,Memphis Grizzlies,Oklahoma City Thunder,0.6796876211447707
+382,02/17/2021,Chicago Bulls,Detroit Pistons,0.692043454718015
+383,02/18/2021,Los Angeles Lakers,Brooklyn Nets,0.686017326006002
+384,02/18/2021,Milwaukee Bucks,Toronto Raptors,0.6803276193543393
+385,02/18/2021,Sacramento Kings,Miami Heat,0.5200109076222146
+386,02/19/2021,Philadelphia 76ers,Chicago Bulls,0.6679305925269651
+387,02/19/2021,Boston Celtics,Atlanta Hawks,0.6412033444678139
+388,02/19/2021,LA Clippers,Utah Jazz,0.5203658726912501
+389,02/19/2021,Orlando Magic,Golden State Warriors,0.32189220761295656
+390,02/19/2021,Cleveland Cavaliers,Denver Nuggets,0.2936363831957496
+391,02/19/2021,Milwaukee Bucks,Oklahoma City Thunder,0.7962584717278856
+392,02/19/2021,Minnesota Timberwolves,Toronto Raptors,0.3179995577794785
+393,02/19/2021,Memphis Grizzlies,Detroit Pistons,0.6937616696665961
+394,02/19/2021,New Orleans Pelicans,Phoenix Suns,0.4424560074080087
+395,02/20/2021,Los Angeles Lakers,Miami Heat,0.7836990343834072
+396,02/20/2021,Chicago Bulls,Sacramento Kings,0.6913146538112085
+397,02/20/2021,Portland Trail Blazers,Washington Wizards,0.7403394202693921
+398,02/20/2021,Charlotte Hornets,Golden State Warriors,0.5000128515957727
+399,02/20/2021,Memphis Grizzlies,Phoenix Suns,0.49337397552183765
+400,02/21/2021,New York Knicks,Minnesota Timberwolves,0.7504971590038705
+401,02/21/2021,LA Clippers,Brooklyn Nets,0.6440586538643447
+402,02/21/2021,Orlando Magic,Detroit Pistons,0.5398188313269532
+403,02/21/2021,Cleveland Cavaliers,Oklahoma City Thunder,0.48969438565396073
+404,02/21/2021,Milwaukee Bucks,Sacramento Kings,0.8012435326447135
+405,02/21/2021,Atlanta Hawks,Denver Nuggets,0.42893197156446855
+406,02/21/2021,Toronto Raptors,Philadelphia 76ers,0.5408957208927058
+407,02/21/2021,New Orleans Pelicans,Boston Celtics,0.494938955428709
+408,02/22/2021,Los Angeles Lakers,Washington Wizards,0.8296303576715213
+409,02/22/2021,Phoenix Suns,Portland Trail Blazers,0.6771196263058686
+410,02/22/2021,Houston Rockets,Chicago Bulls,0.5291362189036464
+411,02/22/2021,Utah Jazz,Charlotte Hornets,0.7783726224964599
+412,02/22/2021,Dallas Mavericks,Memphis Grizzlies,0.5680960260049162
+413,02/22/2021,Oklahoma City Thunder,Miami Heat,0.501173424520098
+414,02/23/2021,New York Knicks,Golden State Warriors,0.4974909313793045
+415,02/23/2021,Brooklyn Nets,Sacramento Kings,0.7977130720260871
+416,02/23/2021,LA Clippers,Washington Wizards,0.8101931933265855
+417,02/23/2021,Orlando Magic,Detroit Pistons,0.5639374158819519
+418,02/23/2021,Cleveland Cavaliers,Atlanta Hawks,0.398104701151088
+419,02/23/2021,Milwaukee Bucks,Minnesota Timberwolves,0.8573415096226377
+420,02/23/2021,Dallas Mavericks,Boston Celtics,0.5506787659133888
+421,02/23/2021,Denver Nuggets,Portland Trail Blazers,0.6596403598302899
+422,02/23/2021,Toronto Raptors,Philadelphia 76ers,0.5617915386700472
+423,02/24/2021,Chicago Bulls,Minnesota Timberwolves,0.796431805914047
+424,02/24/2021,Phoenix Suns,Charlotte Hornets,0.729022305019267
+425,02/24/2021,Cleveland Cavaliers,Houston Rockets,0.42954350427019933
+426,02/24/2021,Miami Heat,Toronto Raptors,0.5104314176263085
+427,02/24/2021,Utah Jazz,Los Angeles Lakers,0.6438185933959111
+428,02/24/2021,Indiana Pacers,Golden State Warriors,0.5356792489807284
+429,02/24/2021,Atlanta Hawks,Boston Celtics,0.5276195506191443
+430,02/24/2021,Oklahoma City Thunder,San Antonio Spurs,0.48413559797659916
+431,02/24/2021,New Orleans Pelicans,Detroit Pistons,0.6449991103218355
+432,02/25/2021,Philadelphia 76ers,Dallas Mavericks,0.6894926548578676
+433,02/25/2021,New York Knicks,Sacramento Kings,0.685372035774565
+434,02/25/2021,Brooklyn Nets,Orlando Magic,0.8175610896577351
+435,02/25/2021,Milwaukee Bucks,New Orleans Pelicans,0.7611809681848314
+436,02/25/2021,Denver Nuggets,Washington Wizards,0.7630008417707925
+437,02/25/2021,Memphis Grizzlies,LA Clippers,0.37870999894114404
+438,02/26/2021,Golden State Warriors,Charlotte Hornets,0.666125144353492
+439,02/26/2021,Los Angeles Lakers,Portland Trail Blazers,0.7256282875435095
+440,02/26/2021,Chicago Bulls,Phoenix Suns,0.48651653372243886
+441,02/26/2021,Boston Celtics,Indiana Pacers,0.5536591718173562
+442,02/26/2021,Miami Heat,Utah Jazz,0.33061219496848665
+443,02/26/2021,Detroit Pistons,Sacramento Kings,0.6048397819522414
+444,02/26/2021,Toronto Raptors,Houston Rockets,0.6996457085074583
+445,02/26/2021,Oklahoma City Thunder,Atlanta Hawks,0.511655755736866
+446,02/26/2021,Memphis Grizzlies,LA Clippers,0.42376878197504897
+447,02/27/2021,Philadelphia 76ers,Cleveland Cavaliers,0.830233937702426
+448,02/27/2021,San Antonio Spurs,New Orleans Pelicans,0.6120178624732369
+449,02/27/2021,New York Knicks,Indiana Pacers,0.561918200928599
+450,02/27/2021,Brooklyn Nets,Dallas Mavericks,0.7345599657984752
+451,02/27/2021,Orlando Magic,Utah Jazz,0.20578311737507723
+452,02/27/2021,Washington Wizards,Minnesota Timberwolves,0.6961489292392603
+453,02/27/2021,Oklahoma City Thunder,Denver Nuggets,0.40617894332164206
+454,02/28/2021,Los Angeles Lakers,Golden State Warriors,0.6450130121824448
+455,02/28/2021,Boston Celtics,Washington Wizards,0.6687921603558747
+456,02/28/2021,Houston Rockets,Memphis Grizzlies,0.5292382305523503
+457,02/28/2021,Miami Heat,Atlanta Hawks,0.6331493742435006
+458,02/28/2021,Detroit Pistons,New York Knicks,0.4575414278105308
+459,02/28/2021,Milwaukee Bucks,LA Clippers,0.576786538855975
+460,02/28/2021,Sacramento Kings,Charlotte Hornets,0.4568433954873912
+461,02/28/2021,Minnesota Timberwolves,Phoenix Suns,0.2330697149858251
+462,03/01/2021,Philadelphia 76ers,Indiana Pacers,0.6712086111754273
+463,03/01/2021,San Antonio Spurs,Brooklyn Nets,0.4395945714729756
+464,03/01/2021,Chicago Bulls,Denver Nuggets,0.5165072872015717
+465,03/01/2021,Orlando Magic,Dallas Mavericks,0.4035189037709922
+466,03/01/2021,Houston Rockets,Cleveland Cavaliers,0.6598448627364397
+467,03/01/2021,Portland Trail Blazers,Charlotte Hornets,0.5795975986472798
+468,03/01/2021,New Orleans Pelicans,Utah Jazz,0.30063438518535385
+469,03/02/2021,Los Angeles Lakers,Phoenix Suns,0.5995128532312961
+470,03/02/2021,San Antonio Spurs,New York Knicks,0.5430665087722985
+471,03/02/2021,Boston Celtics,LA Clippers,0.43466300365390387
+472,03/02/2021,Miami Heat,Atlanta Hawks,0.6497295756714428
+473,03/02/2021,Milwaukee Bucks,Denver Nuggets,0.6405463229874966
+474,03/02/2021,Washington Wizards,Memphis Grizzlies,0.48434816554299287
+475,03/03/2021,Philadelphia 76ers,Utah Jazz,0.4703255853046731
+476,03/03/2021,Cleveland Cavaliers,Indiana Pacers,0.4156506479703773
+477,03/03/2021,Toronto Raptors,Detroit Pistons,0.7560295724628077
+478,03/03/2021,Houston Rockets,Brooklyn Nets,0.34572993182087797
+479,03/03/2021,Minnesota Timberwolves,Charlotte Hornets,0.36005681790532734
+480,03/03/2021,New Orleans Pelicans,Chicago Bulls,0.5128144903103172
+481,03/03/2021,Orlando Magic,Atlanta Hawks,0.4336820280425545
+482,03/03/2021,Dallas Mavericks,Oklahoma City Thunder,0.6888207449736737
+483,03/03/2021,Portland Trail Blazers,Golden State Warriors,0.5079325668461157
+484,03/03/2021,Sacramento Kings,Los Angeles Lakers,0.2970301575725583
+485,03/04/2021,Boston Celtics,Toronto Raptors,0.548823031389069
+486,03/04/2021,Washington Wizards,LA Clippers,0.3470692801265385
+487,03/04/2021,New York Knicks,Detroit Pistons,0.6919477059250606
+488,03/04/2021,Indiana Pacers,Denver Nuggets,0.4670768583898671
+489,03/04/2021,Memphis Grizzlies,Milwaukee Bucks,0.4698725497521875
+490,03/04/2021,New Orleans Pelicans,Miami Heat,0.5268261173731592
+491,03/04/2021,San Antonio Spurs,Oklahoma City Thunder,0.6851750756239741
+492,03/04/2021,Phoenix Suns,Golden State Warriors,0.6728324471413483
+493,03/04/2021,Portland Trail Blazers,Sacramento Kings,0.7074420389324979
+494,03/10/2021,Memphis Grizzlies,Washington Wizards,0.6807432283141917
+495,03/10/2021,Dallas Mavericks,San Antonio Spurs,0.6078523623788091
+496,03/11/2021,Charlotte Hornets,Detroit Pistons,0.7024984876852858
+497,03/11/2021,Brooklyn Nets,Boston Celtics,0.6963737553771651
+498,03/11/2021,Chicago Bulls,Philadelphia 76ers,0.4937840833296372
+499,03/11/2021,Miami Heat,Orlando Magic,0.7626334285185621
+500,03/11/2021,New Orleans Pelicans,Minnesota Timberwolves,0.752744973655257
+501,03/11/2021,Toronto Raptors,Atlanta Hawks,0.6507699264837025
+502,03/11/2021,Oklahoma City Thunder,Dallas Mavericks,0.458973702585936
+503,03/11/2021,Portland Trail Blazers,Phoenix Suns,0.42389079404519736
+504,03/11/2021,Sacramento Kings,Houston Rockets,0.5717841709545893
+505,03/11/2021,LA Clippers,Golden State Warriors,0.6625010697316871
+506,03/11/2021,Milwaukee Bucks,New York Knicks,0.7070239590597602
+507,03/12/2021,Washington Wizards,Philadelphia 76ers,0.36017415515592394
+508,03/12/2021,Memphis Grizzlies,Denver Nuggets,0.4778203819422942
+509,03/12/2021,New Orleans Pelicans,Cleveland Cavaliers,0.665762909842302
+510,03/12/2021,San Antonio Spurs,Orlando Magic,0.7379747683686424
+511,03/12/2021,Chicago Bulls,Miami Heat,0.5809605651284634
+512,03/12/2021,Utah Jazz,Houston Rockets,0.8495661995867354
+513,03/12/2021,Los Angeles Lakers,Indiana Pacers,0.7233361856679715
+514,03/13/2021,Washington Wizards,Milwaukee Bucks,0.32859871498624205
+515,03/13/2021,Charlotte Hornets,Toronto Raptors,0.5647169055001732
+516,03/13/2021,Brooklyn Nets,Detroit Pistons,0.8030645043581528
+517,03/13/2021,Denver Nuggets,Dallas Mavericks,0.693544747572826
+518,03/13/2021,Oklahoma City Thunder,New York Knicks,0.4997633862722012
+519,03/13/2021,Atlanta Hawks,Sacramento Kings,0.6672012027759229
+520,03/13/2021,Phoenix Suns,Indiana Pacers,0.746275367493462
+521,03/13/2021,Minnesota Timberwolves,Portland Trail Blazers,0.36157380290668023
+522,03/14/2021,Oklahoma City Thunder,Memphis Grizzlies,0.45636987731416084
+523,03/14/2021,Golden State Warriors,Utah Jazz,0.4076160631810894
+524,03/14/2021,Philadelphia 76ers,San Antonio Spurs,0.7148367182816768
+525,03/14/2021,Orlando Magic,Miami Heat,0.35410010444802903
+526,03/14/2021,Houston Rockets,Boston Celtics,0.4372163558021119
+527,03/14/2021,Minnesota Timberwolves,Portland Trail Blazers,0.3576919394638054
+528,03/14/2021,Atlanta Hawks,Cleveland Cavaliers,0.730637218148648
+529,03/14/2021,Chicago Bulls,Toronto Raptors,0.5660271710812742
+530,03/14/2021,New Orleans Pelicans,LA Clippers,0.3763553866840805
+531,03/15/2021,Washington Wizards,Milwaukee Bucks,0.3225728516000708
+532,03/15/2021,Charlotte Hornets,Sacramento Kings,0.7220184229263898
+533,03/15/2021,Phoenix Suns,Memphis Grizzlies,0.7215501966610998
+534,03/15/2021,Brooklyn Nets,New York Knicks,0.7187493902234001
+535,03/15/2021,Denver Nuggets,Indiana Pacers,0.6877638057310295
+536,03/15/2021,Detroit Pistons,San Antonio Spurs,0.48577643591555747
+537,03/15/2021,Golden State Warriors,Los Angeles Lakers,0.4788585777754095
+538,03/15/2021,Dallas Mavericks,LA Clippers,0.4714395824218706
+539,03/16/2021,Portland Trail Blazers,New Orleans Pelicans,0.6293387118757722
+540,03/16/2021,Los Angeles Lakers,Minnesota Timberwolves,0.8668549937983075
+541,03/16/2021,Boston Celtics,Utah Jazz,0.4076920776483694
+542,03/16/2021,Chicago Bulls,Oklahoma City Thunder,0.6870263709840069
+543,03/16/2021,Houston Rockets,Atlanta Hawks,0.43865997503557597
+544,03/16/2021,Miami Heat,Cleveland Cavaliers,0.7762835264861704
+545,03/16/2021,Philadelphia 76ers,New York Knicks,0.7268953217954337
+546,03/17/2021,Washington Wizards,Sacramento Kings,0.6000282942663212
+547,03/17/2021,Indiana Pacers,Brooklyn Nets,0.4262210243600646
+548,03/17/2021,Detroit Pistons,Toronto Raptors,0.4470435818072242
+549,03/17/2021,Philadelphia 76ers,Milwaukee Bucks,0.5756505714552822
+550,03/17/2021,Chicago Bulls,San Antonio Spurs,0.626688548848741
+551,03/17/2021,Houston Rockets,Golden State Warriors,0.39782821785053596
+552,03/17/2021,Cleveland Cavaliers,Boston Celtics,0.3775336119553382
+553,03/17/2021,Denver Nuggets,Charlotte Hornets,0.6658454596894999
+554,03/17/2021,Memphis Grizzlies,Miami Heat,0.538445250464086
+555,03/17/2021,Dallas Mavericks,LA Clippers,0.4616146360800764
+556,03/18/2021,Washington Wizards,Utah Jazz,0.28164759104430964
+557,03/18/2021,New York Knicks,Orlando Magic,0.7514295879282511
+558,03/18/2021,Atlanta Hawks,Oklahoma City Thunder,0.685390079577994
+559,03/18/2021,Portland Trail Blazers,New Orleans Pelicans,0.6392106608612118
+560,03/18/2021,Phoenix Suns,Minnesota Timberwolves,0.8713395488178177
+561,03/18/2021,Los Angeles Lakers,Charlotte Hornets,0.7271059166283816
+562,03/19/2021,Boston Celtics,Sacramento Kings,0.701084891947386
+563,03/19/2021,Cleveland Cavaliers,San Antonio Spurs,0.4067752335248627
+564,03/19/2021,Orlando Magic,Brooklyn Nets,0.2455139593510516
+565,03/19/2021,Miami Heat,Indiana Pacers,0.6286226088194986
+566,03/19/2021,Memphis Grizzlies,Golden State Warriors,0.5422432435558375
+567,03/19/2021,Houston Rockets,Detroit Pistons,0.5404549275792315
+568,03/19/2021,Toronto Raptors,Utah Jazz,0.3946674042403362
+569,03/19/2021,Denver Nuggets,Chicago Bulls,0.6863113695180799
+570,03/19/2021,Portland Trail Blazers,Dallas Mavericks,0.5765658671758346
+571,03/19/2021,Phoenix Suns,Minnesota Timberwolves,0.8645882798404676
+572,03/20/2021,Los Angeles Lakers,Atlanta Hawks,0.7318630641282277
+573,03/20/2021,Memphis Grizzlies,Golden State Warriors,0.5274836252110827
+574,03/20/2021,Philadelphia 76ers,Sacramento Kings,0.7982674587442046
+575,03/20/2021,Milwaukee Bucks,San Antonio Spurs,0.7365841513349962
+576,03/20/2021,LA Clippers,Charlotte Hornets,0.6894768656463265
+577,03/21/2021,Miami Heat,Indiana Pacers,0.5961849024882018
+578,03/21/2021,Houston Rockets,Oklahoma City Thunder,0.5327860750032725
+579,03/21/2021,Denver Nuggets,New Orleans Pelicans,0.7502942538751811
+580,03/21/2021,Boston Celtics,Orlando Magic,0.7495363572429471
+581,03/21/2021,Brooklyn Nets,Washington Wizards,0.7940892066285473
+582,03/21/2021,Detroit Pistons,Chicago Bulls,0.4570575642881016
+583,03/21/2021,Cleveland Cavaliers,Toronto Raptors,0.39785801769665957
+584,03/21/2021,New York Knicks,Philadelphia 76ers,0.42070905338031306
+585,03/21/2021,Phoenix Suns,Los Angeles Lakers,0.5899059982004512
+586,03/21/2021,Portland Trail Blazers,Dallas Mavericks,0.5857599368346382
+587,03/22/2021,Cleveland Cavaliers,Sacramento Kings,0.5306270794979625
+588,03/22/2021,Minnesota Timberwolves,Oklahoma City Thunder,0.4887705262116015
+589,03/22/2021,San Antonio Spurs,Charlotte Hornets,0.5811983314001088
+590,03/22/2021,Chicago Bulls,Utah Jazz,0.42181640429802886
+591,03/22/2021,Memphis Grizzlies,Boston Celtics,0.5742194174254752
+592,03/22/2021,Houston Rockets,Toronto Raptors,0.42445754790244283
+593,03/22/2021,Milwaukee Bucks,Indiana Pacers,0.7287092328622948
+594,03/22/2021,LA Clippers,Atlanta Hawks,0.6897888883125124
+595,03/23/2021,Miami Heat,Phoenix Suns,0.4138028654816807
+596,03/23/2021,Orlando Magic,Denver Nuggets,0.2737681794305999
+597,03/23/2021,New York Knicks,Washington Wizards,0.6707223205690188
+598,03/23/2021,New Orleans Pelicans,Los Angeles Lakers,0.3854227090375864
+599,03/23/2021,Portland Trail Blazers,Brooklyn Nets,0.4333963548587194
+600,03/23/2021,Golden State Warriors,Philadelphia 76ers,0.4700900940086813
+601,03/24/2021,Indiana Pacers,Detroit Pistons,0.6818683093595251
+602,03/24/2021,Houston Rockets,Charlotte Hornets,0.43163141700242175
+603,03/24/2021,San Antonio Spurs,LA Clippers,0.43399168357794987
+604,03/24/2021,Utah Jazz,Brooklyn Nets,0.6350696680568754
+605,03/24/2021,Sacramento Kings,Atlanta Hawks,0.46680326440029857
+606,03/24/2021,Toronto Raptors,Denver Nuggets,0.4348898431358992
+607,03/24/2021,Oklahoma City Thunder,Memphis Grizzlies,0.4807312984996585
+608,03/24/2021,Minnesota Timberwolves,Dallas Mavericks,0.3384292384527862
+609,03/24/2021,Milwaukee Bucks,Boston Celtics,0.7417275448136678
+610,03/24/2021,Chicago Bulls,Cleveland Cavaliers,0.752753662205824
+611,03/24/2021,Orlando Magic,Phoenix Suns,0.2289566268789632
+612,03/25/2021,Sacramento Kings,Golden State Warriors,0.44767873880258824
+613,03/25/2021,Los Angeles Lakers,Philadelphia 76ers,0.5687272962371103
+614,03/25/2021,Miami Heat,Portland Trail Blazers,0.593450463312343
+615,03/25/2021,New York Knicks,Washington Wizards,0.6857479718897043
+616,03/25/2021,San Antonio Spurs,LA Clippers,0.4032169153509146
+617,03/26/2021,Toronto Raptors,Phoenix Suns,0.40266736466422726
+618,03/26/2021,Detroit Pistons,Brooklyn Nets,0.34217018763606083
+619,03/26/2021,New Orleans Pelicans,Denver Nuggets,0.43546315554167747
+620,03/26/2021,Minnesota Timberwolves,Houston Rockets,0.5310440821638438
+621,03/26/2021,Orlando Magic,Portland Trail Blazers,0.3937714700982577
+622,03/26/2021,Charlotte Hornets,Miami Heat,0.5968695274088656
+623,03/26/2021,Dallas Mavericks,Indiana Pacers,0.636059230608062
+624,03/26/2021,Utah Jazz,Memphis Grizzlies,0.7626397587619915
+625,03/26/2021,Los Angeles Lakers,Cleveland Cavaliers,0.828589742283982
+626,03/26/2021,Milwaukee Bucks,Boston Celtics,0.7469464524579496
+627,03/26/2021,Golden State Warriors,Atlanta Hawks,0.6006696620740418
+628,03/27/2021,Minnesota Timberwolves,Houston Rockets,0.5397952492808518
+629,03/27/2021,Washington Wizards,Detroit Pistons,0.5876195414723409
+630,03/27/2021,Milwaukee Bucks,New York Knicks,0.7351509108761504
+631,03/27/2021,San Antonio Spurs,Chicago Bulls,0.541201314475567
+632,03/27/2021,Utah Jazz,Memphis Grizzlies,0.7649302006430525
+633,03/27/2021,New Orleans Pelicans,Dallas Mavericks,0.5094149418411372
+634,03/27/2021,Oklahoma City Thunder,Boston Celtics,0.47324900125239705
+635,03/27/2021,LA Clippers,Philadelphia 76ers,0.573200162880391
+636,03/27/2021,Sacramento Kings,Cleveland Cavaliers,0.6648352808636111
+637,03/28/2021,Toronto Raptors,Portland Trail Blazers,0.5703550627872453
+638,03/28/2021,Denver Nuggets,Atlanta Hawks,0.679858252313512
+639,03/28/2021,Los Angeles Lakers,Orlando Magic,0.8482358741959388
+640,03/28/2021,Charlotte Hornets,Phoenix Suns,0.42505607593414296
+641,03/29/2021,Washington Wizards,Indiana Pacers,0.4762567310838591
+642,03/29/2021,Brooklyn Nets,Minnesota Timberwolves,0.8497521044254933
+643,03/29/2021,New York Knicks,Miami Heat,0.5973447538694984
+644,03/29/2021,Boston Celtics,New Orleans Pelicans,0.6287448059023775
+645,03/29/2021,Oklahoma City Thunder,Dallas Mavericks,0.4446723525744897
+646,03/29/2021,San Antonio Spurs,Sacramento Kings,0.6374208354598373
+647,03/29/2021,LA Clippers,Milwaukee Bucks,0.5813971961739071
+648,03/29/2021,Golden State Warriors,Chicago Bulls,0.6056631852726708
+649,03/29/2021,Utah Jazz,Cleveland Cavaliers,0.8717781441295896
+650,03/29/2021,Houston Rockets,Memphis Grizzlies,0.44149232594467136
+651,03/29/2021,Detroit Pistons,Toronto Raptors,0.4766584279177837
+652,03/30/2021,Washington Wizards,Charlotte Hornets,0.4810727507304517
+653,03/30/2021,Denver Nuggets,Philadelphia 76ers,0.5536948918460028
+654,03/30/2021,LA Clippers,Orlando Magic,0.8587741003544979
+655,03/30/2021,Phoenix Suns,Atlanta Hawks,0.7372906619073363
+656,03/31/2021,Minnesota Timberwolves,New York Knicks,0.3680878735994132
+657,03/31/2021,Indiana Pacers,Miami Heat,0.5859628186202113
+658,03/31/2021,Brooklyn Nets,Houston Rockets,0.8154988982306304
+659,03/31/2021,Boston Celtics,Dallas Mavericks,0.5549445663152112
+660,03/31/2021,Memphis Grizzlies,Utah Jazz,0.35756787208423896
+661,03/31/2021,Detroit Pistons,Portland Trail Blazers,0.4683140050575773
+662,03/31/2021,Oklahoma City Thunder,Toronto Raptors,0.4895566030487263
+663,03/31/2021,San Antonio Spurs,Sacramento Kings,0.6160903426037992
+664,03/31/2021,Phoenix Suns,Chicago Bulls,0.7508937675610263
+665,03/31/2021,Los Angeles Lakers,Milwaukee Bucks,0.5816248438261341
+666,04/01/2021,Cleveland Cavaliers,Philadelphia 76ers,0.26703933694842275
+667,04/01/2021,Brooklyn Nets,Charlotte Hornets,0.6924993764028178
+668,04/01/2021,Miami Heat,Golden State Warriors,0.5649371455551335
+669,04/01/2021,New Orleans Pelicans,Orlando Magic,0.7299626902128449
+670,04/01/2021,San Antonio Spurs,Atlanta Hawks,0.5597059638548113
+671,04/01/2021,LA Clippers,Denver Nuggets,0.6117327410598591
+672,04/01/2021,Detroit Pistons,Washington Wizards,0.565261654348099
+673,04/02/2021,Toronto Raptors,Golden State Warriors,0.5342882041003647
+674,04/02/2021,Boston Celtics,Houston Rockets,0.7278360361647216
+675,04/02/2021,New York Knicks,Dallas Mavericks,0.5373560207214556
+676,04/02/2021,Memphis Grizzlies,Minnesota Timberwolves,0.7643980194820936
+677,04/02/2021,Indiana Pacers,Charlotte Hornets,0.5747058524365538
+678,04/02/2021,New Orleans Pelicans,Atlanta Hawks,0.5530039929375783
+679,04/02/2021,Utah Jazz,Chicago Bulls,0.7923200720968605
+680,04/02/2021,Phoenix Suns,Oklahoma City Thunder,0.8211813050731334
+681,04/02/2021,Sacramento Kings,Los Angeles Lakers,0.3751134348470603
+682,04/02/2021,Portland Trail Blazers,Milwaukee Bucks,0.44539664325703987
+683,04/03/2021,Washington Wizards,Dallas Mavericks,0.426368241962321
+684,04/03/2021,Detroit Pistons,New York Knicks,0.49545659330943587
+685,04/03/2021,Miami Heat,Cleveland Cavaliers,0.7587388056567445
+686,04/03/2021,Portland Trail Blazers,Oklahoma City Thunder,0.7043985776740758
+687,04/03/2021,Philadelphia 76ers,Minnesota Timberwolves,0.8578279126769293
+688,04/03/2021,Utah Jazz,Orlando Magic,0.8794717744615016
+689,04/03/2021,San Antonio Spurs,Indiana Pacers,0.5616541102830618
+690,04/03/2021,Sacramento Kings,Milwaukee Bucks,0.34507032501894724
+691,04/04/2021,Denver Nuggets,Orlando Magic,0.8361079383274844
+692,04/04/2021,Chicago Bulls,Brooklyn Nets,0.42390439101945965
+693,04/04/2021,LA Clippers,Los Angeles Lakers,0.5888079972081433
+694,04/04/2021,Boston Celtics,Charlotte Hornets,0.5813391607725593
+695,04/04/2021,Philadelphia 76ers,Memphis Grizzlies,0.7198791086123818
+696,04/04/2021,Atlanta Hawks,Golden State Warriors,0.5974409285431149
+697,04/04/2021,Houston Rockets,New Orleans Pelicans,0.4683619955141251
+698,04/05/2021,Dallas Mavericks,Utah Jazz,0.4022753007891823
+699,04/05/2021,Brooklyn Nets,New York Knicks,0.6952025841372891
+700,04/05/2021,Oklahoma City Thunder,Detroit Pistons,0.5607237617079455
+701,04/05/2021,San Antonio Spurs,Cleveland Cavaliers,0.721891638837989
+702,04/05/2021,Minnesota Timberwolves,Sacramento Kings,0.46159506811548107
+703,04/05/2021,Toronto Raptors,Washington Wizards,0.6837910966842439
+704,04/05/2021,Houston Rockets,Phoenix Suns,0.2561225093558842
+705,04/06/2021,Indiana Pacers,Chicago Bulls,0.5981538461069807
+706,04/06/2021,Atlanta Hawks,New Orleans Pelicans,0.6376878116422997
+707,04/06/2021,Boston Celtics,Philadelphia 76ers,0.46371261075498016
+708,04/06/2021,Toronto Raptors,Los Angeles Lakers,0.4484194753597234
+709,04/06/2021,Miami Heat,Memphis Grizzlies,0.5928113643444619
+710,04/06/2021,Denver Nuggets,Detroit Pistons,0.784513930908959
+711,04/06/2021,LA Clippers,Portland Trail Blazers,0.7045230648045575
+712,04/06/2021,Golden State Warriors,Milwaukee Bucks,0.42041098786013315
+713,04/07/2021,Orlando Magic,Washington Wizards,0.5030936287134311
+714,04/07/2021,Indiana Pacers,Minnesota Timberwolves,0.7515707660555492
+715,04/07/2021,Brooklyn Nets,New Orleans Pelicans,0.7391399510141934
+716,04/07/2021,Oklahoma City Thunder,Charlotte Hornets,0.4351389766204962
+717,04/07/2021,Houston Rockets,Dallas Mavericks,0.366326988686561
+718,04/07/2021,Boston Celtics,New York Knicks,0.598108452308988
+719,04/07/2021,Atlanta Hawks,Memphis Grizzlies,0.5944108956611753
+720,04/07/2021,Denver Nuggets,San Antonio Spurs,0.7495513842103112
+721,04/07/2021,Phoenix Suns,Utah Jazz,0.5470129967121974
+722,04/08/2021,Toronto Raptors,Chicago Bulls,0.5825662129387482
+723,04/08/2021,Oklahoma City Thunder,Cleveland Cavaliers,0.6096214404385625
+724,04/08/2021,Miami Heat,Los Angeles Lakers,0.4632210173093735
+725,04/08/2021,Dallas Mavericks,Milwaukee Bucks,0.4840547817469894
+726,04/08/2021,Utah Jazz,Portland Trail Blazers,0.7665445495827816
+727,04/08/2021,Sacramento Kings,Detroit Pistons,0.604556326602435
+728,04/08/2021,LA Clippers,Phoenix Suns,0.550666246429983
+729,04/09/2021,Orlando Magic,Indiana Pacers,0.3837343205658512
+730,04/09/2021,Atlanta Hawks,Chicago Bulls,0.6038494332337364
+731,04/09/2021,Boston Celtics,Minnesota Timberwolves,0.7793740870511398
+732,04/09/2021,New York Knicks,Memphis Grizzlies,0.5579819404276678
+733,04/09/2021,New Orleans Pelicans,Philadelphia 76ers,0.3831208229969187
+734,04/09/2021,Milwaukee Bucks,Charlotte Hornets,0.7099598330964867
+735,04/09/2021,Denver Nuggets,San Antonio Spurs,0.7582912306776828
+736,04/09/2021,LA Clippers,Houston Rockets,0.8361851526238163
+737,04/09/2021,Golden State Warriors,Washington Wizards,0.6841905623100751
+738,04/10/2021,Cleveland Cavaliers,Toronto Raptors,0.43623973451582065
+739,04/10/2021,Brooklyn Nets,Los Angeles Lakers,0.5985552795285104
+740,04/10/2021,Oklahoma City Thunder,Philadelphia 76ers,0.2924605464218264
+741,04/10/2021,Utah Jazz,Sacramento Kings,0.8374932476364673
+742,04/10/2021,Phoenix Suns,Washington Wizards,0.8183984741984015
+743,04/10/2021,Portland Trail Blazers,Detroit Pistons,0.6813189309095842
+744,04/10/2021,Golden State Warriors,Houston Rockets,0.7251160387300135
+745,04/11/2021,Charlotte Hornets,Atlanta Hawks,0.5717383794149611
+746,04/11/2021,Denver Nuggets,Boston Celtics,0.690148804022604
+747,04/11/2021,Orlando Magic,Milwaukee Bucks,0.26223168683141707
+748,04/11/2021,Cleveland Cavaliers,New Orleans Pelicans,0.4638270693779961
+749,04/11/2021,Memphis Grizzlies,Indiana Pacers,0.6085905010959783
+750,04/11/2021,Dallas Mavericks,San Antonio Spurs,0.6942280430582546
+751,04/11/2021,Minnesota Timberwolves,Chicago Bulls,0.3899467819595412
+752,04/11/2021,New York Knicks,Toronto Raptors,0.5934411062570268
+753,04/11/2021,Portland Trail Blazers,Miami Heat,0.5768846240595267
+754,04/11/2021,LA Clippers,Detroit Pistons,0.8098047612773922
+755,04/12/2021,New York Knicks,Los Angeles Lakers,0.4546029141886354
+756,04/12/2021,Dallas Mavericks,Philadelphia 76ers,0.49331251366517687
+757,04/12/2021,Orlando Magic,San Antonio Spurs,0.41898582249000044
+758,04/12/2021,Memphis Grizzlies,Chicago Bulls,0.6066215939883609
+759,04/12/2021,New Orleans Pelicans,Sacramento Kings,0.6377302361700856
+760,04/12/2021,Utah Jazz,Washington Wizards,0.8447285793542302
+761,04/12/2021,Golden State Warriors,Denver Nuggets,0.4552069347630074
+762,04/12/2021,Phoenix Suns,Houston Rockets,0.8550181564490066
+763,04/13/2021,Phoenix Suns,Miami Heat,0.7342755075965047
+764,04/13/2021,Portland Trail Blazers,Boston Celtics,0.5533208116307969
+765,04/13/2021,Minnesota Timberwolves,Brooklyn Nets,0.27124756863331756
+766,04/13/2021,Toronto Raptors,Atlanta Hawks,0.5460580046993728
+767,04/13/2021,Indiana Pacers,LA Clippers,0.4123603085509255
+768,04/13/2021,Charlotte Hornets,Los Angeles Lakers,0.4637146697520952
+769,04/13/2021,Utah Jazz,Oklahoma City Thunder,0.8715588159812144
+770,04/14/2021,Philadelphia 76ers,Brooklyn Nets,0.5939293184073812
+771,04/14/2021,New Orleans Pelicans,New York Knicks,0.5340759971284778
+772,04/14/2021,Chicago Bulls,Orlando Magic,0.7649672378271872
+773,04/14/2021,Detroit Pistons,LA Clippers,0.30883835702510015
+774,04/14/2021,Oklahoma City Thunder,Golden State Warriors,0.4043896534551014
+775,04/14/2021,Minnesota Timberwolves,Milwaukee Bucks,0.25677316067209877
+776,04/14/2021,Charlotte Hornets,Cleveland Cavaliers,0.7380736064347938
+777,04/14/2021,Houston Rockets,Indiana Pacers,0.42545452625182684
+778,04/14/2021,Denver Nuggets,Miami Heat,0.6851779982294757
+779,04/14/2021,Sacramento Kings,Washington Wizards,0.5873138103743263
+780,04/14/2021,Memphis Grizzlies,Dallas Mavericks,0.5592408312349672
+781,04/14/2021,Toronto Raptors,San Antonio Spurs,0.6141586541291258
+782,04/15/2021,Cleveland Cavaliers,Golden State Warriors,0.3999672452877489
+783,04/15/2021,Phoenix Suns,Sacramento Kings,0.827251279998504
+784,04/15/2021,Los Angeles Lakers,Boston Celtics,0.6719100556849927
+785,04/15/2021,Atlanta Hawks,Milwaukee Bucks,0.4628592923684419
+786,04/16/2021,Utah Jazz,Indiana Pacers,0.7724887343849397
+787,04/16/2021,Philadelphia 76ers,LA Clippers,0.5636618172185494
+788,04/16/2021,Detroit Pistons,Oklahoma City Thunder,0.6529235503765832
+789,04/16/2021,Washington Wizards,New Orleans Pelicans,0.5298078601699568
+790,04/16/2021,Brooklyn Nets,Charlotte Hornets,0.7095713808565697
+791,04/16/2021,Toronto Raptors,Orlando Magic,0.7646435167846398
+792,04/16/2021,Chicago Bulls,Memphis Grizzlies,0.5474590843105445
+793,04/16/2021,Minnesota Timberwolves,Miami Heat,0.3691728211691245
+794,04/16/2021,Houston Rockets,Denver Nuggets,0.29917792892680717
+795,04/16/2021,San Antonio Spurs,Portland Trail Blazers,0.5362394280285064
+796,04/16/2021,Dallas Mavericks,New York Knicks,0.6099968135376608
+797,04/17/2021,Los Angeles Lakers,Utah Jazz,0.4849537096966558
+798,04/17/2021,Chicago Bulls,Cleveland Cavaliers,0.7072160930183563
+799,04/17/2021,Washington Wizards,Detroit Pistons,0.5970592933804428
+800,04/17/2021,Boston Celtics,Golden State Warriors,0.5919836130554605
+801,04/17/2021,Milwaukee Bucks,Memphis Grizzlies,0.7059610742460798
+802,04/17/2021,Phoenix Suns,San Antonio Spurs,0.7950939967372546
+803,04/18/2021,Atlanta Hawks,Indiana Pacers,0.6148851496762909
+804,04/18/2021,New York Knicks,New Orleans Pelicans,0.6492375461992723
+805,04/18/2021,Miami Heat,Brooklyn Nets,0.44530036515529053
+806,04/18/2021,Charlotte Hornets,Portland Trail Blazers,0.5721974610325768
+807,04/18/2021,Orlando Magic,Houston Rockets,0.5402948760421517
+808,04/18/2021,Toronto Raptors,Oklahoma City Thunder,0.7471155633870264
+809,04/18/2021,Dallas Mavericks,Sacramento Kings,0.7160244060668806
+810,04/18/2021,LA Clippers,Minnesota Timberwolves,0.8644033851351829
+811,04/19/2021,Boston Celtics,Chicago Bulls,0.6500368317158277
+812,04/19/2021,Detroit Pistons,Cleveland Cavaliers,0.6396936051110578
+813,04/19/2021,Miami Heat,Houston Rockets,0.7396936296877288
+814,04/19/2021,Philadelphia 76ers,Golden State Warriors,0.6993376860631221
+815,04/19/2021,Washington Wizards,Oklahoma City Thunder,0.6818817657386275
+816,04/19/2021,Indiana Pacers,San Antonio Spurs,0.6116983615740563
+817,04/19/2021,Milwaukee Bucks,Phoenix Suns,0.5427396996607191
+818,04/19/2021,Denver Nuggets,Memphis Grizzlies,0.6880325061885602
+819,04/19/2021,Los Angeles Lakers,Utah Jazz,0.4957915304126551
+820,04/20/2021,New York Knicks,Charlotte Hornets,0.615557649177978
+821,04/20/2021,Atlanta Hawks,Orlando Magic,0.7957439378173103
+822,04/20/2021,Sacramento Kings,Minnesota Timberwolves,0.6859999111231647
+823,04/20/2021,New Orleans Pelicans,Brooklyn Nets,0.39494344403052106
+824,04/20/2021,Portland Trail Blazers,LA Clippers,0.4035548254191929
+825,04/21/2021,Toronto Raptors,Brooklyn Nets,0.44308839556895785
+826,04/21/2021,Indiana Pacers,Oklahoma City Thunder,0.7349025502987955
+827,04/21/2021,Cleveland Cavaliers,Chicago Bulls,0.4334015929385189
+828,04/21/2021,Sacramento Kings,Minnesota Timberwolves,0.6714686694549828
+829,04/21/2021,Philadelphia 76ers,Phoenix Suns,0.5429543868184382
+830,04/21/2021,Washington Wizards,Golden State Warriors,0.4740440199715591
+831,04/21/2021,Houston Rockets,Utah Jazz,0.22129881052405811
+832,04/21/2021,New York Knicks,Atlanta Hawks,0.582184028850765
+833,04/21/2021,San Antonio Spurs,Miami Heat,0.5364292739070204
+834,04/21/2021,Dallas Mavericks,Detroit Pistons,0.707652041437683
+835,04/21/2021,Portland Trail Blazers,Denver Nuggets,0.4352326924776692
+836,04/21/2021,LA Clippers,Memphis Grizzlies,0.7216962997395742
+837,04/22/2021,Dallas Mavericks,Los Angeles Lakers,0.4989692550176374
+838,04/22/2021,Milwaukee Bucks,Philadelphia 76ers,0.5825363697884386
+839,04/22/2021,Orlando Magic,New Orleans Pelicans,0.41029662110490367
+840,04/22/2021,Boston Celtics,Phoenix Suns,0.43749236744897935
+841,04/22/2021,Chicago Bulls,Charlotte Hornets,0.5699953279114957
+842,04/22/2021,San Antonio Spurs,Detroit Pistons,0.6482057926361801
+843,04/23/2021,Portland Trail Blazers,Memphis Grizzlies,0.5559712615209833
+844,04/23/2021,Atlanta Hawks,Miami Heat,0.5914447806763076
+845,04/23/2021,Golden State Warriors,Denver Nuggets,0.47679461695364844
+846,04/23/2021,Brooklyn Nets,Boston Celtics,0.6616232713440311
+847,04/23/2021,Houston Rockets,LA Clippers,0.24451614161150187
+848,04/23/2021,Oklahoma City Thunder,Washington Wizards,0.4605702600985807
+849,04/23/2021,Charlotte Hornets,Cleveland Cavaliers,0.7128016546701101
+850,04/24/2021,New York Knicks,Toronto Raptors,0.6144944018917972
+851,04/24/2021,Dallas Mavericks,Los Angeles Lakers,0.5091341896265312
+852,04/24/2021,Utah Jazz,Minnesota Timberwolves,0.887738105678801
+853,04/24/2021,Milwaukee Bucks,Philadelphia 76ers,0.5926030749379054
+854,04/24/2021,Indiana Pacers,Detroit Pistons,0.6749647441957359
+855,04/24/2021,Miami Heat,Chicago Bulls,0.6164718472154174
+856,04/24/2021,New Orleans Pelicans,San Antonio Spurs,0.5772709029247974
+857,04/24/2021,Denver Nuggets,Houston Rockets,0.8335948573716618
+858,04/25/2021,Atlanta Hawks,Milwaukee Bucks,0.46411762523306266
+859,04/25/2021,Orlando Magic,Indiana Pacers,0.35961258730442003
+860,04/25/2021,Golden State Warriors,Sacramento Kings,0.7126533109754617
+861,04/25/2021,Brooklyn Nets,Phoenix Suns,0.5385709591528823
+862,04/25/2021,Charlotte Hornets,Boston Celtics,0.5256519721007817
+863,04/25/2021,Portland Trail Blazers,Memphis Grizzlies,0.5497233765654105
+864,04/25/2021,Washington Wizards,Cleveland Cavaliers,0.6820120409531911
+865,04/26/2021,Detroit Pistons,Atlanta Hawks,0.4230459270324521
+866,04/26/2021,Orlando Magic,Los Angeles Lakers,0.25143443680112454
+867,04/26/2021,Washington Wizards,San Antonio Spurs,0.5585753936797688
+868,04/26/2021,Toronto Raptors,Cleveland Cavaliers,0.731165411590561
+869,04/26/2021,New York Knicks,Phoenix Suns,0.4574682582284831
+870,04/26/2021,Miami Heat,Chicago Bulls,0.6223443447980567
+871,04/26/2021,Minnesota Timberwolves,Utah Jazz,0.2057830999916438
+872,04/26/2021,New Orleans Pelicans,LA Clippers,0.3624645944598649
+873,04/26/2021,Denver Nuggets,Memphis Grizzlies,0.6878694472680074
+874,04/26/2021,Sacramento Kings,Dallas Mavericks,0.4372579321733113
+875,04/26/2021,Philadelphia 76ers,Oklahoma City Thunder,0.8367721348873226
+876,04/27/2021,Indiana Pacers,Portland Trail Blazers,0.599837147422864
+877,04/27/2021,Charlotte Hornets,Milwaukee Bucks,0.4265745541269809
+878,04/27/2021,Boston Celtics,Oklahoma City Thunder,0.7879578290567453
+879,04/27/2021,Toronto Raptors,Brooklyn Nets,0.4545313342669551
+880,04/27/2021,Houston Rockets,Minnesota Timberwolves,0.5834520152974392
+881,04/27/2021,Golden State Warriors,Dallas Mavericks,0.5909190593152943
+882,04/28/2021,Cleveland Cavaliers,Orlando Magic,0.6615488729066681
+883,04/28/2021,Philadelphia 76ers,Atlanta Hawks,0.6809158951188584
+884,04/28/2021,New York Knicks,Chicago Bulls,0.6387499973929847
+885,04/28/2021,Boston Celtics,Charlotte Hornets,0.6229607472151998
+886,04/28/2021,Washington Wizards,Los Angeles Lakers,0.4154164137314576
+887,04/28/2021,Miami Heat,San Antonio Spurs,0.6246370670676354
+888,04/28/2021,Memphis Grizzlies,Portland Trail Blazers,0.6129752395052789
+889,04/28/2021,Denver Nuggets,New Orleans Pelicans,0.7429529125264069
+890,04/28/2021,Phoenix Suns,LA Clippers,0.589840613292025
+891,04/28/2021,Sacramento Kings,Utah Jazz,0.28370033585295323
+892,04/29/2021,Denver Nuggets,Toronto Raptors,0.7165347210389301
+893,04/29/2021,Indiana Pacers,Brooklyn Nets,0.42881343240708103
+894,04/29/2021,Detroit Pistons,Dallas Mavericks,0.41885797205748193
+895,04/29/2021,Houston Rockets,Milwaukee Bucks,0.25914705074472577
+896,04/29/2021,Minnesota Timberwolves,Golden State Warriors,0.3689489668659333
+897,04/29/2021,Oklahoma City Thunder,New Orleans Pelicans,0.42271390140371323
+898,04/30/2021,Philadelphia 76ers,Atlanta Hawks,0.706679321950049
+899,04/30/2021,Cleveland Cavaliers,Washington Wizards,0.4655318386989229
+900,04/30/2021,Brooklyn Nets,Portland Trail Blazers,0.7217651351860087
+901,04/30/2021,Memphis Grizzlies,Orlando Magic,0.7941827457076387
+902,04/30/2021,Boston Celtics,San Antonio Spurs,0.6458175583202458
+903,04/30/2021,Chicago Bulls,Milwaukee Bucks,0.4134312379757255
+904,04/30/2021,Phoenix Suns,Utah Jazz,0.5315437060591913
+905,04/30/2021,Los Angeles Lakers,Sacramento Kings,0.7690372073291671
+906,05/01/2021,Charlotte Hornets,Detroit Pistons,0.6767780052119965
+907,05/01/2021,Houston Rockets,Golden State Warriors,0.3741990015834252
+908,05/01/2021,Cleveland Cavaliers,Miami Heat,0.3870745302329776
+909,05/01/2021,Oklahoma City Thunder,Indiana Pacers,0.4060149298076138
+910,05/01/2021,Atlanta Hawks,Chicago Bulls,0.6188713127902088
+911,05/01/2021,Orlando Magic,Memphis Grizzlies,0.33151310541717605
+912,05/01/2021,Minnesota Timberwolves,New Orleans Pelicans,0.437881302291889
+913,05/01/2021,Dallas Mavericks,Washington Wizards,0.676650209998912
+914,05/01/2021,Utah Jazz,Toronto Raptors,0.7758631615307864
+915,05/01/2021,LA Clippers,Denver Nuggets,0.6011216076624945
+916,05/02/2021,Boston Celtics,Portland Trail Blazers,0.6169603011954654
+917,05/02/2021,Oklahoma City Thunder,Phoenix Suns,0.21960756348326482
+918,05/02/2021,Charlotte Hornets,Miami Heat,0.5491393363675364
+919,05/02/2021,Milwaukee Bucks,Brooklyn Nets,0.5977258440173848
+920,05/02/2021,Dallas Mavericks,Sacramento Kings,0.7303177878586444
+921,05/02/2021,San Antonio Spurs,Philadelphia 76ers,0.4008514302371393
+922,05/02/2021,Los Angeles Lakers,Toronto Raptors,0.6846388020974261
+923,05/02/2021,Houston Rockets,New York Knicks,0.35025185282036414
+924,05/03/2021,Detroit Pistons,Orlando Magic,0.6947252821177271
+925,05/03/2021,New Orleans Pelicans,Golden State Warriors,0.5186240097904709
+926,05/03/2021,Atlanta Hawks,Portland Trail Blazers,0.5909070050002612
+927,05/03/2021,Washington Wizards,Indiana Pacers,0.5393234100658919
+928,05/03/2021,Chicago Bulls,Philadelphia 76ers,0.40039324531812803
+929,05/03/2021,Memphis Grizzlies,New York Knicks,0.5313037683381607
+930,05/03/2021,Utah Jazz,San Antonio Spurs,0.7986088121840683
+931,05/03/2021,Los Angeles Lakers,Denver Nuggets,0.5318522795299307
+932,05/04/2021,Cleveland Cavaliers,Phoenix Suns,0.24313089175940483
+933,05/04/2021,Detroit Pistons,Charlotte Hornets,0.4759138349115344
+934,05/04/2021,Milwaukee Bucks,Brooklyn Nets,0.6039109939242027
+935,05/04/2021,Miami Heat,Dallas Mavericks,0.5646861099787911
+936,05/04/2021,New Orleans Pelicans,Golden State Warriors,0.5066193114587186
+937,05/04/2021,Oklahoma City Thunder,Sacramento Kings,0.4619557808725958
+938,05/04/2021,LA Clippers,Toronto Raptors,0.7288330651002402
+939,05/05/2021,Cleveland Cavaliers,Portland Trail Blazers,0.40043040734266633
+940,05/05/2021,Atlanta Hawks,Phoenix Suns,0.41380121088606997
+941,05/05/2021,Indiana Pacers,Sacramento Kings,0.665389831674121
+942,05/05/2021,Minnesota Timberwolves,Memphis Grizzlies,0.40922374163005265
+943,05/05/2021,Orlando Magic,Boston Celtics,0.32795579211273346
+944,05/05/2021,Houston Rockets,Philadelphia 76ers,0.2550237175098451
+945,05/05/2021,Milwaukee Bucks,Washington Wizards,0.748462468044962
+946,05/05/2021,Utah Jazz,San Antonio Spurs,0.8025201682727401
+947,05/05/2021,Denver Nuggets,New York Knicks,0.65847096660242
+948,05/06/2021,Charlotte Hornets,Chicago Bulls,0.6086940381887447
+949,05/06/2021,Dallas Mavericks,Brooklyn Nets,0.5163452403732811
+950,05/06/2021,Indiana Pacers,Atlanta Hawks,0.545447234806163
+951,05/06/2021,Detroit Pistons,Memphis Grizzlies,0.4580008247677054
+952,05/06/2021,Toronto Raptors,Washington Wizards,0.6150766284706319
+953,05/06/2021,Golden State Warriors,Oklahoma City Thunder,0.800670033724955
+954,05/06/2021,LA Clippers,Los Angeles Lakers,0.6410966549810349
+955,05/07/2021,Philadelphia 76ers,New Orleans Pelicans,0.7515336972990272
+956,05/07/2021,Charlotte Hornets,Orlando Magic,0.7726742076052413
+957,05/07/2021,Chicago Bulls,Boston Celtics,0.5146826211606041
+958,05/07/2021,Milwaukee Bucks,Houston Rockets,0.8513426044558297
+959,05/07/2021,Miami Heat,Minnesota Timberwolves,0.7591802077716028
+960,05/07/2021,Dallas Mavericks,Cleveland Cavaliers,0.7949081686522443
+961,05/07/2021,Utah Jazz,Denver Nuggets,0.6624724497120948
+962,05/07/2021,Sacramento Kings,San Antonio Spurs,0.54823401188565
+963,05/07/2021,Phoenix Suns,New York Knicks,0.6892123176962973
+964,05/07/2021,Portland Trail Blazers,Los Angeles Lakers,0.5079010216330033
+965,05/08/2021,Portland Trail Blazers,San Antonio Spurs,0.639713092826657
+966,05/08/2021,Utah Jazz,Houston Rockets,0.8874627581544691
+967,05/08/2021,Golden State Warriors,Oklahoma City Thunder,0.8082165075480399
+968,05/08/2021,Denver Nuggets,Brooklyn Nets,0.6065806952390758
+969,05/08/2021,Philadelphia 76ers,Detroit Pistons,0.8117079714163857
+970,05/08/2021,Indiana Pacers,Washington Wizards,0.6164256574851339
+971,05/08/2021,Toronto Raptors,Memphis Grizzlies,0.5769433102795131
+972,05/09/2021,Charlotte Hornets,New Orleans Pelicans,0.5998510060451158
+973,05/09/2021,Sacramento Kings,Oklahoma City Thunder,0.711104060115162
+974,05/09/2021,Los Angeles Lakers,Phoenix Suns,0.49359709970432114
+975,05/09/2021,Boston Celtics,Miami Heat,0.5855921103953294
+976,05/09/2021,Detroit Pistons,Chicago Bulls,0.48997243167257015
+977,05/09/2021,LA Clippers,New York Knicks,0.6915411077264321
+978,05/09/2021,Cleveland Cavaliers,Dallas Mavericks,0.330440988469905
+979,05/09/2021,Orlando Magic,Minnesota Timberwolves,0.5228394898324173
+980,05/10/2021,Memphis Grizzlies,New Orleans Pelicans,0.6171872317214375
+981,05/10/2021,San Antonio Spurs,Milwaukee Bucks,0.38038200630502306
+982,05/10/2021,Portland Trail Blazers,Houston Rockets,0.7695648185484626
+983,05/10/2021,Golden State Warriors,Utah Jazz,0.4176690208354093
+984,05/10/2021,Cleveland Cavaliers,Indiana Pacers,0.3875107579946597
+985,05/10/2021,Atlanta Hawks,Washington Wizards,0.6381008601585659
+986,05/11/2021,Charlotte Hornets,Denver Nuggets,0.43238768818717244
+987,05/11/2021,Detroit Pistons,Minnesota Timberwolves,0.6291416205581684
+988,05/11/2021,Toronto Raptors,LA Clippers,0.40931182720093867
+989,05/11/2021,Boston Celtics,Miami Heat,0.5788958535221225
+990,05/11/2021,Indiana Pacers,Philadelphia 76ers,0.41589424020467247
+991,05/11/2021,Memphis Grizzlies,Dallas Mavericks,0.5161041246431214
+992,05/11/2021,Chicago Bulls,Brooklyn Nets,0.44875291551713076
+993,05/11/2021,Milwaukee Bucks,Orlando Magic,0.8707072888512906
+994,05/11/2021,Sacramento Kings,Oklahoma City Thunder,0.7245492697552844
+995,05/11/2021,Golden State Warriors,Phoenix Suns,0.4809979548402136
+996,05/11/2021,Los Angeles Lakers,New York Knicks,0.6215892279353242
+997,05/12/2021,Atlanta Hawks,Washington Wizards,0.6413673356687326
+998,05/12/2021,Cleveland Cavaliers,Boston Celtics,0.35582445165831167
+999,05/12/2021,Brooklyn Nets,San Antonio Spurs,0.7314955494572061
+1000,05/12/2021,Dallas Mavericks,New Orleans Pelicans,0.6745299164065538
+1001,05/12/2021,Utah Jazz,Portland Trail Blazers,0.761612058261989
+1002,05/12/2021,Los Angeles Lakers,Houston Rockets,0.8215760983339828
+1003,05/13/2021,Charlotte Hornets,LA Clippers,0.397772516314324
+1004,05/13/2021,Indiana Pacers,Milwaukee Bucks,0.4449154518720311
+1005,05/13/2021,New York Knicks,San Antonio Spurs,0.6791656939621507
+1006,05/13/2021,Miami Heat,Philadelphia 76ers,0.4632443071168103
+1007,05/13/2021,Minnesota Timberwolves,Denver Nuggets,0.30158645763276765
+1008,05/13/2021,Memphis Grizzlies,Sacramento Kings,0.6659453299898555
+1009,05/13/2021,Phoenix Suns,Portland Trail Blazers,0.7123958478866139
+1010,05/13/2021,Chicago Bulls,Toronto Raptors,0.5866405561512475
+1011,05/13/2021,Atlanta Hawks,Orlando Magic,0.811069702435173
+1012,05/14/2021,Washington Wizards,Cleveland Cavaliers,0.7284121677432245
+1013,05/14/2021,Detroit Pistons,Denver Nuggets,0.32960925871186936
+1014,05/14/2021,Philadelphia 76ers,Orlando Magic,0.8793919289999923
+1015,05/14/2021,Oklahoma City Thunder,Utah Jazz,0.1834523285646533
+1016,05/14/2021,Houston Rockets,LA Clippers,0.23908849191166667
+1017,05/14/2021,Memphis Grizzlies,Sacramento Kings,0.6729012073443473
+1018,05/14/2021,Dallas Mavericks,Toronto Raptors,0.6696753837615116
+1019,05/14/2021,Golden State Warriors,New Orleans Pelicans,0.6849505447666444
+1020,05/15/2021,Brooklyn Nets,Chicago Bulls,0.7103833903045362
+1021,05/15/2021,New York Knicks,Charlotte Hornets,0.6615380274888221
+1022,05/15/2021,Indiana Pacers,Los Angeles Lakers,0.4886390198144079
+1023,05/15/2021,San Antonio Spurs,Phoenix Suns,0.3718047692716328
+1024,05/15/2021,Minnesota Timberwolves,Boston Celtics,0.4084136102514293
+1025,05/15/2021,Milwaukee Bucks,Miami Heat,0.6774641586469159
